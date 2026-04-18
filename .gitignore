@@ -1,0 +1,68 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# --- spaCy / model caches ---
+# Do NOT commit downloaded transformer weights (hundreds of MB)
+*.whl
+spacy_models/
+*.bin
+en_core_web_trf*/
+
+# --- Editors / IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS cruft ---
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- Logs and scratch ---
+*.log
+*.tmp
+scratch/
+tmp/
+
+# --- Large intermediate artifacts (regenerable) ---
+# Keep final processed CSVs and figures; exclude huge intermediate dumps
+data/processed/*.pkl
+data/processed/*.parquet
+data/cache/
+
+# --- Secrets (just in case) ---
+.env
+*.key
+credentials.json
+
+# --- Keep these (explicit overrides) ---
+!data/raw/pg1342.txt
+!data/processed/.gitkeep
+!figures/.gitkeep

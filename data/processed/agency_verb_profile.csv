@@ -1,0 +1,15 @@
+gender,category,agent_count,patient_count,agent_pct,patient_pct,diff_pct
+female,action,165,48,6.44,8.41,-1.97
+female,cognition,239,15,9.33,2.63,6.7
+female,communication,504,94,19.67,16.46,3.21
+female,emotion,27,32,1.05,5.6,-4.55
+female,motion,182,22,7.1,3.85,3.25
+female,other,1147,300,44.77,52.54,-7.77
+female,perception,298,60,11.63,10.51,1.12
+male,action,173,57,9.81,10.34,-0.54
+male,cognition,143,24,8.11,4.36,3.75
+male,communication,305,55,17.29,9.98,7.31
+male,emotion,41,32,2.32,5.81,-3.48
+male,motion,200,16,11.34,2.9,8.43
+male,other,806,301,45.69,54.63,-8.94
+male,perception,96,66,5.44,11.98,-6.54

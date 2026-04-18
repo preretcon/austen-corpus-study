@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Computational Gender Analysis of Pride and Prejudice"
+abstract: >
+  A corpus-linguistic study of how syntactic structures encode character agency
+  and gendered representation across Jane Austen's Pride and Prejudice. The project
+  uses dependency parsing with spaCy's transformer pipeline to quantify agency
+  ratios, verb frames, and adjectival characterization by gender.
+authors:
+  - family-names: "Bakış"
+    given-names: "Servan Gediz"
+    affiliation: "Hacettepe University"
+type: software
+license: MIT
+keywords:
+  - corpus linguistics
+  - computational stylistics
+  - digital humanities
+  - gender analysis
+  - Jane Austen
+  - dependency parsing
+  - spaCy
+date-released: 2026-05-18
+version: "1.0.0"

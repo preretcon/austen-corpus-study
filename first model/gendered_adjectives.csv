@@ -1,0 +1,948 @@
+adjective,head_word,gender,tier,dep_type,example,cop_verb
+single,man,male,role_noun,amod,"﻿ Chapter I.] It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+dear,bennet,male,name,amod,"“My dear Mr. Bennet,” said his lady to him one day, “have you heard that Netherfield Park is let at last?”",
+young,man,male,role_noun,amod,"“Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on",
+single,man,male,role_noun,amod,A single man of large fortune; four or five thousand a year.,
+dear,bennet,male,name,amod,"“My dear Mr. Bennet,” replied his wife, “how can you be so tiresome?",
+other,girl,female,role_noun,amod,"“They have none of them much to recommend them,” replied he: “they are all silly and ignorant like other girls; but Lizzy has something more of quickn",
+many,man,male,role_noun,amod,"“But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.”",
+young,man,male,role_noun,amod,"“But I hope you will get over it, and live to see many young men of four thousand a year come into the neighbourhood.”",
+second,daughter,female,role_noun,amod,"Observing his second daughter employed in trimming a hat, he suddenly addressed her with,--",
+selfish,woman,female,role_noun,amod,"She is a selfish, hypocritical woman, and I have no opinion of her.”",
+hypocritical,woman,female,role_noun,amod,"She is a selfish, hypocritical woman, and I have no opinion of her.”",
+impossible,bennet,male,name,amod,"“Impossible, Mr. Bennet, impossible, when I am not acquainted with him myself; how can you be so teasing?”",
+young,lady,female,role_noun,amod,"For you are a young lady of deep reflection, I know, and read great books, and make extracts.”",
+dear,bennet,male,name,amod,"“How good it was in you, my dear Mr. Bennet!",
+excellent,father,male,role_noun,amod,"“What an excellent father you have, girls,” said she, when the door was shut.",
+young,lady,female,role_noun,amod,"He had entertained hopes of being admitted to a sight of the young ladies, of whose beauty he had heard much; but he saw only the father.",
+young,man,male,role_noun,amod,"And when the party entered the assembly-room, it consisted of only five altogether: Mr. Bingley, his two sisters, the husband of the eldest, and anoth",
+fine,woman,female,role_noun,amod,"His sisters were fine women, with an air of decided fashion.",
+other,lady,female,role_noun,amod,"Mr. Darcy danced only once with Mrs. Hurst and once with Miss Bingley, declined being introduced to any other lady, and spent the rest of the evening ",
+proud,man,male,role_noun,amod,"He was the proudest, most disagreeable man in the world, and everybody hoped that he would never come there again.",
+disagreeable,man,male,role_noun,amod,"He was the proudest, most disagreeable man in the world, and everybody hoped that he would never come there again.",
+many,girl,female,role_noun,amod,"Upon my honour, I never met with so many pleasant girls in my life as I have this evening; and there are several of them, you see, uncommonly pretty.”",
+pleasant,girl,female,role_noun,amod,"Upon my honour, I never met with so many pleasant girls in my life as I have this evening; and there are several of them, you see, uncommonly pretty.”",
+only,girl,female,role_noun,amod,"“_You_ are dancing with the only handsome girl in the room,” said Mr. Darcy, looking at the eldest Miss Bennet.",
+handsome,girl,female,role_noun,amod,"“_You_ are dancing with the only handsome girl in the room,” said Mr. Darcy, looking at the eldest Miss Bennet.",
+eld,bennet,male,name,amod,"“_You_ are dancing with the only handsome girl in the room,” said Mr. Darcy, looking at the eldest Miss Bennet.",
+young,lady,female,role_noun,amod,"[_Copyright 1894 by George Allen._]] “Which do you mean?” and turning round, he looked for a moment at Elizabeth, till, catching her eye, he withdrew ",
+other,man,male,role_noun,amod,"[_Copyright 1894 by George Allen._]] “Which do you mean?” and turning round, he looked for a moment at Elizabeth, till, catching her eye, he withdrew ",
+eld,daughter,female,role_noun,amod,Mrs. Bennet had seen her eldest daughter much admired by the Netherfield party.,
+accomplished,girl,female,role_noun,amod,Mary had heard herself mentioned to Miss Bingley as the most accomplished girl in the neighbourhood; and Catherine and Lydia had been fortunate enough,
+dear,bennet,male,name,amod,"“Oh, my dear Mr. Bennet,” as she entered the room, “we have had a most delightful evening, a most excellent ball.",
+charming,woman,female,role_noun,amod,and his sisters are charming women.,
+disagreeable,man,male,role_noun,amod,"“But I can assure you,” she added, “that Lizzy does not lose much by not suiting _his_ fancy; for he is a most disagreeable, horrid man, not at all wo",
+horrid,man,male,role_noun,amod,"“But I can assure you,” she added, “that Lizzy does not lose much by not suiting _his_ fancy; for he is a most disagreeable, horrid man, not at all wo",
+young,man,male,role_noun,amod,"“He is just what a young-man ought to be,” said she, “sensible, good-humoured, lively; and I never saw such happy manners!",
+young,man,male,role_noun,amod,"“He is also handsome,” replied Elizabeth, “which a young man ought likewise to be if he possibly can.",
+other,woman,female,role_noun,amod,He could not help seeing that you were about five times as pretty as every other woman in the room.,
+pleasing,woman,female,role_noun,amod,"“Certainly not, at first; but they are very pleasing women when you converse with them.",
+fine,lady,female,role_noun,amod,"They were, in fact, very fine ladies; not deficient in good-humour when they were pleased, nor in the power of being agreeable where they chose it; bu",
+deficient,lady,female,role_noun,amod,"They were, in fact, very fine ladies; not deficient in good-humour when they were pleased, nor in the power of being agreeable where they chose it; bu",
+pretty,girl,female,role_noun,amod,Bingley had never met with pleasanter people or prettier girls in his life; everybody had been most kind and attentive to him; there had been no forma,
+sweet,girl,female,role_noun,amod,"Mrs. Hurst and her sister allowed it to be so; but still they admired her and liked her, and pronounced her to be a sweet girl, and one whom they shou",
+sweet,girl,female,role_noun,amod,Miss Bennet was therefore established as a sweet girl; and their brother felt authorized by such commendation to think of her as he chose.,
+sensible,woman,female,role_noun,amod,"The eldest of them, a sensible, intelligent young woman, about twenty-seven, was Elizabeth’s intimate friend.",
+intelligent,woman,female,role_noun,amod,"The eldest of them, a sensible, intelligent young woman, about twenty-seven, was Elizabeth’s intimate friend.",
+young,woman,female,role_noun,amod,"The eldest of them, a sensible, intelligent young woman, about twenty-seven, was Elizabeth’s intimate friend.",
+great,woman,female,role_noun,amod,"Mr. Robinson’s asking him how he liked our Meryton assemblies, and whether he did not think there were a great many pretty women in the room, and _whi",
+many,woman,female,role_noun,amod,"Mr. Robinson’s asking him how he liked our Meryton assemblies, and whether he did not think there were a great many pretty women in the room, and _whi",
+pretty,woman,female,role_noun,amod,"Mr. Robinson’s asking him how he liked our Meryton assemblies, and whether he did not think there were a great many pretty women in the room, and _whi",
+eld,bennet,male,name,amod,"and his answering immediately to the last question, ‘Oh, the eldest Miss Bennet, beyond a doubt: there cannot be two opinions on that point.’”",
+disagreeable,man,male,role_noun,amod,"“I beg you will not put it into Lizzy’s head to be vexed by his ill-treatment, for he is such a disagreeable man that it would be quite a misfortune t",
+young,man,male,role_noun,amod,"One cannot wonder that so very fine a young man, with family, fortune, everything in his favour, should think highly of himself.",
+young,sister,female,role_noun,amod,"Miss Bennet’s pleasing manners grew on the good-will of Mrs. Hurst and Miss Bingley; and though the mother was found to be intolerable, and the younge",
+rich,husband,male,role_noun,amod,"“Your plan is a good one,” replied Elizabeth, “where nothing is in question but the desire of being well married; and if I were determined to get a ri",
+easy,elizabeth,female,name,amod,"Elizabeth, easy and unaffected, had been listened to with much more pleasure, though not playing half so well; and Mary, at the end of a long concerto",
+young,sister,female,role_noun,amod,"Elizabeth, easy and unaffected, had been listened to with much more pleasure, though not playing half so well; and Mary, at the end of a long concerto",
+young,lady,female,role_noun,amod,"Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner.",
+pretty,woman,female,role_noun,amod,I have been meditating on the very great pleasure which a pair of fine eyes in the face of a pretty woman can bestow.”,
+charming,mother,female,role_noun,amod,"You will have a charming mother-in-law, indeed, and of course she will be always at Pemberley with you.”",
+young,lady,female,role_noun,amod,"The village of Longbourn was only one mile from Meryton; a most convenient distance for the young ladies, who were usually tempted thither three or fo",
+silly,girl,female,role_noun,amod,"After listening one morning to their effusions on this subject, Mr. Bennet coolly observed,-- “From all that I can collect by your manner of talking, ",
+young,daughter,female,role_noun,amod,"I had hoped that our sentiments coincided in every particular, but I must so far differ from you as to think our two youngest daughters uncommonly foo",
+dear,bennet,male,name,amod,"“My dear Mr. Bennet, you must not expect such girls to have the sense of their father and mother.",
+such,girl,female,role_noun,amod,"“My dear Mr. Bennet, you must not expect such girls to have the sense of their father and mother.",
+young,lady,female,role_noun,amod,"Elizabeth accepted their company, and the three young ladies set off together.",
+other,lady,female,role_noun,amod,"Elizabeth did not quit her room for a moment, nor were the other ladies often absent; the gentlemen being out, they had in fact nothing to do elsewher",
+indolent,man,male,role_noun,amod,"Miss Bingley was engrossed by Mr. Darcy, her sister scarcely less so; and as for Mr. Hurst, by whom Elizabeth sat, he was an indolent man, who lived o",
+eld,sister,female,role_noun,amod,"Elizabeth was so much caught by what passed, as to leave her very little attention for her book; and, soon laying it wholly aside, she drew near the c",
+young,lady,female,role_noun,amod,"“It is amazing to me,” said Bingley, “how young ladies can have patience to be so very accomplished as they all are.”",
+young,lady,female,role_noun,amod,“All young ladies accomplished!,
+young,lady,female,role_noun,amod,"I scarcely know any one who cannot do all this; and I am sure I never heard a young lady spoken of for the first time, without being informed that she",
+accomplished,woman,female,role_noun,amod,"“Then,” observed Elizabeth, “you must comprehend a great deal in your idea of an accomplished woman.”",
+accomplished,woman,female,role_noun,amod,“I am no longer surprised at your knowing _only_ six accomplished women.,
+many,woman,female,role_noun,amod,"Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered",
+young,lady,female,role_noun,amod,"“Eliza Bennet,” said Miss Bingley, when the door was closed on her, “is one of those young ladies who seek to recommend themselves to the other sex by",
+many,man,male,role_noun,amod,"“Eliza Bennet,” said Miss Bingley, when the door was closed on her, “is one of those young ladies who seek to recommend themselves to the other sex by",
+sick,lady,female,role_noun,amod,"They solaced their wretchedness, however, by duets after supper; while he could find no better relief to his feelings than by giving his housekeeper d",
+young,girl,female,role_noun,amod,[Illustration: M^{rs} Bennet and her two youngest girls [_Copyright 1894 by George Allen._]] CHAPTER IX.,
+elegant,lady,female,role_noun,amod,"[Illustration] Elizabeth passed the chief of the night in her sister’s room, and in the morning had the pleasure of being able to send a tolerable ans",
+young,girl,female,role_noun,amod,"Mrs. Bennet, accompanied by her two youngest girls, reached Netherfield soon after the family breakfast.",
+other,girl,female,role_noun,amod,I often tell my other girls they are nothing to _her_.,
+agreeable,man,male,role_noun,amod,"What an agreeable man Sir William is, Mr. Bingley--is not he?",
+pleasant,woman,female,role_noun,amod,"“She seems a very pleasant young woman,” said Bingley.",
+young,woman,female,role_noun,amod,"“She seems a very pleasant young woman,” said Bingley.",
+young,sister,female,role_noun,amod,"Mr. Bingley was unaffectedly civil in his answer, and forced his younger sister to be civil also, and say what the occasion required.",
+stout,girl,female,role_noun,amod,"Lydia was a stout, well-grown girl of fifteen, with a fine complexion and good-humoured countenance; a favourite with her mother, whose affection had ",
+young,girl,female,role_noun,amod,"“I hope,” said she, as they were walking together in the shrubbery the next day, “you will give your mother-in-law a few hints, when this desirable ev",
+dear,caroline,female,name,amod,"“Much more rational, my dear Caroline, I dare say; but it would not be near so much like a ball.”",
+tired,bingley,male,name,amod,"“Do let us have a little music,” cried Miss Bingley, tired of a conversation in which she had no share.",
+odious,man,male,role_noun,amod,Pray do not talk of that odious man.,
+honoured,father,male,role_noun,amod,"*/ “Dear Sir, “The disagreement subsisting between yourself and my late honoured father always gave me much uneasiness; and, since I have had the misf",
+amiable,daughter,female,role_noun,amod,"I cannot be otherwise than concerned at being the means of injuring your amiable daughters, and beg leave to apologize for it, as well as to assure yo",
+conscientious,man,male,role_noun,amod,"“He seems to be a most conscientious and polite young man, upon my word; and, I doubt not, will prove a valuable acquaintance, especially if Lady Cath",
+young,man,male,role_noun,amod,"“He seems to be a most conscientious and polite young man, upon my word; and, I doubt not, will prove a valuable acquaintance, especially if Lady Cath",
+sensible,man,male,role_noun,amod,"Can he be a sensible man, sir?”",
+tall,man,male,role_noun,amod,"He was a tall, heavy-looking young man of five-and-twenty.",
+young,man,male,role_noun,amod,"He was a tall, heavy-looking young man of five-and-twenty.",
+poor,girl,female,role_noun,amod,"It is a grievous affair to my poor girls, you must confess.",
+young,lady,female,role_noun,amod,But I can assure the young ladies that I come prepared to admire them.,
+other,gentleman,male,role_noun,amod,She had always spoken to him as she would to any other gentleman; she made not the smallest objection to his joining in the society of the neighbourho,
+agreeable,woman,female,role_noun,amod,"“That is all very proper and civil, I am sure,” said Mrs. Bennet, “and I dare say she is a very agreeable woman.",
+great,lady,female,role_noun,amod,It is a pity that great ladies in general are not more like her.,
+only,daughter,female,role_noun,amod,"“She has one only daughter, the heiress of Rosings, and of very extensive property.”",
+many,girl,female,role_noun,amod,"“Ah,” cried Mrs. Bennet, shaking her head, “then she is better off than many girls.",
+young,lady,female,role_noun,amod,And what sort of young lady is she?,
+charming,lady,female,role_noun,amod,"“She is a most charming young lady, indeed.",
+young,lady,female,role_noun,amod,"“She is a most charming young lady, indeed.",
+young,woman,female,role_noun,amod,"Lady Catherine herself says that, in point of true beauty, Miss de Bourgh is far superior to the handsomest of her sex; because there is that in her f",
+charming,daughter,female,role_noun,amod,"I have more than once observed to Lady Catherine, that her charming daughter seemed born to be a duchess; and that the most elevated rank, instead of ",
+eld,sister,female,role_noun,amod,"Lydia was bid by her two eldest sisters to hold her tongue; but Mr. Collins, much offended, laid aside his book, and said,-- “I have often observed ho",
+little,lady,female,role_noun,amod,"Lydia was bid by her two eldest sisters to hold her tongue; but Mr. Collins, much offended, laid aside his book, and said,-- “I have often observed ho",
+young,lady,female,role_noun,amod,"Lydia was bid by her two eldest sisters to hold her tongue; but Mr. Collins, much offended, laid aside his book, and said,-- “I have often observed ho",
+sensible,man,male,role_noun,amod,"[Illustration] Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest par",
+illiterate,father,male,role_noun,amod,"[Illustration] Mr. Collins was not a sensible man, and the deficiency of nature had been but little assisted by education or society; the greatest par",
+young,daughter,female,role_noun,amod,"“As to her _younger_ daughters, she could not take upon her to say--she could not positively answer--but she did not _know_ of any prepossession;--her",
+eld,daughter,female,role_noun,amod,"“As to her _younger_ daughters, she could not take upon her to say--she could not positively answer--but she did not _know_ of any prepossession;--her",
+young,man,male,role_noun,amod,"But the attention of every lady was soon caught by a young man, whom they had never seen before, of most gentlemanlike appearance, walking with an off",
+young,man,male,role_noun,amod,This was exactly as it should be; for the young man wanted only regimentals to make him completely charming.,
+young,lady,female,role_noun,amod,"Mr. Denny and Mr. Wickham walked with the young ladies to the door of Mr. Philips’s house, and then made their bows, in spite of Miss Lydia’s pressing",
+young,lady,female,role_noun,amod,"She received him with her very best politeness, which he returned with as much more, apologizing for his intrusion, without any previous acquaintance ",
+elegant,woman,female,role_noun,amod,"He protested that, except Lady Catherine and her daughter, he had never seen a more elegant woman; for she had not only received him with the utmost c",
+happy,man,male,role_noun,amod,"[_Copyright 1894 by George Allen._]] Mr. Wickham was the happy man towards whom almost every female eye was turned, and Elizabeth was the happy woman ",
+happy,woman,female,role_noun,amod,"[_Copyright 1894 by George Allen._]] Mr. Wickham was the happy man towards whom almost every female eye was turned, and Elizabeth was the happy woman ",
+young,lady,female,role_noun,amod,"With such rivals for the notice of the fair as Mr. Wickham and the officers, Mr. Collins seemed to sink into insignificance; to the young ladies he ce",
+late,darcy,male,name,amod,"His father, Miss Bennet, the late Mr. Darcy, was one of the best men that ever breathed, and the truest friend I ever had; and I can never be in compa",
+good,man,male,role_noun,amod,"His father, Miss Bennet, the late Mr. Darcy, was one of the best men that ever breathed, and the truest friend I ever had; and I can never be in compa",
+disappointed,man,male,role_noun,amod,"I have been a disappointed man, and my spirits will not bear solitude.",
+late,darcy,male,name,amod,“Yes--the late Mr. Darcy bequeathed me the next presentation of the best living in his gift.,
+other,he,male,pronoun,amod,“Some time or other he _will_ be--but it shall not be by _me_.,
+late,darcy,male,name,amod,"Had the late Mr. Darcy liked me less, his son might have borne with me better; but his father’s uncommon attachment to me irritated him, I believe, ve",
+young,man,male,role_noun,amod,"She could have added, “A young man, too, like _you_, whose very countenance may vouch for your being amiable.”",
+late,darcy,male,name,amod,"My_ father began life in the profession which your uncle, Mr. Philips, appears to do so much credit to; but he gave up everything to be of use to the ",
+handsome,girl,female,role_noun,amod,"She is a handsome girl, about fifteen or sixteen, and, I understand, highly accomplished.",
+amiable,man,male,role_noun,amod,"“He is a sweet-tempered, amiable, charming man.",
+charming,man,male,role_noun,amod,"“He is a sweet-tempered, amiable, charming man.",
+different,man,male,role_noun,amod,"Among those who are at all his equals in consequence, he is a very different man from what he is to the less prosperous.",
+present,darcy,male,name,amod,“You know of course that Lady Catherine de Bourgh and Lady Anne Darcy were sisters; consequently that she is aunt to the present Mr. Darcy.”,
+poor,bingley,male,name,amod,"This information made Elizabeth smile, as she thought of poor Miss Bingley.",
+arrogant,woman,female,role_noun,amod,"“Mr. Collins,” said she, “speaks highly both of Lady Catherine and her daughter; but, from some particulars that he has related of her Ladyship, I sus",
+conceited,woman,female,role_noun,amod,"“Mr. Collins,” said she, “speaks highly both of Lady Catherine and her daughter; but, from some particulars that he has related of her Ladyship, I sus",
+young,man,male,role_noun,amod,Jane listened with astonishment and concern: she knew not how to believe that Mr. Darcy could be so unworthy of Mr. Bingley’s regard; and yet it was n,
+dear,jane,female,name,amod,"“Very true, indeed; and now, my dear Jane, what have you got to say in behalf of the interested people who have probably been concerned in the busines",
+young,lady,female,role_noun,amod,"The two young ladies were summoned from the shrubbery, where this conversation passed, by the arrival of some of the very persons of whom they had bee",
+eld,daughter,female,role_noun,amod,"Mrs. Bennet chose to consider it as given in compliment to her eldest daughter, and was particularly flattered by receiving the invitation from Mr. Bi",
+young,man,male,role_noun,amod,"“I am by no means of opinion, I assure you,” said he, “that a ball of this kind, given by a young man of character, to respectable people, can have an",
+worthy,sister,female,role_noun,amod,"she_ was selected from among her sisters as worthy of being the mistress of Hunsford Parsonage, and of assisting to form a quadrille table at Rosings,",
+certain,gentleman,male,role_noun,amod,"But in an instant arose the dreadful suspicion of his being purposely omitted, for Mr. Darcy’s pleasure, in the Bingleys’ invitation to the officers; ",
+awkward,collins,male,name,amod,"Mr. Collins, awkward and solemn, apologizing instead of attending, and often moving wrong without being aware of it, gave her all the shame and misery",
+young,lady,female,role_noun,amod,"You will not thank me for detaining you from the bewitching converse of that young lady, whose bright eyes are also upbraiding me.”",
+young,man,male,role_noun,amod,"Your sister has been talking to me about him, and asking me a thousand questions; and I find that the young man forgot to tell you, among his other co",
+old,wickham,male,name,amod,"Your sister has been talking to me about him, and asking me a thousand questions; and I find that the young man forgot to tell you, among his other co",
+late,darcy,male,name,amod,"Your sister has been talking to me about him, and asking me a thousand questions; and I find that the young man forgot to tell you, among his other co",
+insolent,girl,female,role_noun,amod,“Insolent girl!” said Elizabeth to herself.,
+eld,sister,female,role_noun,amod,"She then sought her eldest sister, who had undertaken to make inquiries on the same subject of Bingley.",
+respectable,man,male,role_noun,amod,"Mr. Bingley does not know the whole of his history, and is quite ignorant of the circumstances which have principally offended Mr. Darcy; but he will ",
+young,man,male,role_noun,amod,"Mr. Bingley does not know the whole of his history, and is quite ignorant of the circumstances which have principally offended Mr. Darcy; but he will ",
+young,lady,female,role_noun,amod,"I happened to overhear the gentleman himself mentioning to the young lady who does the honours of this house the names of his cousin Miss De Bourgh, a",
+young,lady,female,role_noun,amod,"Pardon me for neglecting to profit by your advice, which on every other subject shall be my constant guide, though in the case before us I consider my",
+charming,man,male,role_noun,amod,"His being such a charming young man, and so rich, and living but three miles from them, were the first points of self-gratulation; and then it was suc",
+young,man,male,role_noun,amod,"His being such a charming young man, and so rich, and living but three miles from them, were the first points of self-gratulation; and then it was suc",
+young,daughter,female,role_noun,amod,"It was, moreover, such a promising thing for her younger daughters, as Jane’s marrying so greatly must throw them in the way of other rich men; and, l",
+other,man,male,role_noun,amod,"It was, moreover, such a promising thing for her younger daughters, as Jane’s marrying so greatly must throw them in the way of other rich men; and, l",
+rich,man,male,role_noun,amod,"It was, moreover, such a promising thing for her younger daughters, as Jane’s marrying so greatly must throw them in the way of other rich men; and, l",
+single,daughter,female,role_noun,amod,"It was, moreover, such a promising thing for her younger daughters, as Jane’s marrying so greatly must throw them in the way of other rich men; and, l",
+other,lady,female,role_noun,amod,Let the other young ladies have time to exhibit.”,
+young,lady,female,role_noun,amod,Let the other young ladies have time to exhibit.”,
+sorry,elizabeth,female,name,amod,"Mary, though pretending not to hear, was somewhat disconcerted; and Elizabeth, sorry for her, and sorry for her father’s speech, was afraid her anxiet",
+young,man,male,role_noun,amod,"Many stared--many smiled; but no one looked more amused than Mr. Bennet himself, while his wife seriously commended Mr. Collins for having spoken so s",
+young,lady,female,role_noun,amod,"In vain did she entreat him to stand up with somebody else, and offered to introduce him to any young lady in the room.",
+young,girl,female,role_noun,amod,"On finding Mrs. Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words,--",
+fair,daughter,female,role_noun,amod,"“May I hope, madam, for your interest with your fair daughter Elizabeth, when I solicit for the honour of a private audience with her in the course of",
+dear,elizabeth,female,name,amod,"Mrs. Bennet and Kitty walked off, and as soon as they were gone, Mr. Collins began,-- “Believe me, my dear Miss Elizabeth, that your modesty, so far f",
+respected,mother,female,role_noun,amod,You would have been less amiable in my eyes had there _not_ been this little unwillingness; but allow me to assure you that I have your respected moth,
+noble,lady,female,role_noun,amod,"The idea of Mr. Collins, with all his solemn composure, being run away with by his feelings, made Elizabeth so near laughing that she could not use th",
+many,woman,female,role_noun,amod,Thus much for my general intention in favour of matrimony; it remains to be told why my views were directed to Longbourn instead of my own neighbourho,
+amiable,woman,female,role_noun,amod,Thus much for my general intention in favour of matrimony; it remains to be told why my views were directed to Longbourn instead of my own neighbourho,
+young,woman,female,role_noun,amod,Thus much for my general intention in favour of matrimony; it remains to be told why my views were directed to Longbourn instead of my own neighbourho,
+honoured,father,male,role_noun,amod,"But the fact is, that being, as I am, to inherit this estate after the death of your honoured father (who, however, may live many years longer), I cou",
+young,lady,female,role_noun,amod,"“I am not now to learn,” replied Mr. Collins, with a formal wave of the hand, “that it is usual with young ladies to reject the addresses of the man w",
+young,lady,female,role_noun,amod,I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of,
+such,lady,female,role_noun,amod,I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of,
+young,lady,female,role_noun,amod,I do assure you that I am not one of those young ladies (if such young ladies there are) who are so daring as to risk their happiness on the chance of,
+last,woman,female,role_noun,amod,"You could not make _me_ happy, and I am convinced that I am the last woman in the world who would make _you_",
+respectable,man,male,role_noun,amod,"“I do assure you, sir, that I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man.",
+wilful,elizabeth,female,name,amod,"To such perseverance in wilful self-deception Elizabeth would make no reply, and immediately and in silence withdrew; determined, that if he persisted",
+foolish,girl,female,role_noun,amod,"She is a very headstrong, foolish girl, and does not know her own interest; but I will _make_ her know it.”",
+desirable,wife,female,role_noun,amod,"“Pardon me for interrupting you, madam,” cried Mr. Collins; “but if she is really headstrong and foolish, I know not whether she would altogether be a",
+natured,girl,female,role_noun,amod,In everything else she is as good-natured a girl as ever lived.,
+young,man,male,role_noun,amod,"Resignation to inevitable evils is the duty of us all: the peculiar duty of a young man who has been so fortunate as I have been, in early preferment;",
+dear,jane,female,name,amod,"With all these circumstances to favour an attachment, and nothing to prevent it, am I wrong, my dearest Jane, in indulging the hope of an event which ",
+dear,jane,female,name,amod,"But, my dearest Jane, you cannot seriously imagine that, because Miss Bingley tells you her brother greatly admires Miss Darcy, he is in the smallest ",
+dear,sister,female,role_noun,amod,"“But, my dear sister, can I be happy, even supposing the best, in accepting a man whose sisters and friends are all wishing him to marry elsewhere?”",
+young,man,male,role_noun,amod,"It appeared to her merely the suggestion of Caroline’s interested wishes; and she could not for a moment suppose that those wishes, however openly or ",
+independent,man,male,role_noun,amod,"It appeared to her merely the suggestion of Caroline’s interested wishes; and she could not for a moment suppose that those wishes, however openly or ",
+young,girl,female,role_noun,amod,The younger girls formed hopes of _coming out_ a year or two sooner than they might otherwise have done; and the boys were relieved from their apprehe,
+young,woman,female,role_noun,amod,"Without thinking highly either of men or of matrimony, marriage had always been her object: it was the only honourable provision for well-educated you",
+young,girl,female,role_noun,amod,"Mrs. Bennet wished to understand by it that he thought of paying his addresses to one of her younger girls, and Mary might have been prevailed on to a",
+dear,charlotte,female,name,amod,"my dear Charlotte, impossible!”",
+impossible,charlotte,female,name,amod,"my dear Charlotte, impossible!”",
+amiable,charlotte,female,name,amod,"After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the a",
+unfeeling,sister,female,role_noun,amod,"The united efforts of his two unfeeling sisters, and of his overpowering friend, assisted by the attractions of Miss Darcy and the amusements of Londo",
+own,daughter,female,role_noun,amod,"How anyone could have the conscience to entail away an estate from one’s own daughters I cannot understand; and all for the sake of Mr. Collins, too!",
+dear,mother,female,role_noun,amod,"A day or two passed before Jane had courage to speak of her feelings to Elizabeth; but at last, on Mrs. Bennet’s leaving them together, after a longer",
+amiable,man,male,role_noun,amod,He may live in my memory as the most amiable man of my acquaintance but that is all.,
+dear,jane,female,name,amod,"“My dear Jane,” exclaimed Elizabeth, “you are too good.",
+dear,jane,female,name,amod,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that",
+conceited,man,male,role_noun,amod,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that",
+pompous,man,male,role_noun,amod,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that",
+minded,man,male,role_noun,amod,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that",
+silly,man,male,role_noun,amod,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that",
+lively,man,male,role_noun,amod,We must not expect a lively young man to be always so guarded and circumspect.,
+young,man,male,role_noun,amod,We must not expect a lively young man to be always so guarded and circumspect.,
+other,woman,female,role_noun,amod,They can only wish his happiness; and if he is attached to me no other woman can secure it.”,
+young,lady,female,role_noun,amod,Here are officers enough at Meryton to disappoint all the young ladies in the country.,
+agreeable,man,male,role_noun,amod,"“Thank you, sir, but a less agreeable man would satisfy me.",
+affectionate,mother,female,role_noun,amod,"“True,” said Mr. Bennet; “but it is a comfort to think that, whatever of that kind may befall you, you have an affectionate mother who will always mak",
+amiable,charlotte,female,name,amod,"[Illustration] After a week spent in professions of love and schemes of felicity, Mr. Collins was called from his amiable Charlotte by the arrival of ",
+sensible,man,male,role_noun,amod,"Mr. Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education.",
+gentlemanlike,man,male,role_noun,amod,"Mr. Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education.",
+superior,man,male,role_noun,amod,"Mr. Gardiner was a sensible, gentlemanlike man, greatly superior to his sister, as well by nature as education.",
+amiable,woman,female,role_noun,amod,"Mrs. Gardiner, who was several years younger than Mrs. Bennet and Mrs. Philips, was an amiable, intelligent, elegant woman, and a great favourite with",
+intelligent,woman,female,role_noun,amod,"Mrs. Gardiner, who was several years younger than Mrs. Bennet and Mrs. Philips, was an amiable, intelligent, elegant woman, and a great favourite with",
+elegant,woman,female,role_noun,amod,"Mrs. Gardiner, who was several years younger than Mrs. Bennet and Mrs. Philips, was an amiable, intelligent, elegant woman, and a great favourite with",
+young,man,male,role_noun,amod,"A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easil",
+pretty,girl,female,role_noun,amod,"A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easil",
+young,lady,female,role_noun,amod,[Illustration: “Offended two or three young ladies”,
+young,man,male,role_noun,amod,It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was viol,
+young,lady,female,role_noun,amod,At his own ball he offended two or three young ladies by not asking them to dance; and I spoke to him twice myself without receiving an answer.,
+poor,jane,female,name,amod,Poor Jane!,
+young,man,male,role_noun,amod,"“I hope,” added Mrs. Gardiner, “that no consideration with regard to this young man will influence her.",
+late,darcy,male,name,amod,"Mrs. Gardiner had seen Pemberley, and known the late Mr. Darcy by character perfectly well.",
+present,darcy,male,name,amod,"On being made acquainted with the present Mr. Darcy’s treatment of him, she tried to remember something of that gentleman’s reputed disposition, when ",
+proud,boy,male,role_noun,amod,"On being made acquainted with the present Mr. Darcy’s treatment of him, she tried to remember something of that gentleman’s reputed disposition, when ",
+natured,boy,male,role_noun,amod,"On being made acquainted with the present Mr. Darcy’s treatment of him, she tried to remember something of that gentleman’s reputed disposition, when ",
+sensible,girl,female,role_noun,amod,[Illustration] Mrs. Gardiner’s caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to her alone: afte,
+interesting,man,male,role_noun,amod,"I have nothing to say against _him_: he is a most interesting young man; and if he had the fortune he ought to have, I should think you could not do b",
+young,man,male,role_noun,amod,"I have nothing to say against _him_: he is a most interesting young man; and if he had the fortune he ought to have, I should think you could not do b",
+agreeable,man,male,role_noun,amod,"But he is, beyond all comparison, the most agreeable man I ever saw--and if he becomes really attached to me--I believe it will be better that he shou",
+abominable,darcy,male,name,amod,"Oh, _that_ abominable Mr. Darcy!",
+dear,sister,female,role_noun,amod,"But, my dear sister, though the event has proved you right, do not think me obstinate if I still assert that, considering what her behaviour was, my c",
+young,lady,female,role_noun,amod,The sudden acquisition of ten thousand pounds was the most remarkable charm of the young lady to whom he was now rendering himself agreeable; but Eliz,
+handsome,man,male,role_noun,amod,"They are young in the ways of the world, and not yet open to the mortifying conviction that handsome young men must have something to live on as well ",
+young,man,male,role_noun,amod,"They are young in the ways of the world, and not yet open to the mortifying conviction that handsome young men must have something to live on as well ",
+such,sister,female,role_noun,amod,"There was novelty in the scheme; and as, with such a mother and such uncompanionable sisters, home could not be faultless, a little change was not unw",
+uncompanionable,sister,female,role_noun,amod,"There was novelty in the scheme; and as, with such a mother and such uncompanionable sisters, home could not be faultless, a little change was not unw",
+second,daughter,female,role_noun,amod,She was to accompany Sir William and his second daughter.,
+little,boy,male,role_noun,amod,"On the stairs were a troop of little boys and girls, whose eagerness for their cousin’s appearance would not allow them to wait in the drawing-room, a",
+dear,elizabeth,female,name,amod,"“But, my dear Elizabeth,” she added, “what sort of girl is Miss King?",
+young,man,male,role_noun,amod,"I should be sorry, you know, to think ill of a young man who has lived so long in Derbyshire.”",
+young,man,male,role_noun,amod,"“Oh, if that is all, I have a very poor opinion of young men who live in Derbyshire; and their intimate friends who live in Hertfordshire are not much",
+stupid,man,male,role_noun,amod,"Stupid men are the only ones worth knowing, after all.”",
+general,charlotte,female,name,amod,Once or twice she could discern a faint blush; but in general Charlotte wisely did not hear.,
+dear,charlotte,female,name,amod,Her behaviour to my dear Charlotte is charming.,
+respectable,woman,female,role_noun,amod,"“Lady Catherine is a very respectable, sensible woman, indeed,” added Charlotte, “and a most attentive neighbour.”",
+sensible,woman,female,role_noun,amod,"“Lady Catherine is a very respectable, sensible woman, indeed,” added Charlotte, “and a most attentive neighbour.”",
+old,lady,female,role_noun,amod,"The old lady is Mrs. Jenkinson, who lives with them.",
+proper,wife,female,role_noun,amod,She will make him a very proper wife.”,
+tall,woman,female,role_noun,amod,"Lady Catherine was a tall, large woman, with strongly-marked features, which might once have been handsome.",
+large,woman,female,role_noun,amod,"Lady Catherine was a tall, large woman, with strongly-marked features, which might once have been handsome.",
+great,lady,female,role_noun,amod,Elizabeth found that nothing was beneath this great lady’s attention which could furnish her with an occasion for dictating to others.,
+many,sister,female,role_noun,amod,"She asked her at different times how many sisters she had, whether they were older or younger than herself, whether any of them were likely to be marr",
+young,sister,female,role_noun,amod,"Are any of your younger sisters out, Miss Bennet?”",
+young,sister,female,role_noun,amod,Your younger sisters must be very young?”,
+young,sister,female,role_noun,amod,"But really, ma’am, I think it would be very hard upon younger sisters that they should not have their share of society and amusement, because the elde",
+young,sister,female,role_noun,amod,"“With three younger sisters grown up,” replied Elizabeth, smiling, “your Ladyship can hardly expect me to own it.”",
+great,lady,female,role_noun,amod,"Elizabeth soon perceived, that though this great lady was not in the commission of the peace for the county, she was a most active magistrate in her o",
+young,son,male,role_noun,amod,"There were two nephews of Lady Catherine to require them, for Mr. Darcy had brought with him a Colonel Fitzwilliam, the younger son of his uncle, Lord",
+eld,sister,female,role_noun,amod,"She answered him in the usual way; and, after a moment’s pause, added,-- “My eldest sister has been in town these three months.",
+young,lady,female,role_noun,amod,"I often tell young ladies, that no excellence in music is to be acquired without constant practice.",
+young,lady,female,role_noun,amod,"He danced only four dances, though gentlemen were scarce; and, to my certain knowledge, more than one young lady was sitting down in want of a partner",
+many,woman,female,role_noun,amod,"“My fingers,” said Elizabeth, “do not move over this instrument in the masterly manner which I see so many women’s do.",
+other,woman,female,role_noun,amod,It is not that I do not believe _my_ fingers as capable as any other woman’s of superior execution.”,
+few,woman,female,role_noun,amod,"“Yes, indeed; his friends may well rejoice in his having met with one of the very few sensible women who would have accepted him, or have made him hap",
+sensible,woman,female,role_noun,amod,"“Yes, indeed; his friends may well rejoice in his having met with one of the very few sensible women who would have accepted him, or have made him hap",
+pleasant,man,male,role_noun,amod,"He was, beyond comparison, the pleasantest man: he certainly admired her, and his situation in life was most eligible; but, to counterbalance these ad",
+young,son,male,role_noun,amod,"A younger son, you know, must be inured to self-denial and dependence.”",
+young,son,male,role_noun,amod,"“In my opinion, the younger son of an earl can know very little of either.",
+young,son,male,role_noun,amod,Younger sons cannot marry where they like.”,
+young,son,male,role_noun,amod,"and she coloured at the idea; but, recovering herself, said in a lively tone, “And pray, what is the usual price of an earl’s younger son?",
+eld,brother,male,role_noun,amod,"Unless the elder brother is very sickly, I suppose you would not ask above fifty thousand pounds.”",
+young,lady,female,role_noun,amod,"Young ladies of her age are sometimes a little difficult to manage; and if she has the true Darcy spirit, she may like to have her own way.”",
+gentlemanlike,man,male,role_noun,amod,"Their brother is a pleasant, gentlemanlike man--he is a great friend of Darcy’s.”",
+young,man,male,role_noun,amod,"What he told me was merely this: that he congratulated himself on having lately saved a friend from the inconveniences of a most imprudent marriage, b",
+beloved,sister,female,role_noun,amod,"Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would te",
+last,man,male,role_noun,amod,"She went on,-- “From the very beginning, from the first moment, I may almost say, of my acquaintance with you, your manners impressing me with the ful",
+young,man,male,role_noun,amod,"Wilfully and wantonly to have thrown off the companion of my youth, the acknowledged favourite of my father, a young man who had scarcely any other de",
+eld,sister,female,role_noun,amod,"I had not been long in Hertfordshire before I saw, in common with others, that Bingley preferred your elder sister to any other young woman in the cou",
+other,woman,female,role_noun,amod,"I had not been long in Hertfordshire before I saw, in common with others, that Bingley preferred your elder sister to any other young woman in the cou",
+young,woman,female,role_noun,amod,"I had not been long in Hertfordshire before I saw, in common with others, that Bingley preferred your elder sister to any other young woman in the cou",
+young,sister,female,role_noun,amod,"The situation of your mother’s family, though objectionable, was nothing in comparison of that total want of propriety so frequently, so almost unifor",
+eld,sister,female,role_noun,amod,"But amidst your concern for the defects of your nearest relations, and your displeasure at this representation of them, let it give you consolation to",
+respectable,man,male,role_noun,amod,"Mr. Wickham is the son of a very respectable man, who had for many years the management of all the Pemberley estates, and whose good conduct in the di",
+own,father,male,role_noun,amod,"My father supported him at school, and afterwards at Cambridge; most important assistance, as his own father, always poor from the extravagance of his",
+poor,father,male,role_noun,amod,"My father supported him at school, and afterwards at Cambridge; most important assistance, as his own father, always poor from the extravagance of his",
+young,man,male,role_noun,amod,"My father was not only fond of this young man’s society, whose manners were always engaging, he had also the highest opinion of him, and hoping the ch",
+young,man,male,role_noun,amod,"The vicious propensities, the want of principle, which he was careful to guard from the knowledge of his best friend, could not escape the observation",
+excellent,father,male,role_noun,amod,"My excellent father died about five years ago; and his attachment to Mr. Wickham was to the last so steady, that in his will he particularly recommend",
+own,father,male,role_noun,amod,"His own father did not long survive mine; and within half a year from these events Mr. Wickham wrote to inform me that, having finally resolved agains",
+unable,georgiana,female,name,amod,"I joined them unexpectedly a day or two before the intended elopement; and then Georgiana, unable to support the idea of grieving and offending a brot",
+late,darcy,male,name,amod,"The account of his connection with the Pemberley family was exactly what he had related himself; and the kindness of the late Mr. Darcy, though she ha",
+young,man,male,role_noun,amod,"She had never heard of him before his entrance into the ----shire militia, in which he had engaged at the persuasion of the young man, who, on meeting",
+amiable,man,male,role_noun,amod,"Every lingering struggle in his favour grew fainter and fainter; and in further justification of Mr. Darcy, she could not but allow that Mr. Bingley, ",
+young,man,male,role_noun,amod,But I am particularly attached to these young men; and know them to be so much attached to me!,
+young,woman,female,role_noun,amod,"You know I always speak my mind, and I cannot bear the idea of two young women travelling post by themselves.",
+young,woman,female,role_noun,amod,"Young women should always be properly guarded and attended, according to their situation in life.",
+young,lady,female,role_noun,amod,"You must send John with the young ladies, Mrs. Collins.",
+young,daughter,female,role_noun,amod,"Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with ",
+right,herself,female,pronoun,amod,"Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with ",
+willed,lydia,female,name,amod,"Catherine, weak-spirited, irritable, and completely under Lydia’s guidance, had been always affronted by their advice; and Lydia, self-willed and care",
+young,lady,female,role_noun,amod,"Our plain manner of living, our small rooms, and few domestics, and the little we see of the world, must make Hunsford extremely dull to a young lady ",
+dear,elizabeth,female,name,amod,"Only let me assure you, my dear Miss Elizabeth, that I can from my heart most cordially wish you equal felicity in marriage.",
+dear,charlotte,female,name,amod,My dear Charlotte and I have but one mind and one way of thinking.,
+young,lady,female,role_noun,amod,"[Illustration] It was the second week in May, in which the three young ladies set out together from Gracechurch Street for the town of ----, in Hertfo",
+dear,wickham,male,name,amod,"Well, but now for my news: it is about dear Wickham; too good for the waiter, is not it?",
+pleasant,man,male,role_noun,amod,Have you seen any pleasant men?,
+eld,daughter,female,role_noun,amod,"Their party in the dining-room was large, for almost all the Lucases came to meet Maria and hear the news; and various were the subjects which occupie",
+dear,sister,female,role_noun,amod,"To this, Mary very gravely replied, “Far be it from me, my dear sister, to depreciate such pleasures.",
+poor,jane,female,name,amod,"What a stroke was this for poor Jane, who would willingly have gone through the world without believing that so much wickedness existed in the whole r",
+poor,darcy,male,name,amod,And poor Mr. Darcy!,
+young,man,male,role_noun,amod,“There certainly was some great mismanagement in the education of those two young men.,
+other,man,male,role_noun,amod,"Having never even fancied herself in love before, her regard had all the warmth of first attachment, and from her age and disposition, greater steadin",
+undeserving,man,male,role_noun,amod,"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now.",
+young,man,male,role_noun,amod,"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now.",
+young,lady,female,role_noun,amod,"It was the last of the regiment’s stay in Meryton, and all the young ladies in the neighbourhood were drooping apace.",
+affectionate,mother,female,role_noun,amod,Their affectionate mother shared all their grief; she remembered what she had herself endured on a similar occasion five-and-twenty years ago.,
+young,woman,female,role_noun,amod,"This invaluable friend was a very young woman, and very lately married.",
+luckless,kitty,female,name,amod,"Wholly inattentive to her sister’s feelings, Lydia flew about the house in restless ecstasy, calling for everyone’s congratulations, and laughing and ",
+dear,father,male,role_noun,amod,"If you, my dear father, will not take the trouble of checking her exuberant spirits, and of teaching her that her present pursuits are not to be the b",
+dear,father,male,role_noun,amod,"Oh, my dear father, can you suppose it possible that they will not be censured and despised wherever they are known, and that their sisters will not b",
+silly,sister,female,role_noun,amod,"Wherever you and Jane are known, you must be respected and valued; and you will not appear to less advantage for having a couple of--or I may say, thr",
+sensible,man,male,role_noun,amod,"Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to anybody.",
+gentlemanlike,man,male,role_noun,amod,"He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and,",
+other,sister,female,role_noun,amod,"Their parties abroad were less varied than before; and at home she had a mother and sister, whose constant repinings at the dulness of everything arou",
+young,boy,male,role_noun,amod,"The children, two girls of six and eight years old, and two younger boys, were to be left under the particular care of their cousin Jane, who was the ",
+respectable,woman,female,role_noun,amod,"The housekeeper came; a respectable looking elderly woman, much less fine, and more civil, than she had any notion of finding her.",
+elderly,woman,female,role_noun,amod,"The housekeeper came; a respectable looking elderly woman, much less fine, and more civil, than she had any notion of finding her.",
+fine,woman,female,role_noun,amod,"The housekeeper came; a respectable looking elderly woman, much less fine, and more civil, than she had any notion of finding her.",
+young,gentleman,male,role_noun,amod,"The housekeeper came forward, and told them it was the picture of a young gentleman, the son of her late master’s steward, who had been brought up by ",
+young,lady,female,role_noun,amod,“Does that young lady know Mr. Darcy?”,
+handsome,gentleman,male,role_noun,amod,"“And do not you think him a very handsome gentleman, ma’am?”",
+handsome,lady,female,role_noun,amod,"“Oh, yes--the handsomest young lady that ever was seen; and so accomplished!",
+young,lady,female,role_noun,amod,"“Oh, yes--the handsomest young lady that ever was seen; and so accomplished!",
+hearted,boy,male,role_noun,amod,"But I have always observed, that they who are good-natured when children, are good-natured when they grow up; and he was always the sweetest tempered,",
+excellent,man,male,role_noun,amod,"“His father was an excellent man,” said Mrs. Gardiner.",
+wild,man,male,role_noun,amod,"Not like the wild young men now-a-days, who think of nothing but themselves.",
+young,man,male,role_noun,amod,"Not like the wild young men now-a-days, who think of nothing but themselves.",
+other,man,male,role_noun,amod,"To my fancy, it is only because he does not rattle away like other young men.”",
+young,man,male,role_noun,amod,"To my fancy, it is only because he does not rattle away like other young men.”",
+good,brother,male,role_noun,amod,"“He is certainly a good brother,” said Elizabeth, as she walked towards one of the windows.",
+great,man,male,role_noun,amod,"“Your great men often are; and therefore I shall not take him at his word about fishing, as he might change his mind another day, and warn me off his ",
+poor,wickham,male,name,amod,"“From what we have seen of him,” continued Mrs. Gardiner, “I really should not have thought that he could have behaved in so cruel a way by anybody as",
+good,lady,female,role_noun,amod,"But, to be sure, the good lady who showed us the house did give him a most flaming character!",
+amiable,wickham,male,name,amod,"Elizabeth here felt herself called on to say something in vindication of his behaviour to Wickham; and, therefore, gave them to understand, in as guar",
+liberal,man,male,role_noun,amod,"It was acknowledged, however, that he was a liberal man, and did much good among the poor.",
+genteel,woman,female,role_noun,amod,"It was first broken by Mrs. Annesley, a genteel, agreeable-looking woman, whose endeavour to introduce some kind of discourse proved her to be more tr",
+other,gentleman,male,role_noun,amod,"He had been some time with Mr. Gardiner, who, with two or three other gentlemen from the house, was engaged by the river; and had left him only on lea",
+ill,bennet,male,name,amod,"“How very ill Eliza Bennet looks this morning, Mr. Darcy,” she cried: “I never in my life saw anyone so much altered as she is since the winter.",
+little,darcy,male,name,amod,"However little Mr. Darcy might have liked such an address, he contented himself with coolly replying, that he perceived no other alteration than her b",
+handsome,woman,female,role_noun,amod,"“Yes,” replied Darcy, who could contain himself no longer, “but _that_ was only when I first knew her; for it is many months since I have considered h",
+poor,lydia,female,name,amod,What I have to say relates to poor Lydia.,
+poor,mother,female,role_noun,amod,Our poor mother is sadly grieved.,
+poor,mother,female,role_noun,amod,"I must conclude, for I cannot be long from my poor mother.",
+poor,lydia,female,name,amod,"Imprudent as a marriage between Mr. Wickham and our poor Lydia would be, we are now anxious to be assured it has taken place, for there is but too muc",
+young,woman,female,role_noun,amod,Many circumstances might make it more eligible for them to be married privately in town than to pursue their first plan; and even if _he_ could form s,
+poor,mother,female,role_noun,amod,"My poor mother is really ill, and keeps her room.",
+poor,kitty,female,name,amod,"Poor Kitty has anger for having concealed their attachment; but as it was a matter of confidence, one cannot wonder.",
+young,sister,female,role_noun,amod,My youngest sister has left all her friends--has eloped; has thrown herself into the power of--of Mr. Wickham.,
+incapable,mother,female,role_noun,amod,"She was wild to be at home--to hear, to see, to be upon the spot to share with Jane in the cares that must now fall wholly upon her, in a family so de",
+eld,sister,female,role_noun,amod,"[Illustration] “I have been thinking it over again, Elizabeth,” said her uncle, as they drove from the town; “and really, upon serious consideration, ",
+young,man,male,role_noun,amod,"It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who wa",
+proud,girl,female,role_noun,amod,"From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl.",
+reserved,girl,female,role_noun,amod,"From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl.",
+disagreeable,girl,female,role_noun,amod,"From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl.",
+poor,lydia,female,name,amod,"“If I had been able,” said she, “to carry my point in going to Brighton with all my family, _this_ would not have happened: but poor dear Lydia had no",
+dear,lydia,female,name,amod,"“If I had been able,” said she, “to carry my point in going to Brighton with all my family, _this_ would not have happened: but poor dear Lydia had no",
+dear,brother,male,role_noun,amod,"“Oh, my dear brother,” replied Mrs. Bennet, “that is exactly what I could most wish for.",
+dear,lydia,female,name,amod,"And tell my dear Lydia not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses.",
+favourite,sister,female,role_noun,amod,"The faces of both, however, were tolerably calm; and no change was visible in either, except that the loss of her favourite sister, or the anger which",
+thoughtless,lydia,female,name,amod,"“Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it.",
+thoughtless,lydia,female,name,amod,"“Oh, thoughtless, thoughtless Lydia!” cried Elizabeth when she had finished it.",
+poor,father,male,role_noun,amod,My poor father!,
+wicked,man,male,role_noun,amod,Everybody declared that he was the wickedest young man in the world; and everybody began to find out that they had always distrusted the appearance of,
+young,man,male,role_noun,amod,Everybody declared that he was the wickedest young man in the world; and everybody began to find out that they had always distrusted the appearance of,
+young,man,male,role_noun,amod,"There was also a postscript to this effect:-- “I have written to Colonel Forster to desire him to find out, if possible, from some of the young man’s ",
+dear,charlotte,female,name,amod,"And it is the more to be lamented, because there is reason to suppose, as my dear Charlotte informs me, that this licentiousness of behaviour in your ",
+poor,lydia,female,name,amod,"“What! is he coming home, and without poor Lydia?”",
+good,girl,female,role_noun,amod,"If you are a good girl for the next ten years, I will take you to a review at the end of them.”",
+dear,brother,male,role_noun,amod,"*/ “My dear Brother, “At last I am able to send you some tidings of my niece, and such as, upon the whole, I hope will give you satisfaction.",
+dear,father,male,role_noun,amod,"“My dear father, I congratulate you.”",
+dear,father,male,role_noun,amod,"my dear father,” she cried, “come back and write immediately.",
+generous,man,male,role_noun,amod,"Generous, good man, I am afraid he has distressed himself.",
+good,man,male,role_noun,amod,"Generous, good man, I am afraid he has distressed himself.",
+dear,lydia,female,name,amod,"“My dear, dear Lydia!”",
+dear,lydia,female,name,amod,"“My dear, dear Lydia!”",
+kind,brother,male,role_noun,amod,"My good, kind brother!",
+dear,wickham,male,name,amod,and to see dear Wickham too!,
+dear,lydia,female,name,amod,"My dear, dear Lydia!",
+dear,lydia,female,name,amod,"My dear, dear Lydia!",
+eld,daughter,female,role_noun,amod,"Her eldest daughter endeavoured to give some relief to the violence of these transports, by leading her thoughts to the obligations which Mr. Gardiner",
+dear,jane,female,name,amod,"My dear Jane, I am in such a flutter, that I am sure I can’t write; so I will dictate, and you write for me.",
+poor,lydia,female,name,amod,"Poor Lydia’s situation must, at best, be bad enough; but that it was no worse, she had need to be thankful.",
+spiteful,lady,female,role_noun,amod,[Illustration: “The spiteful old ladies”,
+old,lady,female,role_noun,amod,[Illustration: “The spiteful old ladies”,
+worthless,man,male,role_noun,amod,The satisfaction of prevailing on one of the most worthless young men in Great Britain to be her husband might then have rested in its proper place.,
+young,man,male,role_noun,amod,The satisfaction of prevailing on one of the most worthless young men in Great Britain to be her husband might then have rested in its proper place.,
+spiteful,lady,female,role_noun,amod,"But there was much to be talked of, in marrying her; and the good-natured wishes for her well-doing, which had proceeded before from all the spiteful ",
+old,lady,female,role_noun,amod,"But there was much to be talked of, in marrying her; and the good-natured wishes for her well-doing, which had proceeded before from all the spiteful ",
+young,man,male,role_noun,amod,"And there are several of the young men, too, that she likes very much.",
+married,daughter,female,role_noun,amod,"And their mother had the satisfaction of knowing, that she should be able to show her married daughter in the neighbourhood, before she was banished t",
+alarmed,daughter,female,role_noun,amod,"Smiles decked the face of Mrs. Bennet, as the carriage drove up to the door; her husband looked impenetrably grave; her daughters, alarmed, anxious, u",
+impudent,man,male,role_noun,amod,"Elizabeth had not before believed him quite equal to such assurance; but she sat down, resolving within herself to draw no limits in future to the imp",
+eld,jane,female,name,amod,"She then joined them soon enough to see Lydia, with anxious parade, walk up to her mother’s right hand, and hear her say to her eldest sister,-- “Ah, ",
+married,woman,female,role_noun,amod,"She then joined them soon enough to see Lydia, with anxious parade, walk up to her mother’s right hand, and hear her say to her eldest sister,-- “Ah, ",
+charming,man,male,role_noun,amod,Is not he a charming man?,
+dear,lydia,female,name,amod,"But, my dear Lydia, I don’t at all like your going such a way off.",
+young,man,male,role_noun,amod,"She had scarcely needed her present observation to be satisfied, from the reason of things, that their elopement had been brought on by the strength o",
+dear,wickham,male,name,amod,He was her dear Wickham on every occasion; no one was to be put in competition with him.,
+eld,sister,female,role_noun,amod,"One morning, soon after their arrival, as she was sitting with her two elder sisters, she said to Elizabeth,-- “Lizzy, I never gave _you_ an account o",
+dear,wickham,male,name,amod,"However, I did not hear above one word in ten, for I was thinking, you may suppose, of my dear Wickham.",
+young,woman,female,role_noun,amod,The motive professed was his conviction of its being owing to himself that Wickham’s worthlessness had not been so well known as to make it impossible,
+dear,elizabeth,female,name,amod,"I was sometimes quite provoked; but then I recollected my dear Elizabeth and Jane, and for their sakes had patience with her.",
+dear,sister,female,role_noun,amod,"“I am afraid I interrupt your solitary ramble, my dear sister?” said he, as he joined her.",
+dear,sister,female,role_noun,amod,"And so, my dear sister, I find, from our uncle and aunt, that you have actually seen Pemberley.”",
+dear,sister,female,role_noun,amod,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz",
+dear,lydia,female,name,amod,"“Oh, my dear Lydia,” she cried, “when shall we meet again?”",
+married,woman,female,role_noun,amod,But you know married women have never much time for writing.,
+valuable,son,male,role_noun,amod,I defy even Sir William Lucas himself to produce a more valuable son-in-law.”,
+poor,man,male,role_noun,amod,"“Yet it is hard,” she sometimes thought, “that this poor man cannot come to a house, which he has legally hired, without raising all this speculation!",
+tall,man,male,role_noun,amod,"Mr. what’s his name--that tall, proud man.”",
+proud,man,male,role_noun,amod,"Mr. what’s his name--that tall, proud man.”",
+favourite,daughter,female,role_noun,amod,"Elizabeth particularly, who knew that her mother owed to the latter the preservation of her favourite daughter from irremediable infamy, was hurt and ",
+own,daughter,female,role_noun,amod,Miss Lucas is married and settled: and one of my own daughters.,
+prudent,mother,female,role_noun,amod,"Her prudent mother, occupied by the same ideas, forbore to invite him to sit by herself.",
+same,woman,female,role_noun,amod,Is there one among the sex who would not protest against such a weakness as a second proposal to the same woman?,
+young,lady,female,role_noun,amod,"He stood by her, however, for some minutes, in silence; and, at last, on the young lady’s whispering to Elizabeth again, he walked away.",
+dear,jane,female,name,amod,"And, my dear Jane, I never saw you look in greater beauty.",
+agreeable,man,male,role_noun,amod,I assure you that I have now learnt to enjoy his conversation as an agreeable and sensible young man without having a wish beyond it.,
+young,man,male,role_noun,amod,I assure you that I have now learnt to enjoy his conversation as an agreeable and sensible young man without having a wish beyond it.,
+other,man,male,role_noun,amod,"It is only that he is blessed with greater sweetness of address, and a stronger desire of generally pleasing, than any other man.”",
+dear,jane,female,name,amod,"In ran Mrs. Bennet to her daughters’ room, in her dressing-gown, and with her hair half finished, crying out,-- “My dear Jane, make haste and hurry do",
+last,kitty,female,name,amod,"Elizabeth would not observe her; and when at last Kitty did, she very innocently said, “What is the matter, mamma?",
+own,bennet,male,name,amod,"He scarcely needed an invitation to stay supper; and before he went away an engagement was formed, chiefly through his own and Mrs. Bennet’s means, fo",
+happy,woman,female,role_noun,amod,You will be a very happy woman.”,
+good,girl,female,role_noun,amod,"“You are a good girl,” he replied, “and I have great pleasure in thinking you will be so happily settled.",
+dear,bennet,male,name,amod,"My dear Mr. Bennet,” cried his wife, “what are you talking of?",
+dear,jane,female,name,amod,"Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy!",
+dear,jane,female,name,amod,"Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy!",
+handsome,man,male,role_noun,amod,"Oh, he is the handsomest young man that ever was seen!”",
+young,man,male,role_noun,amod,"Oh, he is the handsomest young man that ever was seen!”",
+young,sister,female,role_noun,amod,Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.,
+good,girl,female,role_noun,amod,Good girl!,
+such,man,male,role_noun,amod,“If you were to give me forty such men I never could be so happy as you.,
+young,girl,female,role_noun,amod,“She is my youngest girl but one.,
+young,man,male,role_noun,amod,"My youngest of all is lately married, and my eldest is somewhere about the ground, walking with a young man, who, I believe, will soon become a part o",
+young,woman,female,role_noun,amod,"While in their cradles we planned the union; and now, at the moment when the wishes of both sisters would be accomplished, is their marriage to be pre",
+young,woman,female,role_noun,amod,They are destined for each other by the voice of every member of their respective houses; and what is to divide them?--the upstart pretensions of a yo,
+reasonable,woman,female,role_noun,amod,I expected to find a more reasonable young woman.,
+young,woman,female,role_noun,amod,I expected to find a more reasonable young woman.,
+young,sister,female,role_noun,amod,I am no stranger to the particulars of your youngest sister’s infamous elopement.,
+young,man,male,role_noun,amod,"I know it all; that the young man’s marrying her was a patched-up business, at the expense of your father and uncle.",
+late,father,male,role_noun,amod,"Is _her_ husband, who is the son of his late father’s steward, to be his brother?",
+unfeeling,girl,female,role_noun,amod,"Unfeeling, selfish girl!",
+selfish,girl,female,role_noun,amod,"Unfeeling, selfish girl!",
+young,lady,female,role_noun,amod,Young ladies have great penetration in such matters as these; but I think I may defy even _your_ sagacity to discover the name of your admirer.,
+eld,daughter,female,role_noun,amod,"He begins with congratulations on the approaching nuptials of my eldest daughter, of which, it seems, he has been told by some of the good-natured, go",
+eld,sister,female,role_noun,amod,"Your daughter Elizabeth, it is presumed, will not long bear the name of Bennet, after her eldest sister has resigned it; and the chosen partner of her",
+young,gentleman,male,role_noun,amod,"‘This young gentleman is blessed, in a peculiar way, with everything the heart of mortal can most desire,--splendid property, noble kindred, and exten",
+dear,charlotte,female,name,amod,"The rest of his letter is only about his dear Charlotte’s situation, and his expectation of a young olive-branch.",
+other,man,male,role_noun,amod,Had they fixed on any other man it would have been nothing; but _his_ perfect indifference and _your_ pointed dislike make it so delightfully absurd!,
+poor,sister,female,role_noun,amod,I can no longer help thanking you for your unexampled kindness to my poor sister.,
+only,son,male,role_noun,amod,"Unfortunately an only son (for many years an only _child_), I was spoiled by my parents, who, though good themselves, (my father particularly, all tha",
+loveliest,elizabeth,female,name,amod,"I was, from eight to eight-and-twenty; and such I might still have been but for you, dearest, loveliest Elizabeth!",
+worthy,woman,female,role_noun,amod,You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”,
+agitated,elizabeth,female,name,amod,"Darcy was not of a disposition in which happiness overflows in mirth; and Elizabeth, agitated and confused, rather _knew_ that she was happy than _fel",
+dear,bingley,male,name,amod,"Were it for nothing but his love of you, I must always have esteemed him; but now, as Bingley’s friend and your husband, there can be only Bingley and",
+dear,bingley,male,name,amod,"cried Mrs. Bennet, as she stood at a window the next morning, “if that disagreeable Mr. Darcy is not coming here again with our dear Bingley!",
+disagreeable,man,male,role_noun,amod,"As she went upstairs to get ready, Mrs. Bennet followed her, saying,-- “I am quite sorry, Lizzy, that you should be forced to have that disagreeable m",
+young,man,male,role_noun,amod,"He then recollected her embarrassment a few days before on his reading Mr. Collins’s letter; and after laughing at her some time, allowed her at last ",
+charming,man,male,role_noun,amod,Such a charming man!,
+intended,son,male,role_noun,amod,"But the morrow passed off much better than she expected; for Mrs. Bennet luckily stood in such awe of her intended son-in-law, that she ventured not t",
+young,lady,female,role_noun,amod,"“And if I had not a letter to write myself, I might sit by you, and admire the evenness of your writing, as another young lady once did.",
+deserving,daughter,female,role_noun,amod,[Illustration] Happy for all her maternal feelings was the day on which Mrs. Bennet got rid of her two most deserving daughters.,
+sensible,woman,female,role_noun,amod,"I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children produced",
+amiable,woman,female,role_noun,amod,"I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children produced",
+second,daughter,female,role_noun,amod,Mr. Bennet missed his second daughter exceedingly; his affection for her drew him oftener from home than anything else could do.,
+elder,sister,female,role_noun,amod,"Kitty, to her very material advantage, spent the chief of her time with her two elder sisters.",
+young,man,male,role_noun,amod,From the further disadvantage of Lydia’s society she was of course carefully kept; and though Mrs. Wickham frequently invited her to come and stay wit,
+only,daughter,female,role_noun,amod,Mary was the only daughter who remained at home; and she was necessarily drawn from the pursuit of accomplishments by Mrs. Bennet’s being quite unable,
+dear,wickham,male,name,amod,"If you love Mr. Darcy half so well as I do my dear Wickham, you must be very happy.",
+young,sister,female,role_noun,amod,"By Elizabeth’s instructions she began to comprehend that a woman may take liberties with her husband, which a brother will not always allow in a siste",
+good,bingley,male,name,attr,"You and the girls may go--or you may send them by themselves, which perhaps will be still better; for as you are as handsome as any of them, Mr. Bingl",like
+glad,bingley,male,name,acomp,I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever h,be
+handsome,she,female,pronoun,acomp,"Lizzy is not a bit better than the others: and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia.",be
+odd,bennet,male,name,acomp,"Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insuffi",be
+nervous,she,female,pronoun,acomp,"When she was discontented, she fancied herself nervous.",fancy
+unable,bennet,male,name,acomp,"Mrs. Bennet deigned not to make any reply; but, unable to contain herself, began scolding one of her daughters.",deign
+agreeable,he,male,pronoun,acomp,"He was quite young, wonderfully handsome, extremely agreeable, and, to crown the whole, he meant to be at the next assembly with a large party.",be
+fortunate,lady,female,role_noun,acomp,"The ladies were somewhat more fortunate, for they had the advantage of ascertaining, from an upper window, that he wore a blue coat and rode a black h",be
+lively,he,male,pronoun,acomp,"Mr. Bingley had soon made himself acquainted with all the principal people in the room: he was lively and unreserved, danced every dance, was angry th",be
+tolerable,she,female,pronoun,acomp,[Illustration: “She is tolerable”,be
+tolerable,she,female,pronoun,acomp,"[_Copyright 1894 by George Allen._]] “Which do you mean?” and turning round, he looked for a moment at Elizabeth, till, catching her eye, he withdrew ",be
+fortunate,catherine,female,name,acomp,Mary had heard herself mentioned to Miss Bingley as the most accomplished girl in the neighbourhood; and Catherine and Lydia had been fortunate enough,be
+admired,jane,female,name,acomp,"Jane was so admired, nothing could be like it.",be
+handsome,he,male,pronoun,acomp,He is so excessively handsome!,be
+handsome,he,male,pronoun,acomp,"“He is also handsome,” replied Elizabeth, “which a young man ought likewise to be if he possibly can.",be
+agreeable,he,male,pronoun,acomp,"Well, he certainly is very agreeable, and I give you leave to like him.",be
+disposed,she,female,pronoun,acomp,"Elizabeth listened in silence, but was not convinced: their behaviour at the assembly had not been calculated to please in general; and with more quic",be
+anxious,sister,female,role_noun,acomp,"His sisters were very anxious for his having an estate of his own; but though he was now established only as a tenant, Miss Bingley was by no means un",be
+superior,darcy,male,name,attr,"In understanding, Darcy was the superior.",be
+deficient,bingley,male,name,acomp,Bingley was by no means deficient; but Darcy was clever.,be
+clever,darcy,male,name,acomp,Bingley was by no means deficient; but Darcy was clever.,be
+sure,bingley,male,name,acomp,Bingley was sure of being liked wherever he appeared; Darcy was continually giving offence.,be
+acquainted,he,male,pronoun,acomp,Bingley had never met with pleasanter people or prettier girls in his life; everybody had been most kind and attentive to him; there had been no forma,feel
+worth,darcy,male,name,acomp,"“Mr. Darcy is not so well worth listening to as his friend, is he?",be
+agreeable,he,male,pronoun,acomp,he is remarkably agreeable.”,be
+agreeable,he,male,pronoun,acomp,"If he had been so very agreeable, he would have talked to Mrs. Long.",be
+partial,woman,female,role_noun,acomp,"“But if a woman is partial to a man, and does not endeavor to conceal it, he must find it out.”",be
+secure,she,female,pronoun,acomp,"When she is secure of him, there will be leisure for falling in love as much as she chooses.”",be
+certain,she,female,pronoun,acomp,"As yet she cannot even be certain of the degree of her own regard, nor of its reasonableness.",be
+married,she,female,pronoun,acomp,"“Well,” said Charlotte, “I wish Jane success with all my heart; and if she were married to him to-morrow, I should think she had as good a chance of h",be
+pretty,she,female,pronoun,acomp,"Mr. Darcy had at first scarcely allowed her to be pretty: he had looked at her without admiration at the ball; and when they next met, he looked at he",be
+unaware,she,female,pronoun,acomp,"Of this she was perfectly unaware: to her he was only the man who made himself agreeable nowhere, and who had not thought her handsome enough to dance",be
+glad,mary,female,name,acomp,"Elizabeth, easy and unaffected, had been listened to with much more pleasure, though not playing half so well; and Mary, at the end of a long concerto",be
+uneasy,sister,female,role_noun,acomp,"Her sisters were uneasy for her, but her mother was delighted.",be
+delighted,mother,female,role_noun,acomp,"Her sisters were uneasy for her, but her mother was delighted.",be
+aware,she,female,pronoun,acomp,"Till the next morning, however, she was not aware of all the felicity of her contrivance.",be
+glad,elizabeth,female,name,acomp,"Elizabeth was glad to be taken to her immediately; and Jane, who had only been withheld by the fear of giving alarm or inconvenience, from expressing ",be
+delighted,jane,female,name,acomp,"Elizabeth was glad to be taken to her immediately; and Jane, who had only been withheld by the fear of giving alarm or inconvenience, from expressing ",be
+equal,she,female,pronoun,acomp,"She was not equal, however, to much conversation; and when Miss Bingley left them together, could attempt little beside expressions of gratitude for t",be
+wild,she,female,pronoun,acomp,She really looked almost wild.”,look
+tall,she,female,pronoun,acomp,“Is Miss Darcy much grown since the spring?” said Miss Bingley: “will she be as tall as I am?”,be
+accomplished,she,female,pronoun,acomp,"I scarcely know any one who cannot do all this; and I am sure I never heard a young lady spoken of for the first time, without being informed that she",be
+satisfied,bingley,male,name,acomp,Miss Bingley was not so entirely satisfied with this reply as to continue the subject.,be
+bad,sister,female,role_noun,acomp,"Elizabeth joined them again only to say that her sister was worse, and that she could not leave her.",be
+unwilling,she,female,pronoun,acomp,This she would not hear of; but she was not so unwilling to comply with their brother’s proposal; and it was settled that Mr. Jones should be sent for,be
+well,bennet,male,name,acomp,This she would not hear of; but she was not so unwilling to comply with their brother’s proposal; and it was settled that Mr. Jones should be sent for,be
+uncomfortable,bingley,male,name,acomp,Bingley was quite uncomfortable; his sisters declared that they were miserable.,be
+miserable,bennet,male,name,acomp,"Had she found Jane in any apparent danger, Mrs. Bennet would have been very miserable; but being satisfied on seeing her that her illness was not alar",be
+ill,she,female,pronoun,acomp,"“I am sure,” she added, “if it was not for such good friends, I do not know what would become of her, for she is very ill indeed, and suffers a vast d",be
+delicate,sister,female,role_noun,acomp,"His sister was less delicate, and directed her eye towards Mr. Darcy with a very expressive smile.",be
+plain,she,female,pronoun,acomp,"“Oh dear, yes; but you must own she is very plain.",be
+sure,sister,female,role_noun,acomp,"When she was only fifteen there was a gentleman at my brother Gardiner’s in town so much in love with her, that my sister-in-law was sure he would mak",be
+civil,bingley,male,name,acomp,"Mr. Bingley was unaffectedly civil in his answer, and forced his younger sister to be civil also, and say what the occasion required.",be
+satisfied,bennet,male,name,acomp,"She performed her part, indeed, without much graciousness, but Mrs. Bennet was satisfied, and soon afterwards ordered her carriage.",be
+equal,she,female,pronoun,acomp,"She was very equal, therefore, to address Mr. Bingley on the subject of the ball, and abruptly reminded him of his promise; adding, that it would be t",be
+ill,she,female,pronoun,acomp,But you would not wish to be dancing while she is ill?”,be
+silent,he,male,pronoun,acomp,He was silent.,be
+offended,he,male,pronoun,acomp,"Mr. Darcy smiled; but Elizabeth thought she could perceive that he was rather offended, and therefore checked her laugh.",be
+amazed,elizabeth,female,name,acomp,"Elizabeth, having rather expected to affront him, was amazed at his gallantry; but there was a mixture of sweetness and archness in her manner which m",be
+glad,he,male,pronoun,acomp,"He addressed himself directly to Miss Bennet with a polite congratulation; Mr. Hurst also made her a slight bow, and said he was “very glad;” but diff",be
+full,he,male,pronoun,acomp,He was full of joy and attention.,be
+studious,darcy,male,name,acomp,"Her figure was elegant, and she walked well; but Darcy, at whom it was all aimed, was still inflexibly studious.",be
+surprised,elizabeth,female,name,acomp,"Elizabeth was surprised, but agreed to it immediately.",be
+awake,he,male,pronoun,acomp,"He was as much awake to the novelty of attention in that quarter as Elizabeth herself could be, and unconsciously closed his book.",be
+incapable,bingley,male,name,acomp,"Miss Bingley, however, was incapable of disappointing Mr. Darcy in anything, and persevered, therefore, in requiring an explanation of his two motives",be
+sorry,darcy,male,name,acomp,"Her sister made not the smallest objection, and the pianoforte was opened; and Darcy, after a few moments’ recollection, was not sorry for it.",be
+impatient,she,female,pronoun,acomp,"Her answer, therefore, was not propitious, at least not to Elizabeth’s wishes, for she was impatient to get home.",be
+sorry,bingley,male,name,acomp,Miss Bingley was then sorry that she had proposed the delay; for her jealousy and dislike of one sister much exceeded her affection for the other.,be
+firm,jane,female,name,acomp,"The master of the house heard with real sorrow that they were to go so soon, and repeatedly tried to persuade Miss Bennet that it would not be safe fo",be
+right,herself,female,pronoun,acomp,"The master of the house heard with real sorrow that they were to go so soon, and repeatedly tried to persuade Miss Bennet that it would not be safe fo",be
+uncivil,bingley,male,name,acomp,She attracted him more than he liked; and Miss Bingley was uncivil to _her_ and more teasing than usual to himself.,be
+glad,father,male,role_noun,acomp,"But their father, though very laconic in his expressions of pleasure, was really glad to see them; he had felt their importance in the family circle.",be
+indulgent,catherine,female,name,acomp,"“He seems to be a most conscientious and polite young man, upon my word; and, I doubt not, will prove a valuable acquaintance, especially if Lady Cath",be
+disposed,he,male,pronoun,acomp,"“There is some sense in what he says about the girls, however; and, if he is disposed to make them any amends, I shall not be the person to discourage",be
+punctual,collins,male,name,acomp,"Mr. Collins was punctual to his time, and was received with great politeness by the whole family.",be
+ready,lady,female,role_noun,acomp,"Mr. Bennet indeed said little; but the ladies were ready enough to talk, and Mr. Collins seemed neither in need of encouragement, nor inclined to be s",be
+eloquent,collins,male,name,acomp,Mr. Collins was eloquent in her praise.,be
+pleased,she,female,pronoun,acomp,She had been graciously pleased to approve of both the discourses which he had already had the honour of preaching before her.,be
+well,she,female,pronoun,acomp,"“Ah,” cried Mrs. Bennet, shaking her head, “then she is better off than many girls.",be
+handsome,she,female,pronoun,acomp,Is she handsome?”,be
+amiable,she,female,pronoun,acomp,"But she is perfectly amiable, and often condescends to drive by my humble abode in her little phaeton and ponies.”",be
+glad,bennet,male,name,acomp,"By tea-time, however, the dose had been enough, and Mr. Bennet was glad to take his guest into the drawing-room again, and when tea was over, glad to ",be
+interested,lady,female,role_noun,acomp,"Lydia was bid by her two eldest sisters to hold her tongue; but Mr. Collins, much offended, laid aside his book, and said,-- “I have often observed ho",be
+high,man,male,role_noun,acomp,"Mrs. Bennet treasured up the hint, and trusted that she might soon have two daughters married; and the man whom she could not bear to speak of the day",be
+sure,he,male,pronoun,acomp,"In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every",be
+happy,he,male,pronoun,acomp,"Mr. Denny addressed them directly, and entreated permission to introduce his friend, Mr. Wickham, who had returned with him the day before from town, ",be
+interested,she,female,pronoun,acomp,"At first there seemed danger of Lydia’s engrossing him entirely, for she was a most determined talker; but being likewise extremely fond of lottery ti",grow
+eager,she,female,pronoun,acomp,"At first there seemed danger of Lydia’s engrossing him entirely, for she was a most determined talker; but being likewise extremely fond of lottery ti",grow
+willing,she,female,pronoun,acomp,"Allowing for the common demands of the game, Mr. Wickham was therefore at leisure to talk to Elizabeth, and she was very willing to hear him, though w",be
+surprised,elizabeth,female,name,acomp,Elizabeth could not but look surprised.,look
+likely,he,male,pronoun,acomp,"“I wonder,” said he, at the next opportunity of speaking, “whether he is likely to be in this country much longer.”",be
+deep,elizabeth,female,name,acomp,"Elizabeth was again deep in thought, and after a time exclaimed, “To treat in such a manner the godson, the friend, the favourite of his father!”",be
+esteemed,he,male,pronoun,acomp,"He was most highly esteemed by Mr. Darcy, a most intimate, confidential friend.",be
+proud,he,male,pronoun,acomp,"If from no better motive, that he should not have been too proud to be dishonest,--for dishonesty I must call it.”",be
+proud,he,male,pronoun,acomp,"Family pride, and _filial_ pride, for he is very proud of what his father was, have done this.",be
+much,she,female,pronoun,acomp,"It gives me pain to speak ill of a Darcy; but she is too much like her brother,--very, very proud.",be
+affectionate,she,female,pronoun,acomp,"As a child, she was affectionate and pleasing, and extremely fond of me; and I have devoted hours and hours to her amusement.",be
+minded,he,male,pronoun,acomp,"His pride never deserts him; but with the rich he is liberal-minded, just, sincere, rational, honourable, and, perhaps, agreeable,--allowing something",be
+aunt,she,female,pronoun,attr,“You know of course that Lady Catherine de Bourgh and Lady Anne Darcy were sisters; consequently that she is aunt to the present Mr. Darcy.”,be
+silent,lydia,female,name,acomp,"She could think of nothing but of Mr. Wickham, and of what he had told her, all the way home; but there was not time for her even to mention his name ",be
+unworthy,darcy,male,name,acomp,Jane listened with astonishment and concern: she knew not how to believe that Mr. Darcy could be so unworthy of Mr. Bingley’s regard; and yet it was n,be
+capable,man,male,role_noun,acomp,"No man of common humanity, no man who had any value for his character, could be capable of it.",be
+delighted,lady,female,role_noun,acomp,"The two ladies were delighted to see their dear friend again, called it an age since they had met, and repeatedly asked what she had been doing with h",be
+surprised,she,female,pronoun,acomp,"Elizabeth’s spirits were so high on the occasion, that though she did not often speak unnecessarily to Mr. Collins, she could not help asking him whet",be
+pleased,she,female,pronoun,acomp,"She was not the better pleased with his gallantry, from the idea it suggested of something more.",be
+answerable,darcy,male,name,acomp,"This part of his intelligence, though unheard by Lydia, was caught by Elizabeth; and, as it assured her that Darcy was not less answerable for Wickham",be
+able,she,female,pronoun,acomp,"But Elizabeth was not formed for ill-humour; and though every prospect of her own was destroyed for the evening, it could not dwell long on her spirit",be
+unable,she,female,pronoun,acomp,"She answered in the affirmative; and, unable to resist the temptation, added, “When you met us there the other day, we had just been forming a new acq",answer
+capable,he,male,pronoun,acomp,"“Mr. Wickham is blessed with such happy manners as may insure his _making_ friends; whether he may be equally capable of _retaining_ them, is less cer",be
+unlucky,he,male,pronoun,acomp,"“He has been so unlucky as to lose your friendship,” replied Elizabeth, with emphasis, “and in a manner which he is likely to suffer from all his life",be
+likely,he,male,pronoun,acomp,"“He has been so unlucky as to lose your friendship,” replied Elizabeth, with emphasis, “and in a manner which he is likely to suffer from all his life",be
+kind,he,male,pronoun,acomp,"Let me recommend you, however, as a friend, not to give implicit confidence to all his assertions; for, as to Mr. Darcy’s using him ill, it is perfect",be
+glad,he,male,pronoun,acomp,"I do not know the particulars, but I know very well that Mr. Darcy is not in the least to blame; that he cannot bear to hear George Wickham mentioned;",be
+satisfied,she,female,pronoun,acomp,"Jane met her with a smile of such sweet complacency, a glow of such happy expression, as sufficiently marked how well she was satisfied with the occur",be
+imprudent,he,male,pronoun,acomp,"I am afraid he has been very imprudent, and has deserved to lose Mr. Darcy’s regard.”",be
+unacquainted,he,male,pronoun,acomp,"Mr. Bingley’s defence of his friend was a very able one, I dare say; but since he is unacquainted with several parts of the story, and has learnt the ",be
+fortunate,he,male,pronoun,acomp,"On their being joined by Mr. Bingley himself, Elizabeth withdrew to Miss Lucas; to whose inquiry after the pleasantness of her last partner she had sc",be
+convinced,he,male,pronoun,acomp,"He answered me with the utmost civility, and even paid me the compliment of saying, that he was so well convinced of Lady Catherine’s discernment as t",be
+capable,she,female,pronoun,acomp,"She saw her in idea settled in that very house, in all the felicity which a marriage of true affection could bestow; and she felt capable, under such ",feel
+fond,sister,female,role_noun,acomp,"His being such a charming young man, and so rich, and living but three miles from them, were the first points of self-gratulation; and then it was suc",be
+afraid,elizabeth,female,name,acomp,"Mary, though pretending not to hear, was somewhat disconcerted; and Elizabeth, sorry for her, and sorry for her father’s speech, was afraid her anxiet",be
+indifferent,he,male,pronoun,acomp,"He assured her that, as to dancing, he was perfectly indifferent to it; that his chief object was, by delicate attentions, to recommend himself to her",be
+free,she,female,pronoun,acomp,"She was at least free from the offence of Mr. Darcy’s further notice: though often standing within a very short distance of her, quite disengaged, he ",be
+disengaged,she,female,pronoun,acomp,"She was at least free from the offence of Mr. Darcy’s further notice: though often standing within a very short distance of her, quite disengaged, he ",be
+civil,bennet,male,name,acomp,"When at length they arose to take leave, Mrs. Bennet was most pressingly civil in her hope of seeing the whole family soon at Longbourn; and addressed",be
+happy,he,male,pronoun,acomp,"When at length they arose to take leave, Mrs. Bennet was most pressingly civil in her hope of seeing the whole family soon at Longbourn; and addressed",make
+satisfied,bennet,male,name,acomp,"Mrs. Bennet was perfectly satisfied; and quitted the house under the delightful persuasion that, allowing for the necessary preparations of settlement",be
+good,man,male,role_noun,acomp,"Elizabeth was the least dear to her of all her children; and though the man and the match were quite good enough for _her_, the worth of each was ecli",be
+unnecessary,collins,male,name,acomp,"“Indeed, Mr. Collins, all praise of me will be unnecessary.",be
+glad,she,female,pronoun,acomp,"This information, however, startled Mrs. Bennet: she would have been glad to be equally satisfied that her daughter had meant to encourage him by prot",be
+disappointed,bennet,male,name,acomp,"Elizabeth could not but smile at such a conclusion of such a beginning; but Mrs. Bennet, who had persuaded herself that her husband regarded the affai",be
+alone,bennet,male,name,acomp,"Charlotte had hardly time to answer before they were joined by Kitty, who came to tell the same news; and no sooner had they entered the breakfast-roo",be
+dead,father,male,role_noun,acomp,"But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at ",be
+sensible,he,male,pronoun,acomp,He scarcely ever spoke to her; and the assiduous attentions which he had been so sensible of himself were transferred for the rest of the day to Miss ,be
+aware,she,female,pronoun,acomp,"But may we not hope that the period of future happiness, to which Miss Bingley looks forward, may arrive earlier than she is aware, and that the delig",be
+impatient,darcy,male,name,acomp,"‘Mr. Darcy is impatient to see his sister; and to confess the truth, _we_ are scarcely less eager to meet her again.",be
+convinced,she,female,pronoun,acomp,Does it not expressly declare that Caroline neither expects nor wishes me to be her sister; that she is perfectly convinced of her brother’s indiffere,be
+anxious,she,female,pronoun,acomp,"But the case is this:--we are not rich enough or grand enough for them; and she is the more anxious to get Miss Darcy for her brother, from the notion",be
+incapable,caroline,female,name,acomp,"Caroline is incapable of wilfully deceiving anyone; and all that I can hope in this case is, that she is deceived herself.”",be
+sure,she,female,pronoun,acomp,"Such was Miss Lucas’s scheme; and appearances were so favourable, that when they parted at night, she would have felt almost sure of success if he had",feel
+anxious,he,male,pronoun,acomp,"He was anxious to avoid the notice of his cousins, from a conviction that, if they saw him depart, they could not fail to conjecture his design, and h",be
+willing,he,male,pronoun,acomp,"He was anxious to avoid the notice of his cousins, from a conviction that, if they saw him depart, they could not fail to conjecture his design, and h",be
+likely,bennet,male,name,acomp,"[_Copyright 1894 by George Allen._]] excited before, how many years longer Mr. Bennet was likely to live; and Sir William gave it as his decided opini",be
+sensible,collins,male,name,acomp,"Mr. Collins, to be sure, was neither sensible nor agreeable: his society was irksome, and his attachment to her must be imaginary.",be
+able,collins,male,name,acomp,"Do you think it incredible that Mr. Collins should be able to procure any woman’s good opinion, because he was not so happy as to succeed with you?”",be
+happy,he,male,pronoun,acomp,"Do you think it incredible that Mr. Collins should be able to procure any woman’s good opinion, because he was not so happy as to succeed with you?”",be
+mistaken,he,male,pronoun,acomp,[Illustration: “Protested he must be entirely mistaken.”,be
+mistaken,he,male,pronoun,acomp,"With many compliments to them, and much self-gratulation on the prospect of a connection between the houses, he unfolded the matter,--to an audience n",be
+sure,she,female,pronoun,acomp,"In the first place, she persisted in disbelieving the whole of the matter; secondly, she was very sure that Mr. Collins had been taken in; thirdly, sh",be
+happy,she,female,pronoun,acomp,Lady Lucas could not be insensible of triumph on being able to retort on Mrs. Bennet the comfort of having a daughter well married; and she called at ,be
+sure,she,female,pronoun,acomp,"Her disappointment in Charlotte made her turn with fonder regard to her sister, of whose rectitude and delicacy she was sure her opinion could never b",be
+anxious,she,female,pronoun,acomp,"Her disappointment in Charlotte made her turn with fonder regard to her sister, of whose rectitude and delicacy she was sure her opinion could never b",grow
+ready,he,male,pronoun,acomp,"After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the a",be
+disposed,she,female,pronoun,acomp,"On the contrary, she was as much disposed to complain of it as her husband.",be
+comfortable,jane,female,name,acomp,Neither Jane nor Elizabeth were comfortable on this subject.,be
+indifferent,bingley,male,name,acomp,Even Elizabeth began to fear--not that Bingley was indifferent--but that his sisters would be successful in keeping him away.,be
+successful,sister,female,role_noun,acomp,Even Elizabeth began to fear--not that Bingley was indifferent--but that his sisters would be successful in keeping him away.,be
+desirous,she,female,pronoun,acomp,"As for Jane, _her_ anxiety under this suspense was, of course, more painful than Elizabeth’s: but whatever she felt she was desirous of concealing; an",be
+happy,he,male,pronoun,acomp,"He was too happy, however, to need much attention; and, luckily for the others, the business of love-making relieved them from a great deal of his com",be
+sure,she,female,pronoun,acomp,"The very mention of anything concerning the match threw her into an agony of ill-humour, and wherever she went she was sure of hearing it talked of.",be
+dead,bennet,male,name,acomp,"Whenever Charlotte came to see them, she concluded her to be anticipating the hour of possession; and whenever she spoke in a low voice to Mr. Collins",be
+fond,he,male,pronoun,acomp,"That he was really fond of Jane, she doubted no more than she had ever done; and much as she had always been disposed to like him, she could not think",be
+sensible,he,male,pronoun,acomp,"Had his own happiness, however, been the only sacrifice, he might have been allowed to sport with it in whatever manner he thought best; but her siste",be
+aware,he,male,pronoun,acomp,"She could think of nothing else; and yet, whether Bingley’s regard had really died away, or were suppressed by his friends’ interference; whether he h",be
+guarded,man,male,role_noun,acomp,We must not expect a lively young man to be always so guarded and circumspect.,be
+bred,man,male,role_noun,acomp,"The Netherfield ladies would have had difficulty in believing that a man who lived by trade, and within view of his own warehouses, could have been so",be
+inattentive,he,male,pronoun,acomp,"“I never saw a more promising inclination; he was growing quite inattentive to other people, and wholly engrossed by her.",grow
+pleased,elizabeth,female,name,acomp,"Elizabeth was exceedingly pleased with this proposal, and felt persuaded of her sister’s ready acquiescence.",be
+able,she,female,pronoun,acomp,She_ will not be able to help calling.”,be
+little,wickham,male,name,acomp,"They had, therefore, many acquaintance in common; and, though Wickham had been little there since the death of Darcy’s father, five years before, it w",be
+partial,father,male,role_noun,acomp,"My father, however, is partial to Mr. Wickham.",be
+happy,she,female,pronoun,acomp,"Charlotte’s first letters were received with a good deal of eagerness: there could not but be curiosity to know how she would speak of her new home, h",dare
+glad,she,female,pronoun,acomp,"“I did not think Caroline in spirits,” were her words, “but she was very glad to see me, and reproached me for giving her no notice of my coming to Lo",be
+blind,she,female,pronoun,acomp,She endeavoured to persuade herself that she did not regret it; but she could no longer be blind to Miss Bingley’s inattention.,be
+wrong,she,female,pronoun,acomp,"She was very wrong in singling me out as she did; I can safely say, that every advance to intimacy began on her side.",be
+partial,he,male,pronoun,acomp,"He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to pers",be
+watchful,elizabeth,female,name,acomp,"Elizabeth was watchful enough to see it all, but she could see it and write of it without material pain.",be
+ready,she,female,pronoun,acomp,"Nothing, on the contrary, could be more natural; and, while able to suppose that it cost him a few struggles to relinquish her, she was ready to allow",be
+sorry,she,female,pronoun,acomp,"The journey would, moreover, give her a peep at Jane; and, in short, as the time drew near, she would have been very sorry for any delay.",be
+first,elizabeth,female,name,attr,"His present pursuit could not make him forget that Elizabeth had been the first to excite and to deserve his attention, the first to listen and to pit",be
+mercenary,he,male,pronoun,acomp,"Last Christmas you were afraid of his marrying me, because it would be imprudent; and now, because he is trying to get a girl with only ten thousand p",be
+deficient,she,female,pronoun,acomp,It only shows her being deficient in something herself--sense or feeling.”,be
+mercenary,he,male,pronoun,acomp,"He_ shall be mercenary, and _she_ shall be foolish.”",be
+foolish,she,female,pronoun,acomp,"He_ shall be mercenary, and _she_ shall be foolish.”",be
+satisfied,elizabeth,female,name,acomp,"Mrs. Collins welcomed her friend with the liveliest pleasure, and Elizabeth was more and more satisfied with coming, when she found herself so affecti",be
+prepared,elizabeth,female,name,acomp,"Elizabeth was prepared to see him in his glory; and she could not help fancying that in displaying the good proportion of the room, its aspect, and it",be
+able,she,female,pronoun,acomp,"But though everything seemed neat and comfortable, she was not able to gratify him by any sigh of repentance; and rather looked with wonder at her fri",be
+ashamed,wife,female,role_noun,acomp,"When Mr. Collins said anything of which his wife might reasonably be ashamed, which certainly was not seldom, she involuntarily turned her eye on Char",be
+thin,she,female,pronoun,acomp,Who would have thought she could be so thin and small!”,be
+rude,she,female,pronoun,acomp,“She is abominably rude to keep Charlotte out of doors in all this wind.,be
+sickly,she,female,pronoun,acomp,“She looks sickly and cross.,look
+necessary,he,male,pronoun,acomp,"Her Ladyship, with great condescension, arose to receive them; and as Mrs. Collins had settled it with her husband that the office of introduction sho",think
+thin,she,female,pronoun,acomp,"When, after examining the mother, in whose countenance and deportment she soon found some resemblance of Mr. Darcy, she turned her eyes on the daughte",be
+ready,elizabeth,female,name,acomp,"Elizabeth was ready to speak whenever there was an opening, but she was seated between Charlotte and Miss de Bourgh--the former of whom was engaged in",be
+young,sister,female,role_noun,acomp,Your younger sisters must be very young?”,be
+young,she,female,pronoun,acomp,she_ is full young to be much in company.,be
+thankful,elizabeth,female,name,acomp,"While Sir William was with them, Mr. Collins devoted his mornings to driving him out in his gig, and showing him the country: but when he went away, t",be
+less,collins,male,name,acomp,"Elizabeth at first had rather wondered that Charlotte should not prefer the dining parlour for common use; it was a better sized room, and had a pleas",be
+sensible,she,female,pronoun,acomp,She was perfectly sensible that he never had: but she wished to see whether he would betray any consciousness of what had passed between the Bingleys ,be
+confused,he,male,pronoun,acomp,She was perfectly sensible that he never had: but she wished to see whether he would betray any consciousness of what had passed between the Bingleys ,look
+fortunate,he,male,pronoun,acomp,She was perfectly sensible that he never had: but she wished to see whether he would betray any consciousness of what had passed between the Bingleys ,be
+welcome,she,female,pronoun,acomp,"I have told Miss Bennet several times, that she will never play really well, unless she practises more; and though Mrs. Collins has no instrument, she",be
+ashamed,darcy,male,name,acomp,"Mr. Darcy looked a little ashamed of his aunt’s ill-breeding, and made no answer.",look
+scarce,gentleman,male,role_noun,acomp,"He danced only four dances, though gentlemen were scarce; and, to my certain knowledge, more than one young lady was sitting down in want of a partner",be
+qualified,man,male,role_noun,acomp,"“Shall we ask him why a man of sense and education, and who has lived in the world, is ill-qualified to recommend himself to strangers?”",be
+likely,he,male,pronoun,acomp,"Elizabeth looked at Darcy, to see how cordially he assented to his cousin’s praise: but neither at that moment nor at any other could she discern any ",be
+well,he,male,pronoun,acomp,"He and his sisters were well, I hope, when you left London?”",be
+afraid,she,female,pronoun,acomp,"She was afraid of talking longer of his friend; and, having nothing else to say, was now determined to leave the trouble of finding a subject to him.",be
+surprised,elizabeth,female,name,acomp,Elizabeth looked surprised.,look
+different,he,male,pronoun,acomp,"Colonel Fitzwilliam’s occasionally laughing at his stupidity proved that he was generally different, which her own knowledge of him could not have tol",be
+partial,his,male,pronoun,acomp,"She had once or twice suggested to Elizabeth the possibility of his being partial to her, but Elizabeth always laughed at the idea; and Mrs. Collins d",be
+glad,she,female,pronoun,acomp,"It distressed her a little, and she was quite glad to find herself at the gate in the pales opposite the Parsonage.",be
+rich,he,male,pronoun,acomp,"It is only that he has better means of having it than many others, because he is rich, and many others are poor.",be
+sickly,brother,male,role_noun,acomp,"Unless the elder brother is very sickly, I suppose you would not ask above fifty thousand pounds.”",be
+difficult,lady,female,role_noun,acomp,"Young ladies of her age are sometimes a little difficult to manage; and if she has the true Darcy spirit, she may like to have her own way.”",be
+favourite,she,female,pronoun,attr,"She is a very great favourite with some ladies of my acquaintance, Mrs. Hurst and Miss Bingley.",be
+pleasant,brother,male,role_noun,attr,"Their brother is a pleasant, gentlemanlike man--he is a great friend of Darcy’s.”",be
+kind,darcy,male,name,acomp,"Darcy is uncommonly kind to Mr. Bingley, and takes a prodigious deal of care of him.”",be
+thoughtful,she,female,pronoun,acomp,"After watching her a little, Fitzwilliam asked her why she was so thoughtful.",be
+unwell,she,female,pronoun,acomp,"Mrs. Collins, seeing that she was really unwell, did not press her to go, and as much as possible prevented her husband from pressing her; but Mr. Col",be
+able,he,male,pronoun,acomp,Mr. Darcy’s shameful boast of what misery he had been able to inflict gave her a keener sense of her sister’s sufferings.,be
+well,she,female,pronoun,acomp,"In a hurried manner he immediately began an inquiry after her health, imputing his visit to a wish of hearing that she were better.",be
+surprised,elizabeth,female,name,acomp,"Elizabeth was surprised, but said not a word.",be
+eloquent,he,male,pronoun,acomp,"He spoke well; but there were feelings besides those of the heart to be detailed, and he was not more eloquent on the subject of tenderness than of pr",be
+insensible,she,female,pronoun,acomp,"In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary",be
+sorry,she,female,pronoun,acomp,"In spite of her deeply-rooted dislike, she could not be insensible to the compliment of such a man’s affection, and though her intentions did not vary",be
+great,darcy,male,name,acomp,"repeated Darcy, contemptuously,--“yes, his misfortunes have been great indeed.”",be
+angry,herself,female,pronoun,acomp,"Elizabeth felt herself growing more angry every moment; yet she tried to the utmost to speak with composure when she said,--",grow
+"on,--",she,female,pronoun,acomp,"She went on,-- “From the very beginning, from the first moment, I may almost say, of my acquaintance with you, your manners impressing me with the ful",go
+unequal,she,female,pronoun,acomp,She continued in very agitating reflections till the sound of Lady Catherine’s carriage made her feel how unequal she was to encounter Charlotte’s obs,be
+indifferent,she,female,pronoun,acomp,"I did not believe her to be indifferent because I wished it; I believed it on impartial conviction, as truly as I wished it in reason.",be
+ignorant,brother,male,role_noun,acomp,"I knew it myself, as it was known to Miss Bingley; but her brother is even yet ignorant of it.",be
+unable,father,male,role_noun,acomp,"My father supported him at school, and afterwards at Cambridge; most important assistance, as his own father, always poor from the extravagance of his",be
+fond,father,male,role_noun,attr,"My father was not only fond of this young man’s society, whose manners were always engaging, he had also the highest opinion of him, and hoping the ch",be
+careful,he,male,pronoun,acomp,"The vicious propensities, the want of principle, which he was careful to guard from the knowledge of his best friend, could not escape the observation",be
+sincere,he,male,pronoun,acomp,"I rather wished than believed him to be sincere; but, at any rate, was perfectly ready to accede to his proposal.",be
+doubtless,he,male,pronoun,acomp,His resentment was in proportion to the distress of his circumstances--and he was doubtless as violent in his abuse of me to others as in his reproach,be
+violent,he,male,pronoun,acomp,His resentment was in proportion to the distress of his circumstances--and he was doubtless as violent in his abuse of me to others as in his reproach,be
+incomprehensible,bingley,male,name,acomp,"Every lingering struggle in his favour grew fainter and fainter; and in further justification of Mr. Darcy, she could not but allow that Mr. Bingley, ",be
+ashamed,she,female,pronoun,acomp,She grew absolutely ashamed of herself.,grow
+absurd,she,female,pronoun,acomp,"Of neither Darcy nor Wickham could she think, without feeling that she had been blind, partial, prejudiced, absurd.",be
+unsuspicious,himself,male,pronoun,acomp,He declared himself to have been totally unsuspicious of her sister’s attachment; and she could not help remembering what Charlotte’s opinion had alwa,be
+depressed,she,female,pronoun,acomp,"It soothed, but it could not console her for the contempt which had been thus self-attracted by the rest of her family; and as she considered that Jan",feel
+dull,she,female,pronoun,acomp,"To Rosings he then hastened to console Lady Catherine and her daughter; and on his return brought back, with great satisfaction, a message from her La",feel
+glad,collins,male,name,acomp,"Mrs. Collins will be very glad of your company, I am sure.”",be
+full,she,female,pronoun,acomp,"When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided ",be
+insensible,mother,female,role_noun,acomp,"Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with ",be
+eager,elizabeth,female,name,acomp,Elizabeth was eager with her thanks and assurances of happiness.,be
+sorry,she,female,pronoun,acomp,"She was not sorry, however, to have the recital of them interrupted by the entrance of the lady from whom they sprang.",be
+able,she,female,pronoun,acomp,"To know that she had the power of revealing what would so exceedingly astonish Jane, and must, at the same time, so highly gratify whatever of her own",be
+safe,wickham,male,name,acomp,Wickham is safe.”,be
+safe,elizabeth,female,name,acomp,added Elizabeth; “safe from a connection imprudent as to fortune.”,add
+sick,kitty,female,name,acomp,"as we went along Kitty and me drew up all the blinds, and pretended there was nobody in the coach; and I should have gone so all the way, if Kitty had",be
+urgent,lydia,female,name,acomp,"In the afternoon Lydia was urgent with the rest of the girls to walk to Meryton, and see how everybody went on; but Elizabeth steadily opposed the sch",be
+sorry,she,female,pronoun,acomp,She was sorry that Mr. Darcy should have delivered his sentiments in a manner so little suited to recommend them; but still more was she grieved for t,be
+sorry,he,male,pronoun,acomp,"He is now, perhaps, sorry for what he has done, and anxious to re-establish a character.",be
+sensible,she,female,pronoun,acomp,Here was knowledge in which no one could partake; and she was sensible that nothing less than a perfect understanding between the parties could justif,be
+happy,jane,female,name,acomp,Jane was not happy.,be
+sorry,he,male,pronoun,acomp,"Well, my comfort is, I am sure Jane will die of a broken heart, and then he will be sorry for what he has done.”",be
+sharp,she,female,pronoun,acomp,"If she is half as sharp as her mother, she is saving enough.",be
+dead,father,male,role_noun,acomp,"And so, I suppose, they often talk of having Longbourn when your father is dead.",be
+disposed,she,female,pronoun,acomp,She felt anew the justice of Mr. Darcy’s objections; and never had she before been so much disposed to pardon his interference in the views of his fri,be
+imprudent,her,female,pronoun,acomp,"She represented to him all the improprieties of Lydia’s general behaviour, the little advantage she could derive from the friendship of such a woman a",be
+easy,lydia,female,name,acomp,"He heard her attentively, and then said,-- “Lydia will never be easy till she has exposed herself in some public place or other, and we can never expe",be
+poor,she,female,pronoun,acomp,"Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to anybody.",be
+confident,she,female,pronoun,acomp,"She was confident of having performed her duty; and to fret over unavoidable evils, or augment them by anxiety, was no part of her disposition.",be
+surprised,he,male,pronoun,acomp,"He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and,",look
+silent,he,male,pronoun,acomp,"Wickham’s alarm now appeared in a heightened complexion and agitated look; for a few minutes he was silent; till, shaking off his embarrassment, he tu",be
+wise,he,male,pronoun,acomp,"Wickham’s alarm now appeared in a heightened complexion and agitated look; for a few minutes he was silent; till, shaking off his embarrassment, he tu",be
+diffuse,bennet,male,name,acomp,"Mrs. Bennet was diffuse in her good wishes for the felicity of her daughter, and impressive in her injunctions that she would not miss the opportunity",be
+fond,he,male,pronoun,acomp,He was fond of the country and of books; and from these tastes had arisen his principal enjoyments.,be
+indebted,he,male,pronoun,acomp,To his wife he was very little otherwise indebted than as her ignorance and folly had contributed to his amusement.,be
+blind,elizabeth,female,name,acomp,"Elizabeth, however, had never been blind to the impropriety of her father’s behaviour as a husband.",be
+likely,sister,female,role_noun,acomp,"Their parties abroad were less varied than before; and at home she had a mother and sister, whose constant repinings at the dulness of everything arou",be
+reasonable,she,female,pronoun,acomp,Mrs. Bennet was restored to her usual querulous serenity; and by the middle of June Kitty was so much recovered as to be able to enter Meryton without,be
+disappointed,elizabeth,female,name,acomp,Elizabeth was excessively disappointed: she had set her heart on seeing the Lakes; and still thought there might have been time enough.,be
+distressed,elizabeth,female,name,acomp,Elizabeth was distressed.,be
+tired,she,female,pronoun,acomp,"She must own that she was tired of great houses: after going over so many, she really had no pleasure in fine carpets or satin curtains.",be
+delighted,elizabeth,female,name,acomp,Elizabeth was delighted.,be
+wild,he,male,pronoun,acomp,"“He is now gone into the army,” she added; “but I am afraid he has turned out very wild.”",turn
+fond,he,male,pronoun,acomp,He was very fond of them.”,be
+old,she,female,pronoun,acomp,"Mrs. Reynolds then directed their attention to one of Miss Darcy, drawn when she was only eight years old.",be
+handsome,darcy,male,name,acomp,“And is Miss Darcy as handsome as her brother?” said Mr. Gardiner.,be
+old,he,male,pronoun,acomp,"Elizabeth thought this was going pretty far; and she listened with increasing astonishment as the housekeeper added, “I have never had a cross word fr",be
+sensible,elizabeth,female,name,acomp,"They had now entered a beautiful walk by the side of the water, and every step was bringing forward a nobler fall of ground, or a finer reach of the w",be
+dear,she,female,pronoun,acomp,"She longed to know what at that moment was passing in his mind; in what manner he thought of her, and whether, in defiance of everything, she was stil",be
+civil,he,male,pronoun,acomp,"Perhaps he had been civil only because he felt himself at ease; yet there had been _that_ in his voice, which was not like ease.",be
+prepared,elizabeth,female,name,acomp,"Elizabeth, however astonished, was at least more prepared for an interview than before, and resolved to appear and to speak with calmness, if he reall",be
+unprepared,she,female,pronoun,acomp,This was a stroke of civility for which she was quite unprepared; and she could hardly suppress a smile at his being now seeking the acquaintance of s,be
+pleased,elizabeth,female,name,acomp,"Elizabeth could not but be pleased, could not but triumph.",be
+ill,he,male,pronoun,acomp,"She immediately felt that whatever desire Miss Darcy might have of being acquainted with her, must be the work of her brother, and without looking far",think
+comfortable,elizabeth,female,name,acomp,Elizabeth was not comfortable; that was impossible; but she was flattered and pleased.,be
+handsome,he,male,pronoun,acomp,"“To be sure, Lizzy,” said her aunt, “he is not so handsome as Wickham; or rather he has not Wickham’s countenance, for his features are perfectly good",be
+disagreeable,he,male,pronoun,acomp,But how came you to tell us that he was so disagreeable?”,be
+whimsical,he,male,pronoun,acomp,"“But perhaps he may be a little whimsical in his civilities,” replied her uncle.",be
+amazed,she,female,pronoun,acomp,"She was quite amazed at her own discomposure; but, amongst other causes of disquiet, she dreaded lest the partiality of the brother should have said t",be
+proud,darcy,male,name,acomp,"Since her being at Lambton, she had heard that Miss Darcy was exceedingly proud; but the observation of a very few minutes convinced her that she was ",be
+shy,she,female,pronoun,acomp,"Since her being at Lambton, she had heard that Miss Darcy was exceedingly proud; but the observation of a very few minutes convinced her that she was ",be
+tall,darcy,male,name,acomp,"Miss Darcy was tall, and on a larger scale than Elizabeth; and, though little more than sixteen, her figure was formed, and her appearance womanly and",be
+handsome,she,female,pronoun,acomp,"She was less handsome than her brother, but there was sense and good-humour in her face, and her manners were perfectly unassuming and gentle.",be
+sure,she,female,pronoun,acomp,"She wanted to ascertain the feelings of each of her visitors, she wanted to compose her own, and to make herself agreeable to all; and in the latter o",be
+ready,bingley,male,name,acomp,"Bingley was ready, Georgiana was eager, and Darcy determined, to be pleased.",be
+eager,georgiana,female,name,acomp,"Bingley was ready, Georgiana was eager, and Darcy determined, to be pleased.",be
+satisfied,she,female,pronoun,acomp,"On this point she was soon satisfied; and two or three little circumstances occurred ere they parted, which, in her anxious interpretation, denoted a ",be
+pleased,elizabeth,female,name,acomp,"Elizabeth was pleased to find his memory so exact; and he afterwards took occasion to ask her, when unattended to by any of the rest, whether _all_ he",be
+old,he,male,pronoun,acomp,"There was now an interest, however, in believing the housekeeper; and they soon became sensible that the authority of a servant, who had known him sin",be
+ashamed,she,female,pronoun,acomp,"No; hatred had vanished long ago, and she had almost as long been ashamed of ever feeling a dislike against him, that could be so called.",be
+grateful,she,female,pronoun,acomp,"She respected, she esteemed, she was grateful to him, she felt a real interest in his welfare; and she only wanted to know how far she wished that wel",be
+proud,she,female,pronoun,acomp,"Georgiana’s reception of them was very civil, but attended with all that embarrassment which, though proceeding from shyness and the fear of doing wro",be
+sorry,she,female,pronoun,acomp,"This observation would not have prevented her from trying to talk to the latter, had they not been seated at an inconvenient distance; but she was not",be
+anxious,he,male,pronoun,acomp,"Miss Darcy, on her brother’s entrance, exerted herself much more to talk; and Elizabeth saw that he was anxious for his sister and herself to get acqu",be
+uppermost,he,male,pronoun,acomp,In Darcy’s presence she dared not mention Wickham’s name: but Elizabeth instantly comprehended that he was uppermost in her thoughts; and the various ,be
+anxious,brother,male,role_noun,acomp,"To no creature had it been revealed, where secrecy was possible, except to Elizabeth; and from all Bingley’s connections her brother was particularly ",be
+silent,he,male,pronoun,acomp,"He was resolutely silent, however; and, from a determination of making him speak, she continued,-- “I remember, when we first knew her in Hertfordshir",be
+amazed,she,female,pronoun,acomp,"He was resolutely silent, however; and, from a determination of making him speak, she continued,-- “I remember, when we first knew her in Hertfordshir",be
+surprised,elizabeth,female,name,acomp,"Elizabeth was not surprised at it, as Jane had written the direction remarkably ill.",be
+ill,mother,female,role_noun,acomp,"My poor mother is really ill, and keeps her room.",be
+wild,she,female,pronoun,acomp,"She was wild to be at home--to hear, to see, to be upon the spot to share with Jane in the cares that must now fall wholly upon her, in a family so de",be
+favourite,lydia,female,name,attr,"Though Lydia had never been a favourite with them, Mr. and Mrs. Gardiner could not but be deeply affected.",be
+certain,she,female,pronoun,acomp,"Had Elizabeth been at leisure to be idle, she would have remained certain that all employment was impossible to one so wretched as herself; but she ha",remain
+guilty,he,male,pronoun,acomp,"It is really too great a violation of decency, honour, and interest, for him to be guilty of it.",be
+young,she,female,pronoun,acomp,"But she is very young: she has never been taught to think on serious subjects; and for the last half year, nay, for a twelvemonth, she has been given ",be
+capable,she,female,pronoun,acomp,"And who is there, whatever might be their former conduct, that she would believe capable of such an attempt, till it were proved against them?",believe
+profligate,he,male,pronoun,acomp,We both know that he has been profligate in every sense of the word; that he has neither integrity nor honour; that he is as false and deceitful as he,be
+false,he,male,pronoun,acomp,We both know that he has been profligate in every sense of the word; that he has neither integrity nor honour; that he is as false and deceitful as he,be
+ignorant,she,female,pronoun,acomp,can she be ignorant of what you and Jane seem so well to understand?”,be
+ready,she,female,pronoun,acomp,"When first he entered the corps, she was ready enough to admire him; but so we all were.",be
+cold,he,male,pronoun,acomp,"The Collinses will turn us out, before he is cold in his grave; and if you are not kind to us, brother, I do not know what we shall do.”",be
+mistress,she,female,pronoun,attr,"As for Mary, she was mistress enough of herself to whisper to Elizabeth, with a countenance of grave reflection, soon after they were seated at table,",be
+eager,jane,female,name,acomp,"In the afternoon, the two elder Miss Bennets were able to be for half an hour by themselves; and Elizabeth instantly availed herself of the opportunit",be
+imprudent,he,male,pronoun,acomp,"He believed him to be imprudent and extravagant; and since this sad affair has taken place, it is said that he left Meryton greatly in debt: but I hop",be
+serious,she,female,pronoun,acomp,But at least it shows that _she_ was serious in the object of her journey.,be
+kind,mary,female,name,acomp,"“Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure, but I did not think it right for either of them.",be
+slight,kitty,female,name,acomp,"Kitty is slight and delicate, and Mary studies so much that her hours of repose should not be broken in on.",be
+hopeless,jane,female,name,acomp,"Elizabeth, though she did not credit above half of what was said, believed enough to make her former assurance of her sister’s ruin still more certain",become
+determined,he,male,pronoun,acomp,"That Mr. Bennet had been to Epsom and Clapham, before his arrival, but without gaining any satisfactory information; and that he was now determined to",be
+eager,brother,male,role_noun,acomp,"Mr. Gardiner himself did not expect any success from this measure; but as his brother was eager in it, he meant to assist him in pursuing it.",be
+sanguine,she,female,pronoun,acomp,"It was possible, however, that some of his companions in the ----shire might be able to give more information; and though she was not very sanguine in",be
+guilty,she,female,pronoun,acomp,"[_Copyright 1894 by George Allen._]] daughter has proceeded from a faulty degree of indulgence; though, at the same time, for the consolation of yours",be
+happy,she,female,pronoun,acomp,"“She is happy, then,” said her father, drily; “and her residence there will probably be of some duration.”",be
+undeserving,wickham,male,name,acomp,"“Wickham is not so undeserving, then, as we have thought him,” said her sister.",be
+ignorant,mother,female,role_noun,acomp,It now occurred to the girls that their mother was in all likelihood perfectly ignorant of what had happened.,be
+happy,mother,female,role_noun,acomp,"One day’s delay, she observed, would be of small importance; and her mother was too happy to be quite so obstinate as usual.",be
+indebted,lydia,female,name,acomp,"Had he done his duty in that respect, Lydia need not have been indebted to her uncle for whatever of honour or credit could now be purchased for her.",be
+concerned,he,male,pronoun,acomp,He was seriously concerned that a cause of so little advantage to anyone should be forwarded at the sole expense of his brother-in-law; and he was det,be
+certain,bennet,male,name,acomp,"Five daughters successively entered the world, but yet the son was to come; and Mrs. Bennet, for many years after Lydia’s birth, had been certain that",be
+quick,he,male,pronoun,acomp,"His letter was soon despatched; for though dilatory in undertaking business, he was quick in its execution.",be
+indebted,he,male,pronoun,acomp,He begged to know further particulars of what he was indebted to his brother; but was too angry with Lydia to send any message to her.,be
+firm,bennet,male,name,acomp,"A long dispute followed this declaration; but Mr. Bennet was firm: it soon led to another; and Mrs. Bennet found, with amazement and horror, that her ",be
+possible,she,female,pronoun,acomp,"That his anger could be carried to such a point of inconceivable resentment as to refuse his daughter a privilege, without which her marriage would sc",believe
+alive,she,female,pronoun,acomp,"She was more alive to the disgrace, which her want of new clothes must reflect on her daughter’s nuptials, than to any sense of shame at her eloping a",be
+sorry,elizabeth,female,name,acomp,"Elizabeth was now most heartily sorry that she had, from the distress of the moment, been led to make Mr. Darcy acquainted with their fears for her si",be
+jealous,she,female,pronoun,acomp,"She became jealous of his esteem, when she could no longer hope to be benefited by it.",become
+happy,she,female,pronoun,acomp,"She was convinced that she could have been happy with him, when it was no longer likely they should meet.",be
+generous,he,male,pronoun,acomp,"He was as generous, she doubted not, as the most generous of his sex.",be
+mortal,he,male,pronoun,acomp,"But while he was mortal, there must be a triumph.",be
+pleased,bennet,male,name,acomp,But Mrs. Bennet was not so well pleased with it.,be
+fond,she,female,pronoun,acomp,"“She is so fond of Mrs. Forster,” said she, “it will be quite shocking to send her away!",be
+able,she,female,pronoun,acomp,"And their mother had the satisfaction of knowing, that she should be able to show her married daughter in the neighbourhood, before she was banished t",be
+surprised,elizabeth,female,name,acomp,"Elizabeth was surprised, however, that Wickham should consent to such a scheme; and, had she consulted only her own inclination, any meeting with him ",be
+grave,husband,male,role_noun,acomp,"Smiles decked the face of Mrs. Bennet, as the carriage drove up to the door; her husband looked impenetrably grave; her daughters, alarmed, anxious, u",look
+disgusted,elizabeth,female,name,acomp,"Elizabeth was disgusted, and even Miss Bennet was shocked.",be
+distressed,wickham,male,name,acomp,"Wickham was not at all more distressed than herself; but his manners were always so pleasing, that, had his character and his marriage been exactly wh",be
+unable,she,female,pronoun,acomp,"The bride and her mother could neither of them talk fast enough; and Wickham, who happened to sit near Elizabeth, began inquiring after his acquaintan",feel
+distressed,jane,female,name,acomp,"Her father lifted up his eyes, Jane was distressed, Elizabeth looked expressively at Lydia; but she, who never heard nor saw anything of which she cho",be
+free,she,female,pronoun,acomp,It was not to be supposed that time would give Lydia that embarrassment from which she had been so wholly free at first.,be
+certain,she,female,pronoun,acomp,"She had scarcely needed her present observation to be satisfied, from the reason of things, that their elopement had been brought on by the strength o",feel
+fond,lydia,female,name,acomp,Lydia was exceedingly fond of him.,be
+sure,she,female,pronoun,acomp,He did everything best in the world; and she was sure he would kill more birds on the first of September than anybody else in the country.,be
+angry,wickham,male,name,acomp,"“Thank you,” said Lydia; “for if you did, I should certainly tell you all, and then Wickham would be so angry.”",be
+satisfied,she,female,pronoun,acomp,"Conjectures as to the meaning of it, rapid and wild, hurried into her brain; but she was satisfied with none.",be
+glad,elizabeth,female,name,acomp,Jane’s delicate sense of honour would not allow her to speak to Elizabeth privately of what Lydia had let fall; Elizabeth was glad of it:--till it app,be
+likely,she,female,pronoun,acomp,"She was no sooner in possession of it, than hurrying into the little copse, where she was least likely to be interrupted, she sat down on one of the b",be
+able,he,male,pronoun,acomp,"He had been some days in town before he was able to discover them; but he had something to direct his search, which was more than _we_ had; and the co",be
+able,she,female,pronoun,acomp,"Wickham, indeed, had gone to her on their first arrival in London; and had she been able to receive them into her house, they would have taken up thei",be
+sure,she,female,pronoun,acomp,"She was sure they should be married some time or other, and it did not much signify when.",be
+able,he,male,pronoun,acomp,"Though Mr. Bennet was not imagined to be very rich, he would have been able to do something for him, and his situation must have been benefited by mar",be
+likely,he,male,pronoun,acomp,"Under such circumstances, however, he was not likely to be proof against the temptation of immediate relief.",be
+punctual,darcy,male,name,acomp,"Mr. Darcy was punctual in his return, and, as Lydia informed you, attended the wedding.",be
+ashamed,she,female,pronoun,acomp,She was ashamed to think how much.,be
+wrong,he,male,pronoun,acomp,"It was reasonable that he should feel he had been wrong; he had liberality, and he had the means of exercising it; and though she would not place hers",be
+proud,she,female,pronoun,acomp,"For herself she was humbled; but she was proud of him,--proud that in a cause of compassion and honour he had been able to get the better of himself.",be
+able,he,male,pronoun,acomp,"For herself she was humbled; but she was proud of him,--proud that in a cause of compassion and honour he had been able to get the better of himself.",be
+sensible,she,female,pronoun,acomp,"She was even sensible of some pleasure, though mixed with regret, on finding how steadfastly both she and her uncle had been persuaded that affection ",be
+fond,she,female,pronoun,acomp,"Poor Reynolds, she was always very fond of me.",be
+afraid,she,female,pronoun,acomp,"“That you were gone into the army, and she was afraid had--not turned out well.",be
+promising,she,female,pronoun,acomp,"When I last saw her, she was not very promising.",be
+satisfied,wickham,male,name,acomp,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz",be
+pleased,she,female,pronoun,acomp,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz",be
+welcome,he,male,pronoun,acomp,"But, however, he is very welcome to come to Netherfield, if he likes it.",be
+able,bennet,male,name,acomp,Miss Bennet had not been able to hear of his coming without changing colour.,be
+able,she,female,pronoun,acomp,"Consoled by this resolution, she was the better able to bear her husband’s incivility; though it was very mortifying to know that her neighbours might",be
+uncomfortable,sister,female,role_noun,acomp,Both sisters were uncomfortable enough.,be
+secure,she,female,pronoun,acomp,"The colour which had been driven from her face returned for half a minute with an additional glow, and a smile of delight added lustre to her eyes, as",be
+serious,he,male,pronoun,acomp,"He looked serious as usual; and, she thought, more as he had been used to look in Hertfordshire, than as she had seen him at Pemberley.",look
+pleased,he,male,pronoun,acomp,"Bingley she had likewise seen for an instant, and in that short period saw him looking both pleased and embarrassed.",look
+disappointed,she,female,pronoun,acomp,"She was disappointed, and angry with herself for being so.",be
+hard,bingley,male,name,acomp,"“It is a delightful thing, to be sure, to have a daughter well married,” continued her mother; “but at the same time, Mr. Bingley, it is very hard to ",be
+happy,he,male,pronoun,acomp,"I am sure he will be vastly happy to oblige you, and will save all the best of the coveys for you.”",be
+anxious,jane,female,name,acomp,"Jane was anxious that no difference should be perceived in her at all, and was really persuaded that she talked as much as ever; but her mind was so b",be
+silent,she,female,pronoun,acomp,"Jane was anxious that no difference should be perceived in her at all, and was really persuaded that she talked as much as ever; but her mind was so b",be
+mindful,bennet,male,name,acomp,"When the gentlemen rose to go away, Mrs. Bennet was mindful of her intended civility, and they were invited and engaged to dine at Longbourn in a few ",be
+silly,bingley,male,name,acomp,"Bingley looked a little silly at this reflection, and said something of his concern at having been prevented by business.",look
+inclined,bennet,male,name,acomp,"Mrs. Bennet had been strongly inclined to ask them to stay and dine there that day; but, though she always kept a very good table, she did not think a",be
+amiable,he,male,pronoun,acomp,"“He could be still amiable, still pleasing to my uncle and aunt, when he was in town; and why not to me?",be
+pleasing,he,male,pronoun,acomp,"“He could be still amiable, still pleasing to my uncle and aunt, when he was in town; and why not to me?",be
+enough,she,female,pronoun,acomp,"She was not near enough to hear any of their discourse; but she could see how seldom they spoke to each other, and how formal and cold was their manne",be
+disappointed,she,female,pronoun,acomp,"] Mrs. Bennet, in short, was in very great spirits: she had seen enough of Bingley’s behaviour to Jane to be convinced that she would get him at last;",be
+happy,he,male,pronoun,acomp,"He should be particularly happy at any time, etc., etc.; and if she would give him leave, would take an early opportunity of waiting on them.",be
+punctual,bingley,male,name,acomp,"Bingley was punctual to his appointment; and he and Mr. Bennet spent the morning together, as had been agreed on.",be
+communicative,he,male,pronoun,acomp,"There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and ",be
+ingenious,mother,female,role_noun,acomp,"But on her returning to the drawing-room, when her letter was finished, she saw, to her infinite surprise, there was reason to fear that her mother ha",be
+happy,he,male,pronoun,acomp,"Mrs. Bennet could not give her consent, or speak her approbation in terms warm enough to satisfy her feelings, though she talked to Bingley of nothing",be
+able,she,female,pronoun,acomp,Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.,be
+present,he,male,pronoun,acomp,Elizabeth had now but little time for conversation with her sister; for while he was present Jane had no attention to bestow on anyone else: but she f,be
+ignorant,he,male,pronoun,acomp,"“He has made me so happy,” said she, one evening, “by telling me that he was totally ignorant of my being in town last spring!",be
+happy,brother,male,role_noun,acomp,"But when they see, as I trust they will, that their brother is happy with me, they will learn to be contented, and we shall be on good terms again: th",be
+pleased,elizabeth,female,name,acomp,"Elizabeth was pleased to find that he had not betrayed the interference of his friend; for, though Jane had the most generous and forgiving heart in t",be
+privileged,bennet,male,name,acomp,"Mrs. Bennet was privileged to whisper it to Mrs. Philips, and she ventured, without any permission, to do the same by all her neighbours in Meryton.",be
+unknown,she,female,pronoun,acomp,"They were of course all intending to be surprised: but their astonishment was beyond their expectation; and on the part of Mrs. Bennet and Kitty, thou",be
+pleased,she,female,pronoun,acomp,I think she will be pleased with the hermitage.”,be
+determined,elizabeth,female,name,acomp,They proceeded in silence along the gravel walk that led to the copse; Elizabeth was determined to make no effort for conversation with a woman who wa,be
+satisfied,he,male,pronoun,acomp,"If he is satisfied with only regretting me, when he might have obtained my affections and hand, I shall soon cease to regret him at all.”",be
+undetermined,she,female,pronoun,acomp,"The colour now rushed into Elizabeth’s cheeks in the instantaneous conviction of its being a letter from the nephew, instead of the aunt; and she was ",be
+conscious,father,male,role_noun,acomp,"The colour now rushed into Elizabeth’s cheeks in the instantaneous conviction of its being a letter from the nephew, instead of the aunt; and she was ",look
+aware,she,female,pronoun,acomp,"I thought it my duty to give the speediest intelligence of this to my cousin, that she and her noble admirer may be aware of what they are about, and ",be
+more,elizabeth,female,name,acomp,Elizabeth had never been more at a loss to make her feelings appear what they were not.,be
+able,he,male,pronoun,acomp,"[Illustration] Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was able to bring Darc",be
+afraid,kitty,female,name,acomp,"Very little was said by either; Kitty was too much afraid of him to talk; Elizabeth was secretly forming a desperate resolution; and, perhaps, he migh",be
+embarrassed,elizabeth,female,name,acomp,Elizabeth was too much embarrassed to say a word.,be
+able,elizabeth,female,name,acomp,"Had Elizabeth been able to encounter his eyes, she might have seen how well the expression of heartfelt delight diffused over his face became him: but",be
+delighted,darcy,male,name,acomp,Darcy was delighted with their engagement; his friend had given him the earliest information of it.,be
+indifferent,sister,female,role_noun,acomp,"I told him, moreover, that I believed myself mistaken in supposing, as I had done, that your sister was indifferent to him; and as I could easily perc",be
+modest,bingley,male,name,acomp,Bingley is most unaffectedly modest.,be
+angry,he,male,pronoun,acomp,He was angry.,be
+happy,she,female,pronoun,acomp,"Darcy was not of a disposition in which happiness overflows in mirth; and Elizabeth, agitated and confused, rather _knew_ that she was happy than _fel",be
+aware,she,female,pronoun,acomp,She anticipated what would be felt in the family when her situation became known: she was aware that no one liked him but Jane; and even feared that w,be
+incredulous,she,female,pronoun,acomp,"Though suspicion was very far from Miss Bennet’s general habits, she was absolutely incredulous here.",be
+serious,she,female,pronoun,acomp,"Another entreaty that she would be serious, however, produced the desired effect; and she soon satisfied Jane by her solemn assurances of attachment.",be
+unwilling,she,female,pronoun,acomp,She had been unwilling to mention Bingley; and the unsettled state of her own feelings had made her equally avoid the name of his friend: but now she ,be
+relieved,she,female,pronoun,acomp,"She did not fear her father’s opposition, but he was going to be made unhappy, and that it should be through her means; that _she_, his favourite chil",be
+rich,he,male,pronoun,acomp,"He is rich, to be sure, and you may have more fine clothes and fine carriages than Jane.",be
+amiable,he,male,pronoun,acomp,He is perfectly amiable.,be
+earnest,elizabeth,female,name,acomp,"Elizabeth, still more affected, was earnest and solemn in her reply; and, at length, by repeated assurances that Mr. Darcy was really the object of he",be
+able,she,female,pronoun,acomp,"Elizabeth’s mind was now relieved from a very heavy weight; and, after half an hour’s quiet reflection in her own room, she was able to join the other",be
+fond,darcy,male,name,acomp,"But, my dearest love, tell me what dish Mr. Darcy is particularly fond of, that I may have it to-morrow.”",be
+favourite,wickham,male,name,attr,"“Wickham, perhaps, is my favourite; but I think I shall like _your_ husband quite as well as Jane’s.”",be
+ill,she,female,pronoun,acomp,"“Was there no good in your affectionate behaviour to Jane, while she was ill at Netherfield?”",be
+partial,sister,female,role_noun,acomp,"My avowed one, or what I avowed to myself, was to see whether your sister was still partial to Bingley, and if she were, to make the confession to him",be
+ashamed,she,female,pronoun,acomp,"From an unwillingness to confess how much her intimacy with Mr. Darcy had been overrated, Elizabeth had never yet answered Mrs. Gardiner’s long letter",be
+vulgar,she,female,pronoun,acomp,"Mrs. Philips’s vulgarity was another, and, perhaps, a greater tax on his forbearance; and though Mrs. Philips, as well as her sister, stood in too muc",be
+pleasing,she,female,pronoun,acomp,"Elizabeth did all she could to shield him from the frequent notice of either, and was ever anxious to keep him to herself, and to those of her family ",look
+nervous,she,female,pronoun,acomp,"I wish I could say, for the sake of her family, that the accomplishment of her earnest desire in the establishment of so many of her children produced",be
+irritable,she,female,pronoun,acomp,"She was not of so ungovernable a temper as Lydia; and, removed from the influence of Lydia’s example, she became, by proper attention and management, ",become
+acquainted,elizabeth,female,name,acomp,He bore with philosophy the conviction that Elizabeth must now become acquainted with whatever of his ingratitude and falsehood had before been unknow,become
+sure,jane,female,name,acomp,"It had always been evident to her that such an income as theirs, under the direction of two persons so extravagant in their wants, and heedless of the",be
+indignant,catherine,female,name,acomp,"Lady Catherine was extremely indignant on the marriage of her nephew; and as she gave way to all the genuine frankness of her character, in her reply ",be

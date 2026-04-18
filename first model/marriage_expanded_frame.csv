@@ -1,0 +1,7 @@
+verb,subj_female,subj_male,subj_total,obj_female,obj_male,obj_total,pass_female,pass_male,pass_total
+marry,12,23,50,23,10,47,4,1,15
+propose,2,0,6,0,0,5,0,0,0
+engage,1,3,10,1,0,8,1,1,8
+court,0,0,2,0,0,3,0,0,0
+love,5,4,23,4,8,26,0,0,0
+admire,3,7,17,7,3,22,0,0,0

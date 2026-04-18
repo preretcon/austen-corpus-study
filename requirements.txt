@@ -1,0 +1,21 @@
+# Core pipeline
+spacy>=3.7,<4.0
+pandas>=2.0
+numpy>=1.24
+
+# Statistics
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# spaCy transformer pipeline dependency
+# (install the model separately with:
+#   python -m spacy download en_core_web_trf
+# the model is ~450 MB and is NOT listed here on purpose)
+spacy-transformers>=1.3
+torch>=2.0
+
+# Optional: progress bars and nicer output
+tqdm>=4.65

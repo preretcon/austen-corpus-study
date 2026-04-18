@@ -1,0 +1,1123 @@
+object_word,verb,gender,tier,dep_type,is_dialogue,example
+he,visit,male,pronoun,dobj,True,"But it is very likely that he _may_ fall in love with one of them, and therefore you must visit him as soon as he comes.”"
+daughter,have,female,role_noun,dobj,True,"When a woman has five grown-up daughters, she ought to give over thinking of her own beauty."
+bingley,see,male,name,dobj,True,"“But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.”"
+daughter,consider,female,role_noun,dobj,True,“But consider your daughters.
+he,visit,male,pronoun,dobj,True,"Indeed you must go, for it will be impossible for _us_ to visit him, if you do not.”"
+he,assure,male,pronoun,dobj,True,I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever h
+he,visit,male,pronoun,dobj,False,"He had always intended to visit him, though to the last always assuring his wife that he should not go; and till the evening after the visit was paid "
+wife,assure,female,role_noun,dobj,False,"He had always intended to visit him, though to the last always assuring his wife that he should not go; and till the evening after the visit was paid "
+she,address,female,pronoun,dobj,False,"Observing his second daughter employed in trimming a hat, he suddenly addressed her with,-- “I hope Mr. Bingley will like it, Lizzy.”"
+he,meet,male,pronoun,dobj,True,"“But you forget, mamma,” said Elizabeth, “that we shall meet him at the assemblies, and that Mrs. Long has promised to introduce him.”"
+he,introduce,male,pronoun,dobj,True,"“But you forget, mamma,” said Elizabeth, “that we shall meet him at the assemblies, and that Mrs. Long has promised to introduce him.”"
+herself,contain,female,pronoun,dobj,False,"Mrs. Bennet deigned not to make any reply; but, unable to contain herself, began scolding one of her daughters."
+he,introduce,male,pronoun,dobj,True,"“Ay, so it is,” cried her mother, “and Mrs. Long does not come back till the day before; so, it will be impossible for her to introduce him, for she w"
+he,know,male,pronoun,dobj,True,"“Ay, so it is,” cried her mother, “and Mrs. Long does not come back till the day before; so, it will be impossible for her to introduce him, for she w"
+bingley,introduce,male,name,dobj,True,"“Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to _her_.”"
+girl,love,female,role_noun,dobj,True,I was sure you loved your girls too well to neglect such an acquaintance.
+father,have,male,role_noun,dobj,True,"“What an excellent father you have, girls,” said she, when the door was shut."
+he,ask,male,pronoun,dobj,False,"The rest of the evening was spent in conjecturing how soon he would return Mr. Bennet’s visit, and determining when they should ask him to dinner."
+he,attack,male,pronoun,dobj,False,"They attacked him in various ways, with barefaced questions, ingenious suppositions, and distant surmises; but he eluded the skill of them all; and th"
+father,see,male,role_noun,dobj,False,"He had entertained hopes of being admitted to a sight of the young ladies, of whose beauty he had heard much; but he saw only the father."
+lady,bring,female,role_noun,dobj,False,Lady Lucas quieted her fears a little by starting the idea of his [Illustration: “When the Party entered” [_Copyright 1894 by George Allen._]] being g
+he,save,male,pronoun,dobj,False,"The gentlemen pronounced him to be a fine figure of a man, the ladies declared he was much handsomer than Mr. Bingley, and he was looked at with great"
+bennet,find,male,name,dobj,False,They found Mr. Bennet still up.
+she,admire,female,pronoun,dobj,True,"I was so vexed to see him stand up with her; but, however, he did not admire her at all; indeed, nobody can, you know; and he seemed quite struck with"
+she,ask,female,pronoun,dobj,True,"So he inquired who she was, and got introduced, and asked her for the two next."
+he,endure,male,pronoun,dobj,True,"So high and so conceited, that there was no enduring him!"
+man,detest,male,role_noun,dobj,True,I quite detest the man.”
+he,admire,male,pronoun,dobj,False,"When Jane and Elizabeth were alone, the former, who had been cautious in her praise of Mr. Bingley before, expressed to her sister how very much she a"
+he,like,male,pronoun,dobj,True,"Well, he certainly is very agreeable, and I give you leave to like him."
+sister,like,female,role_noun,dobj,True,"And so, you like this man’s sisters, too, do you?"
+man,marry,male,role_noun,dobj,False,"was Mrs. Hurst, who had married a man of more fashion than fortune, less disposed to consider his house as her home when it suited her."
+she,suit,female,pronoun,dobj,False,"was Mrs. Hurst, who had married a man of more fashion than fortune, less disposed to consider his house as her home when it suited her."
+she,admire,female,pronoun,dobj,False,"Mrs. Hurst and her sister allowed it to be so; but still they admired her and liked her, and pronounced her to be a sweet girl, and one whom they shou"
+she,like,female,pronoun,dobj,False,"Mrs. Hurst and her sister allowed it to be so; but still they admired her and liked her, and pronounced her to be a sweet girl, and one whom they shou"
+himself,occupy,male,pronoun,dobj,False,"It had given him a disgust to his business and to his residence in a small market town; and, quitting them both, he had removed with his family to a h"
+jane,mean,female,name,dobj,True,"“Oh, you mean Jane, I suppose, because he danced with her twice."
+she,admire,female,pronoun,dobj,True,"To be sure that _did_ seem as if he admired her--indeed, I rather believe he _did_--I heard something about it--but I hardly know what--something abou"
+he,ask,male,pronoun,dobj,True,"Mr. Robinson’s asking him how he liked our Meryton assemblies, and whether he did not think there were a great many pretty women in the room, and _whi"
+he,ask,male,pronoun,dobj,True,"“Ay, because she asked him at last how he liked Netherfield, and he could not help answering her; but she said he seemed very angry at being spoke to."
+she,answer,female,pronoun,dobj,True,"“Ay, because she asked him at last how he liked Netherfield, and he could not help answering her; but she said he seemed very angry at being spoke to."
+herself,pique,female,pronoun,dobj,False,"“Pride,” observed Mary, who piqued herself upon the solidity of her reflections, “is a very common failing, I believe."
+she,admire,female,pronoun,dobj,False,"It was generally evident, whenever they met, that he _did_ admire her; and to _her_ it was equally evident that Jane was yielding to the preference wh"
+she,guard,female,pronoun,dobj,False,"she considered with pleasure that it was not likely to be discovered by the world in general, since Jane united with great strength of feeling, a comp"
+he,fix,male,pronoun,dobj,True,"If a woman conceals her affection with the same skill from the object of it, she may lose the opportunity of fixing him; and it will then be but poor "
+sister,like,female,role_noun,dobj,True,"Bingley likes your sister undoubtedly; but he may never do more than like her, if she does not help him on.”"
+he,help,male,pronoun,dobj,True,"Bingley likes your sister undoubtedly; but he may never do more than like her, if she does not help him on.”"
+he,help,male,pronoun,dobj,True,"“But she does help him on, as much as her nature will allow."
+husband,get,male,role_noun,dobj,True,"“Your plan is a good one,” replied Elizabeth, “where nothing is in question but the desire of being well married; and if I were determined to get a ri"
+he,know,male,pronoun,dobj,True,She has known him only a fortnight.
+he,see,male,pronoun,dobj,True,"She danced four dances with him at Meryton; she saw him one morning at his own house, and has since dined in company with him four times."
+elizabeth,provoke,female,name,dobj,False,"_]] On his approaching them soon afterwards, though without seeming to have any intention of speaking, Miss Lucas defied her friend to mention such a "
+lady,present,female,role_noun,dobj,True,"Mr. Darcy, you must allow me to present this young lady to you as a very desirable partner."
+she,injure,female,pronoun,dobj,False,"Her resistance had not injured her with the gentleman, and he was thinking of her with some complacency, when thus accosted by Miss Bingley,-- “I can "
+she,tell,female,pronoun,dobj,False,"Miss Bingley immediately fixed her eyes on his face, and desired he would tell her what lady had the credit of inspiring such reflections."
+bennet,reply,female,name,dobj,True,"Mr. Darcy replied, with great intrepidity,-- “Miss Elizabeth Bennet.”"
+mother,have,female,role_noun,dobj,True,"You will have a charming mother-in-law, indeed, and of course she will be always at Pemberley with you.”"
+herself,entertain,female,pronoun,dobj,False,"He listened to her with perfect indifference, while she chose to entertain herself in this manner; and as his composure convinced her that all was saf"
+she,convince,female,pronoun,dobj,False,"He listened to her with perfect indifference, while she chose to entertain herself in this manner; and as his composure convinced her that all was saf"
+sister,have,female,role_noun,dobj,False,"She had a sister married to a Mr. Philips, who had been a clerk to their father and succeeded him in the business, and a brother settled in London in "
+he,succeed,male,pronoun,dobj,False,"She had a sister married to a Mr. Philips, who had been a clerk to their father and succeeded him in the business, and a brother settled in London in "
+he,see,male,pronoun,dobj,False,"Catherine was disconcerted, and made no answer; but Lydia, with perfect indifference, continued to express her admiration of Captain Carter, and her h"
+she,send,female,pronoun,dobj,True,"“That would be a good scheme,” said Elizabeth, “if you were sure that they would not offer to send her home.”"
+she,attend,female,pronoun,dobj,False,"She did at last extort from her father an acknowledgment that the horses were engaged; Jane was therefore obliged to go on horseback, and her mother a"
+she,see,female,pronoun,dobj,True,I would go and see her if I could have the carriage.”
+jane,see,female,name,dobj,True,“I shall be very fit to see Jane--which is all I want.”
+she,hold,female,pronoun,dobj,False,"That she should have walked three miles so early in the day in such dirty weather, and by herself, was almost incredible to Mrs. Hurst and Miss Bingle"
+she,attend,female,pronoun,dobj,False,Elizabeth silently attended her.
+she,advise,female,pronoun,dobj,False,"The apothecary came; and having examined his patient, said, as might be supposed, that she had caught a violent cold, and that they must endeavour to "
+elizabeth,restore,female,name,dobj,False,"The sisters, on hearing this, repeated three or four times how much they were grieved, how shocking it was to have a bad cold, and how excessively the"
+she,abuse,female,pronoun,dobj,False,"When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room."
+she,recommend,female,pronoun,dobj,True,"Mrs. Hurst thought the same, and added,-- “She has nothing, in short, to recommend her, but being an excellent walker."
+man,marry,male,role_noun,dobj,True,"“But it must very materially lessen their chance of marrying men of any consideration in the world,” replied Darcy."
+she,quit,female,pronoun,dobj,False,"She was still very poorly, and Elizabeth would not quit her at all, till late in the evening, when she had the comfort of seeing her asleep, and when "
+herself,amuse,female,pronoun,dobj,False,"On entering the drawing-room, she found the whole party at loo, and was immediately invited to join them; but suspecting them to be playing high, she "
+sister,nurse,female,role_noun,dobj,True,"“In nursing your sister I am sure you have pleasure,” said Bingley; “and I hope it will soon be increased by seeing her quite well.”"
+she,see,female,pronoun,dobj,True,"“In nursing your sister I am sure you have pleasure,” said Bingley; “and I hope it will soon be increased by seeing her quite well.”"
+he,thank,male,pronoun,dobj,False,"Elizabeth thanked him from her heart, and then walked towards a table where a few books were lying."
+he,assure,male,pronoun,dobj,False,Elizabeth assured him that she could suit herself perfectly with those in the room.
+herself,suit,female,pronoun,dobj,False,Elizabeth assured him that she could suit herself perfectly with those in the room.
+herself,station,female,pronoun,dobj,False,"Elizabeth was so much caught by what passed, as to leave her very little attention for her book; and, soon laying it wholly aside, she drew near the c"
+she,see,female,pronoun,dobj,True,“How I long to see her again!
+woman,know,female,role_noun,dobj,True,“I am no longer surprised at your knowing _only_ six accomplished women.
+woman,see,female,role_noun,dobj,True,“_I_ never saw such a woman.
+woman,know,female,role_noun,dobj,False,"Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered"
+she,leave,female,pronoun,dobj,False,"Elizabeth joined them again only to say that her sister was worse, and that she could not leave her."
+jane,visit,female,name,dobj,False,"In spite of this amendment, however, she requested to have a note sent to Longbourn, desiring her mother to visit Jane, and form her own judgment of h"
+she,see,female,pronoun,dobj,False,"Had she found Jane in any apparent danger, Mrs. Bennet would have been very miserable; but being satisfied on seeing her that her illness was not alar"
+she,remove,female,pronoun,dobj,False,"Had she found Jane in any apparent danger, Mrs. Bennet would have been very miserable; but being satisfied on seeing her that her illness was not alar"
+she,attend,female,pronoun,dobj,False,"After sitting a little while with Jane, on Miss Bingley’s appearance and invitation, the mother and three daughters all attended her into the breakfas"
+she,move,female,pronoun,dobj,True,Mr. Jones says we must not think of moving her.
+girl,tell,female,role_noun,dobj,True,I often tell my other girls they are nothing to _her_.
+bingley,have,male,name,dobj,True,"You have a sweet room here, Mr. Bingley, and a charming prospect over that gravel walk."
+darcy,mistake,male,name,dobj,True,“You quite mistook Mr. Darcy.
+bingley,enable,male,name,dobj,False,Nothing but concern for Elizabeth could enable Bingley to keep his countenance.
+she,ask,female,pronoun,dobj,False,"Elizabeth, for the sake of saying something that might turn her mother’s thoughts, now asked her if Charlotte Lucas had been at Longbourn since _her_ "
+herself,expose,female,pronoun,dobj,False,Darcy only smiled; and the general pause which ensued made Elizabeth tremble lest her mother should be exposing herself again.
+he,trouble,male,pronoun,dobj,False,"She longed to speak, but could think of nothing to say; and after a short silence Mrs. Bennet began repeating her thanks to Mr. Bingley for his kindne"
+sister,force,female,role_noun,dobj,False,"Mr. Bingley was unaffectedly civil in his answer, and forced his younger sister to be civil also, and say what the occasion required."
+herself,put,female,pronoun,dobj,False,"Upon this signal, the youngest of her daughters put herself forward."
+bingley,tax,male,name,dobj,False,"The two girls had been whispering to each other during the whole visit; and the result of it was, that the youngest should tax Mr. Bingley with having"
+she,bring,female,pronoun,dobj,False,"Lydia was a stout, well-grown girl of fifteen, with a fine complexion and good-humoured countenance; a favourite with her mother, whose affection had "
+she,recommend,female,pronoun,dobj,False,"She had high animal spirits, and a sort of natural self-consequence, which the attentions of the officers, to whom her uncle’s good dinners and her ow"
+bingley,address,male,name,dobj,False,"She was very equal, therefore, to address Mr. Bingley on the subject of the ball, and abruptly reminded him of his promise; adding, that it would be t"
+he,remind,male,pronoun,dobj,False,"She was very equal, therefore, to address Mr. Bingley on the subject of the ball, and abruptly reminded him of his promise; adding, that it would be t"
+sister,tell,female,role_noun,dobj,True,“Pray tell your sister that I long to see her.”
+she,see,female,pronoun,dobj,True,“Pray tell your sister that I long to see her.”
+she,tell,female,pronoun,dobj,True,"“I have already told her so once, by your desire.”"
+sister,tell,female,role_noun,dobj,True,"“Tell your sister I am delighted to hear of her improvement on the harp, and pray let her know that I am quite in raptures with her beautiful little d"
+she,see,female,pronoun,dobj,True,I shall see her in January.
+bennet,tell,female,name,dobj,True,"When you told Mrs. Bennet this morning, that if you ever resolved on quitting Netherfield you should be gone in five minutes, you meant it to be a sor"
+he,show,male,pronoun,dobj,True,You have shown him off now much more than he did himself.”
+herself,seat,female,pronoun,dobj,False,"Miss Bingley moved with alacrity to the pianoforte, and after a polite request that Elizabeth would lead the way, which the other as politely and more"
+she,dislike,female,pronoun,dobj,False,"She hardly knew how to suppose that she could be an object of admiration to so great a man, and yet that he should look at her because he disliked her"
+she,pain,female,pronoun,dobj,False,The supposition did not pain her.
+he,like,male,pronoun,dobj,False,She liked him too little to care for his approbation.
+he,affront,male,pronoun,dobj,False,"Elizabeth, having rather expected to affront him, was amazed at his gallantry; but there"
+darcy,provoke,male,name,dobj,False,"She often tried to provoke Darcy into disliking her guest, by talking of their supposed marriage, and planning his happiness in such an alliance."
+mother,give,female,role_noun,dobj,True,"“I hope,” said she, as they were walking together in the shrubbery the next day, “you will give your mother-in-law a few hints, when this desirable ev"
+girl,cure,female,role_noun,dobj,True,"“I hope,” said she, as they were walking together in the shrubbery the next day, “you will give your mother-in-law a few hints, when this desirable ev"
+elizabeth,leave,female,name,dobj,False,"Then taking the disengaged arm of Mr. Darcy, she left Elizabeth to walk by herself."
+she,attend,female,pronoun,dobj,False,"[Illustration] When the ladies removed after dinner Elizabeth ran up to her sister, and seeing her well guarded from cold, attended her into the drawi"
+himself,address,male,pronoun,dobj,False,"He addressed himself directly to Miss Bennet with a polite congratulation; Mr. Hurst also made her a slight bow, and said he was “very glad;” but diff"
+sister,remind,female,role_noun,dobj,False,When tea was over Mr. Hurst reminded his sister-in-law of the card-table--but in vain.
+he,assure,male,pronoun,dobj,False,"She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her."
+she,justify,female,pronoun,dobj,False,"She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her."
+himself,stretch,male,pronoun,dobj,False,"Mr. Hurst had, therefore, nothing to do but to stretch himself on one of the sofas and go to sleep."
+he,win,male,pronoun,dobj,False,"She could not win him, however, to any conversation; he merely answered her question and read on."
+darcy,mean,male,name,dobj,True,"“If you mean Darcy,” cried her brother, “he may go to bed, if he chooses, before it begins; but as for the ball, it is quite a settled thing, and as s"
+elizabeth,ask,female,name,dobj,False,She was dying to know what could be his meaning--and asked Elizabeth whether she could at all understand him.
+he,understand,male,pronoun,dobj,False,She was dying to know what could be his meaning--and asked Elizabeth whether she could at all understand him.
+he,disappoint,male,pronoun,dobj,True,"“Not at all,” was her answer; “but, depend upon it, he means to be severe on us, and our surest way of disappointing him will be to ask nothing about "
+darcy,disappoint,male,name,dobj,False,"Miss Bingley, however, was incapable of disappointing Mr. Darcy in anything, and persevered, therefore, in requiring an explanation of his two motives"
+he,punish,male,pronoun,dobj,True,How shall we punish him for such a speech?”
+he,tease,male,pronoun,dobj,True,Tease him--laugh at him.
+himself,hug,male,pronoun,dobj,True,Mr. Darcy may hug himself.”
+herself,bring,female,pronoun,dobj,False,"But Mrs. Bennet, who had calculated on her daughters remaining at Netherfield till the following Tuesday, which would exactly finish Jane’s week, coul"
+jane,urge,female,name,dobj,False,"Against staying longer, however, Elizabeth was positively resolved--nor did she much expect it would be asked; and fearful, on the contrary, of being "
+bennet,persuade,female,name,dobj,False,"The master of the house heard with real sorrow that they were to go so soon, and repeatedly tried to persuade Miss Bennet that it would not be safe fo"
+he,attract,male,pronoun,dobj,False,She attracted him more than he liked; and Miss Bingley was uncivil to _her_ and more teasing than usual to himself.
+he,escape,male,pronoun,dobj,False,He wisely resolved to be particularly careful that no sign of admiration should _now_ escape him--nothing that could elevate her with the hope of infl
+she,elevate,female,pronoun,dobj,False,He wisely resolved to be particularly careful that no sign of admiration should _now_ escape him--nothing that could elevate her with the hope of infl
+she,give,female,pronoun,dobj,False,"Miss Bingley’s civility to Elizabeth increased at last very rapidly, as well as her affection for Jane; and when they parted, after assuring the latte"
+she,see,female,pronoun,dobj,False,"Miss Bingley’s civility to Elizabeth increased at last very rapidly, as well as her affection for Jane; and when they parted, after assuring the latte"
+she,embrace,female,pronoun,dobj,False,"Miss Bingley’s civility to Elizabeth increased at last very rapidly, as well as her affection for Jane; and when they parted, after assuring the latte"
+mary,find,female,name,dobj,False,"They found Mary, as usual, deep in the study of thorough bass and human nature; and had some new extracts to admire and some new observations of threa"
+bingley,see,male,name,dobj,True,"Well, I am sure I shall be extremely glad to see Mr. Bingley."
+himself,amuse,male,pronoun,dobj,False,"After amusing himself some time with their curiosity, he thus explained:--“About a month ago I received this letter, and about a fortnight ago I answe"
+collins,clear,male,name,dobj,True,"“It certainly is a most iniquitous affair,” said Mr. Bennet; “and nothing can clear Mr. Collins from the guilt of inheriting Longbourn."
+himself,express,male,pronoun,dobj,True,"But if you will listen to his letter, you may, perhaps, be a little softened by his manner of expressing himself.”"
+he,lose,male,pronoun,dobj,True,"“Dear Sir, “The disagreement subsisting between yourself and my late honoured father always gave me much uneasiness; and, since I have had the misfort"
+he,please,male,pronoun,dobj,True,"“Dear Sir, “The disagreement subsisting between yourself and my late honoured father always gave me much uneasiness; and, since I have had the misfort"
+daughter,injure,female,role_noun,dobj,True,"I cannot be otherwise than concerned at being the means of injuring your amiable daughters, and beg leave to apologize for it, as well as to assure yo"
+gentleman,expect,male,role_noun,dobj,True,"“At four o’clock, therefore, we may expect this peace-making gentleman,” said Mr. Bennet, as he folded up the letter."
+he,discourage,male,pronoun,dobj,True,"“There is some sense in what he says about the girls, however; and, if he is disposed to make them any amends, I shall not be the person to discourage"
+he,make,male,pronoun,dobj,True,“I cannot make him out.
+he,see,male,pronoun,dobj,True,I am impatient to see him.”
+he,see,male,pronoun,dobj,False,"As for their mother, Mr. Collins’s letter had done away much of her ill-will, and she was preparing to see him with a degree of composure which astoni"
+husband,astonish,male,role_noun,dobj,False,"As for their mother, Mr. Collins’s letter had done away much of her ill-will, and she was preparing to see him with a degree of composure which astoni"
+bennet,compliment,female,name,dobj,False,"He had not been long seated before he complimented Mrs. Bennet on having so fine a family of daughters, said he had heard much of their beauty, but th"
+lady,assure,female,role_noun,dobj,True,But I can assure the young ladies that I come prepared to admire them.
+he,assure,male,pronoun,dobj,False,"But here he was set right by Mrs. Bennet, who assured him, with some asperity, that they were very well able to keep a good cook, and that her daughte"
+she,displease,female,pronoun,dobj,False,He begged pardon for having displeased her.
+he,elevate,male,pronoun,dobj,False,The subject elevated him to more than usual solemnity of manner; and with a most important aspect he protested that he had never in his life witnessed
+he,ask,male,pronoun,dobj,False,"She had also asked him twice to dine at Rosings, and had sent for him only the Saturday before, to make up her pool of quadrille in the evening."
+he,advise,male,pronoun,dobj,False,"She had even condescended to advise him to marry as soon as he could, provided he chose with discretion; and had once paid him a visit in his humble p"
+daughter,have,female,role_noun,dobj,True,"“She has one only daughter, the heiress of Rosings, and of very extensive property.”"
+woman,mark,female,role_noun,dobj,True,"Lady Catherine herself says that, in point of true beauty, Miss de Bourgh is far superior to the handsomest of her sex; because there is that in her f"
+catherine,tell,female,name,dobj,True,"“Her indifferent state of health unhappily prevents her being in town; and by that means, as I told Lady Catherine myself one day, has deprived the Br"
+he,invite,male,pronoun,dobj,False,"By tea-time, however, the dose had been enough, and Mr. Bennet was glad to take his guest into the drawing-room again, and when tea was over, glad to "
+he,interrupt,male,pronoun,dobj,False,"Lydia gaped as he opened the volume; and before he had, with very monotonous solemnity, read three pages, she interrupted him with,-- “Do you know, ma"
+he,hire,male,pronoun,dobj,True,"and if he does, Colonel Forster will hire him."
+himself,offer,male,pronoun,dobj,False,"Then, turning to Mr. Bennet, he offered himself as his antagonist at backgammon."
+girl,leave,female,role_noun,dobj,False,"Mr. Bennet accepted the challenge, observing that he acted very wisely in leaving the girls to their own trifling amusements."
+himself,seat,male,pronoun,dobj,False,"Mrs. Bennet and her daughters apologized most civilly for Lydia’s interruption, and promised that it should not occur again, if he would resume his bo"
+he,bring,male,pronoun,dobj,False,The subjection in which his father had brought him up had given him originally great humility of manner; but it was now a good deal counteracted by th
+he,recommend,male,pronoun,dobj,False,A fortunate chance had recommended him to Lady Catherine de Bourgh when the living of Hunsford was vacant; and the respect which he felt for her high 
+wife,have,female,role_noun,dobj,False,"Having now a good house and a very sufficient income, he intended to marry; and in seeking a reconciliation with the Longbourn family he had a wife in"
+she,succeed,female,pronoun,dobj,False,"Elizabeth, equally next to Jane in birth and beauty, succeeded her of course."
+he,follow,male,pronoun,dobj,False,"Lydia’s intention of walking to Meryton was not forgotten: every sister except Mary agreed to go with her; and Mr. Collins was to attend them, at the "
+bennet,discompose,male,name,dobj,False,Such doings discomposed Mr. Bennet exceedingly.
+elizabeth,tell,female,name,dobj,False,"In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every"
+collins,invite,male,name,dobj,False,"In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every"
+daughter,join,female,role_noun,dobj,False,"In his library he had been always sure of leisure and tranquillity; and though prepared, as he told Elizabeth, to meet with folly and conceit in every"
+lady,distinguish,female,role_noun,dobj,False,"On distinguishing the ladies of the group the two gentlemen came directly towards them, and began the usual civilities."
+she,tell,female,pronoun,dobj,False,"Mrs. Philips was always glad to see her nieces; and the two eldest, from their recent absence, were particularly welcome; and she was eagerly expressi"
+he,receive,male,pronoun,dobj,False,"She received him with her very best politeness, which he returned with as much more, apologizing for his intrusion, without any previous acquaintance "
+himself,flatter,male,pronoun,dobj,False,"She received him with her very best politeness, which he returned with as much more, apologizing for his intrusion, without any previous acquaintance "
+he,introduce,male,pronoun,dobj,False,"She received him with her very best politeness, which he returned with as much more, apologizing for his intrusion, without any previous acquaintance "
+he,bring,male,pronoun,dobj,False,Mrs. Philips was quite awed by such an excess of good breeding; but her contemplation of one stranger was soon put an end to by exclamations and inqui
+he,watch,male,pronoun,dobj,False,"She had been watching him the last hour, she said, as he walked up and down the street,--and had Mr. Wickham appeared, Kitty and Lydia would certainly"
+bennet,gratify,female,name,dobj,False,Mr. Collins on his return highly gratified Mrs. Bennet by admiring Mrs. Philips’s manners and politeness.
+woman,see,female,role_noun,dobj,False,"He protested that, except Lady Catherine and her daughter, he had never seen a more elegant woman; for she had not only received him with the utmost c"
+he,receive,male,pronoun,dobj,False,"He protested that, except Lady Catherine and her daughter, he had never seen a more elegant woman; for she had not only received him with the utmost c"
+he,include,male,pronoun,dobj,False,"He protested that, except Lady Catherine and her daughter, he had never seen a more elegant woman; for she had not only received him with the utmost c"
+bennet,leave,female,name,dobj,False,"As no objection was made to the young people’s engagement with their aunt, and all Mr. Collins’s scruples of leaving Mr. and Mrs. Bennet for a single "
+he,convey,male,pronoun,dobj,False,"As no objection was made to the young people’s engagement with their aunt, and all Mr. Collins’s scruples of leaving Mr. and Mrs. Bennet for a single "
+himself,suppose,male,pronoun,dobj,False,"When this information was given, and they had all taken their seats, Mr. Collins was at leisure to look around him and admire, and he was so much stru"
+he,see,male,pronoun,dobj,False,"The gentlemen did approach: and when Mr. Wickham walked into the room, Elizabeth felt that she had neither been seeing him before, nor thinking of him"
+himself,seat,male,pronoun,dobj,False,"_]] Mr. Wickham was the happy man towards whom almost every female eye was turned, and Elizabeth was the happy woman by whom he finally seated himself"
+she,oblige,female,pronoun,dobj,False,"When the card tables were placed, he had an opportunity of obliging her, in return, by sitting down to whist."
+he,engross,male,pronoun,dobj,False,"At first there seemed danger of Lydia’s engrossing him entirely, for she was a most determined talker; but being likewise extremely fond of lottery ti"
+he,hear,male,pronoun,dobj,False,"Allowing for the common demands of the game, Mr. Wickham was therefore at leisure to talk to Elizabeth, and she was very willing to hear him, though w"
+gentleman,mention,male,role_noun,dobj,False,She dared not even mention that gentleman.
+he,know,male,pronoun,dobj,True,I have known him too long and too well to be a fair judge.
+he,see,male,pronoun,dobj,True,"The world is blinded by his fortune and consequence, or frightened by his high and imposing manners, and sees him only as he chooses to be seen.”"
+he,take,male,pronoun,dobj,True,"“I should take him, even on _my_ slight acquaintance, to be an ill-tempered man.”"
+he,meet,male,pronoun,dobj,True,"We are not on friendly terms, and it always gives me pain to meet him, but I have no reason for avoiding _him_ but what I might proclaim to all the wo"
+he,avoid,male,pronoun,dobj,True,"We are not on friendly terms, and it always gives me pain to meet him, but I have no reason for avoiding _him_ but what I might proclaim to all the wo"
+gentleman,please,male,role_noun,dobj,True,The church _ought_ to have been my profession--I was brought up for the church; and I should at this time have been in possession of a most valuable l
+father,forget,male,role_noun,dobj,True,"Till I can forget his father, I can never defy or expose _him_.”"
+he,expose,male,pronoun,dobj,True,"Till I can forget his father, I can never defy or expose _him_.”"
+he,honour,male,pronoun,dobj,False,"Elizabeth honoured him for such feelings, and thought him handsomer than ever as he expressed them."
+he,induce,male,pronoun,dobj,True,what can have induced him to behave so cruelly?”
+he,irritate,male,pronoun,dobj,True,"Had the late Mr. Darcy liked me less, his son might have borne with me better; but his father’s uncommon attachment to me irritated him, I believe, ve"
+he,like,male,pronoun,dobj,True,"“I had not thought Mr. Darcy so bad as this--though I have never liked him, I had not thought so very ill of him--I had supposed him to be despising h"
+he,suspect,male,pronoun,dobj,True,"“I had not thought Mr. Darcy so bad as this--though I have never liked him, I had not thought so very ill of him--I had supposed him to be despising h"
+man,add,male,role_noun,dobj,True,"She could have added, “A young man, too, like _you_, whose very countenance may vouch for your being amiable.”"
+herself,content,female,pronoun,dobj,False,"But she contented herself with--“And one, too, who had probably been his own companion from childhood, connected together, as I think you said, in the"
+he,connect,male,pronoun,dobj,True,It has connected him nearer with virtue than any other feeling.
+he,lead,male,pronoun,dobj,True,"“Yes; it has often led him to be liberal and generous; to give his money freely, to display hospitality, to assist his tenants, and relieve the poor."
+she,call,female,pronoun,dobj,True,“I wish I could call her amiable.
+bingley,know,male,name,dobj,True,Do you know Mr. Bingley?”
+he,desert,male,pronoun,dobj,True,"His pride never deserts him; but with the rich he is liberal-minded, just, sincere, rational, honourable, and, perhaps, agreeable,--allowing something"
+she,assure,female,pronoun,dobj,False,"It had not been very great; he had lost every point; but when Mrs. Philips began to express her concern thereupon, he assured her, with much earnest g"
+collins,observe,male,name,dobj,False,"Mr. Wickham’s attention was caught; and after observing Mr. Collins for a few moments, he asked Elizabeth in a low voice whether her relations were ve"
+elizabeth,ask,female,name,dobj,False,"Mr. Wickham’s attention was caught; and after observing Mr. Collins for a few moments, he asked Elizabeth in a low voice whether her relations were ve"
+she,know,female,pronoun,dobj,True,"I hardly know how Mr. Collins was first introduced to her notice, but he certainly has not known her long.”"
+he,mislead,male,pronoun,dobj,True,"“Mr. Collins,” said she, “speaks highly both of Lady Catherine and her daughter; but, from some particulars that he has related of her Ladyship, I sus"
+she,see,female,pronoun,dobj,True,"“I believe her to be both in a great degree,” replied Wickham; “I have not seen her for many years; but I very well remember that I never liked her, a"
+she,like,female,pronoun,dobj,True,"“I believe her to be both in a great degree,” replied Wickham; “I have not seen her for many years; but I very well remember that I never liked her, a"
+he,recommend,male,pronoun,dobj,False,"There could be no conversation in the noise of Mrs. Philips’s supper party, but his manners recommended him to everybody."
+she,tell,female,pronoun,dobj,False,"She could think of nothing but of Mr. Wickham, and of what he had told her, all the way home; but there was not time for her even to mention his name "
+darcy,place,male,name,dobj,True,"My dearest Lizzy, do but consider in what a disgraceful light it places Mr. Darcy, to be treating his father’s favourite in such a manner,--one whom h"
+bennet,avoid,female,name,dobj,False,"To the rest of the family they paid little attention; avoiding Mrs. Bennet as much as possible, saying not much to Elizabeth, and nothing at all to th"
+brother,take,male,role_noun,dobj,False,"They were soon gone again, rising from their seats with an activity which took their brother by surprise, and hurrying off as if eager to escape from "
+he,ask,male,pronoun,dobj,False,"Elizabeth’s spirits were so high on the occasion, that though she did not often speak unnecessarily to Mr. Collins, she could not help asking him whet"
+collins,have,male,name,dobj,False,She had fully proposed being engaged by Wickham for those very dances; and to have Mr. Collins instead!--her liveliness had been never worse timed.
+she,strike,female,pronoun,dobj,False,"It now first struck her, that _she_ was selected from among her sisters as worthy of being the mistress of Hunsford Parsonage, and of assisting to for"
+herself,gratify,female,pronoun,dobj,False,"The idea soon reached to conviction, as she observed his increasing civilities towards herself, and heard his frequent attempt at a compliment on her "
+she,give,female,pronoun,dobj,False,"The idea soon reached to conviction, as she observed his increasing civilities towards herself, and heard his frequent attempt at a compliment on her "
+he,meet,male,pronoun,dobj,False,The certainty of meeting him had not been checked by any of those recollections that might not unreasonably have alarmed her.
+she,alarm,female,pronoun,dobj,False,The certainty of meeting him had not been checked by any of those recollections that might not unreasonably have alarmed her.
+he,call,male,pronoun,dobj,True,"But in an instant arose the dreadful suspicion of his being purposely omitted, for Mr. Darcy’s pleasure, in the Bingleys’ invitation to the officers; "
+gentleman,avoid,male,role_noun,dobj,True,"But in an instant arose the dreadful suspicion of his being purposely omitted, for Mr. Darcy’s pleasure, in the Bingleys’ invitation to the officers; "
+she,assure,female,pronoun,dobj,False,"This part of his intelligence, though unheard by Lydia, was caught by Elizabeth; and, as it assured her that Darcy was not less answerable for Wickham"
+she,provoke,female,pronoun,dobj,False,"She was resolved against any sort of conversation with him, and turned away with a degree of ill-humour which she could not wholly surmount even in sp"
+he,point,male,pronoun,dobj,False,"But Elizabeth was not formed for ill-humour; and though every prospect of her own was destroyed for the evening, it could not dwell long on her spirit"
+she,take,female,pronoun,dobj,False,"When those dances were over, she returned to Charlotte Lucas, and was in conversation with her, when she found herself suddenly addressed by Mr. Darcy"
+he,accept,male,pronoun,dobj,False,"When those dances were over, she returned to Charlotte Lucas, and was in conversation with her, when she found herself suddenly addressed by Mr. Darcy"
+she,console,female,pronoun,dobj,False,"He walked away again immediately, and she was left to fret over her own want of presence of mind: Charlotte tried to console her."
+man,find,male,role_noun,dobj,True,To find a man agreeable whom one is determined to hate!
+she,caution,female,pronoun,dobj,False,"When the dancing recommenced, however, and Darcy approached to claim her hand, Charlotte could not help cautioning her, in a whisper, not to be a simp"
+he,oblige,male,pronoun,dobj,False,"They stood for some time without speaking a word; and she began to imagine that their silence was to last through the two dances, and, at first, was r"
+he,address,male,pronoun,dobj,False,"After a pause of some minutes, she addressed him a second time, with-- “It is _your_ turn to say something now, Mr. Darcy."
+she,assure,female,pronoun,dobj,False,"He smiled, and assured her that whatever she wished him to say should be said."
+she,ask,female,pronoun,dobj,False,"He made no answer; and they were again silent till they had gone down the dance, when he asked her if she and her sisters did not very often walk to M"
+herself,blame,female,pronoun,dobj,False,"A deeper shade of _hauteur_ overspread his features, but he said not a word; and Elizabeth, though blaming herself for her own weakness, could not go "
+darcy,perceive,male,name,dobj,False,"At that moment Sir William Lucas appeared close to them, meaning to pass through the set to the other side of the room; but, on perceiving Mr. Darcy, "
+he,compliment,male,pronoun,dobj,False,"At that moment Sir William Lucas appeared close to them, meaning to pass through the set to the other side of the room; but, on perceiving Mr. Darcy, "
+he,strike,male,pronoun,dobj,False,"The latter part of this address was scarcely heard by Darcy; but Sir William’s allusion to his friend seemed to strike him forcibly, and his eyes were"
+himself,recover,male,pronoun,dobj,False,"Recovering himself, however, shortly, he turned to his partner, and said,-- “Sir William’s interruption has made me forget what we were talking of.”"
+he,use,male,pronoun,dobj,True,", as to Mr. Darcy’s using him ill, it is perfectly false: for, on the contrary, he has been always remarkably kind to him, though George Wickham has t"
+darcy,treat,male,name,dobj,True,", as to Mr. Darcy’s using him ill, it is perfectly false: for, on the contrary, he has been always remarkably kind to him, though George Wickham has t"
+he,include,male,pronoun,dobj,True,"I do not know the particulars, but I know very well that Mr. Darcy is not in the least to blame; that he cannot bear to hear George Wickham mentioned;"
+himself,take,male,pronoun,dobj,True,"I do not know the particulars, but I know very well that Mr. Darcy is not in the least to blame; that he cannot bear to hear George Wickham mentioned;"
+he,accuse,male,pronoun,dobj,True,"“His guilt and his descent appear, by your account, to be the same,” said Elizabeth, angrily; “for I have heard you accuse him of nothing worse than o"
+sister,seek,female,role_noun,dobj,False,"She then sought her eldest sister, who had undertaken to make inquiries on the same subject of Bingley."
+she,meet,female,pronoun,dobj,False,"Jane met her with a smile of such sweet complacency, a glow of such happy expression, as sufficiently marked how well she was satisfied with the occur"
+he,forget,male,pronoun,dobj,True,"“No,” replied Jane, “I have not forgotten him; but I have nothing satisfactory to tell you."
+darcy,offend,male,name,dobj,True,"Mr. Bingley does not know the whole of his history, and is quite ignorant of the circumstances which have principally offended Mr. Darcy; but he will "
+wickham,know,male,name,dobj,True,“Mr. Bingley does not know Mr. Wickham himself.”
+he,see,male,pronoun,dobj,True,“No; he never saw him till the other morning at Meryton.”
+she,tell,female,pronoun,dobj,False,"On their being joined by Mr. Bingley himself, Elizabeth withdrew to Miss Lucas; to whose inquiry after the pleasantness of her last partner she had sc"
+he,assure,male,pronoun,dobj,True,It will be in my power to assure him that her Ladyship was quite well yesterday se’nnight.”
+he,dissuade,male,pronoun,dobj,False,Elizabeth tried hard to dissuade him from such a scheme; assuring him that Mr. Darcy would consider his addressing him without introduction as an impe
+he,assure,male,pronoun,dobj,False,Elizabeth tried hard to dissuade him from such a scheme; assuring him that Mr. Darcy would consider his addressing him without introduction as an impe
+he,address,male,pronoun,dobj,False,Elizabeth tried hard to dissuade him from such a scheme; assuring him that Mr. Darcy would consider his addressing him without introduction as an impe
+she,leave,female,pronoun,dobj,False,"Pardon me for neglecting to profit by your advice, which on every other subject shall be my constant guide, though in the case before us I consider my"
+darcy,attack,male,name,dobj,False,"Pardon me for neglecting to profit by your advice, which on every other subject shall be my constant guide, though in the case before us I consider my"
+she,vex,female,pronoun,dobj,False,It vexed her to see him expose himself to such a man.
+himself,expose,male,pronoun,dobj,False,It vexed her to see him expose himself to such a man.
+he,eye,male,pronoun,dobj,False,"Mr. Darcy was eyeing him with unrestrained wonder; and when at last Mr. Collins allowed him to speak, replied with an air of distant civility."
+sister,like,female,role_noun,dobj,False,"She saw her in idea settled in that very house, in all the felicity which a marriage of true affection could bestow; and she felt capable, under such "
+daughter,consign,female,role_noun,dobj,False,", it was so pleasant at her time of life to be able to consign her single daughters to the care of their sister, that she might not be obliged to go i"
+she,persuade,female,pronoun,dobj,False,"In vain did Elizabeth endeavour to check the rapidity of her mother’s words, or persuade her to describe her felicity in a less audible whisper; for t"
+she,scold,female,pronoun,dobj,False,Her mother only scolded her for being nonsensical.
+darcy,offend,male,name,dobj,True,What advantage can it be to you to offend Mr. Darcy?
+she,convince,female,pronoun,dobj,False,"She could not help frequently glancing her eye at Mr. Darcy, though every glance convinced her of what she dreaded; for though he was not always looki"
+he,acquit,male,pronoun,dobj,True,I cannot acquit him of that duty; nor could I think well of the man who should omit an occasion of testifying his respect towards anybody connected wi
+collins,commend,male,name,dobj,False,"Many stared--many smiled; but no one looked more amused than Mr. Bennet himself, while his wife seriously commended Mr. Collins for having spoken so s"
+he,entreat,male,pronoun,dobj,False,"In vain did she entreat him to stand up with somebody else, and offered to introduce him to any young lady in the room."
+he,introduce,male,pronoun,dobj,False,"In vain did she entreat him to stand up with somebody else, and offered to introduce him to any young lady in the room."
+she,assure,female,pronoun,dobj,False,"He assured her that, as to dancing, he was perfectly indifferent to it; that his chief object was, by delicate attentions, to recommend himself to her"
+himself,recommend,male,pronoun,dobj,False,"He assured her that, as to dancing, he was perfectly indifferent to it; that his chief object was, by delicate attentions, to recommend himself to her"
+bingley,compliment,male,name,dobj,False,"They repulsed every attempt of Mrs. Bennet at conversation, and, by so doing, threw a languor over the whole party, which was very little relieved by "
+herself,address,female,pronoun,dobj,False,"When at length they arose to take leave, Mrs. Bennet was most pressingly civil in her hope of seeing the whole family soon at Longbourn; and addressed"
+he,assure,male,pronoun,dobj,False,"When at length they arose to take leave, Mrs. Bennet was most pressingly civil in her hope of seeing the whole family soon at Longbourn; and addressed"
+bennet,find,female,name,dobj,False,"On finding Mrs. Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words,-- “May I hope,"
+mother,address,female,role_noun,dobj,False,"On finding Mrs. Bennet, Elizabeth, and one of the younger girls together, soon after breakfast, he addressed the mother in these words,-- “May I hope,"
+collins,hear,male,name,dobj,True,"And upon Elizabeth’s seeming really, with vexed and embarrassed looks, about to escape, she added, “Lizzy, I _insist_ upon your staying and hearing Mr"
+wife,select,female,role_noun,dobj,True,"But before I am run away with by my feelings on this subject, perhaps it will be advisable for me to state my reasons for marrying--and, moreover, for"
+he,stop,male,pronoun,dobj,False,"The idea of Mr. Collins, with all his solemn composure, being run away with by his feelings, made Elizabeth so near laughing that she could not use th"
+woman,find,female,role_noun,dobj,True,"Find such a woman as soon as you can, bring her to Hunsford, and I will visit her.’"
+she,bring,female,pronoun,dobj,True,"Find such a woman as soon as you can, bring her to Hunsford, and I will visit her.’"
+she,visit,female,pronoun,dobj,True,"Find such a woman as soon as you can, bring her to Hunsford, and I will visit her.’"
+wife,choose,female,role_noun,dobj,True,"But the fact is, that being, as I am, to inherit this estate after the death of your honoured father (who, however, may live many years longer), I cou"
+he,interrupt,male,pronoun,dobj,False,It was absolutely necessary to interrupt him now.
+she,see,female,pronoun,dobj,True,"And you may be certain that when I have the honour of seeing her again I shall speak in the highest terms of your modesty, economy, and other amiable "
+man,reject,male,role_noun,dobj,True,"And rising as she thus spoke, she would have quitted the room, had not Mr. Collins thus addressed her,-- “When I do myself the honour of speaking to y"
+man,torment,male,role_noun,dobj,True,"“I do assure you, sir, that I have no pretensions whatever to that kind of elegance which consists in tormenting a respectable man."
+she,pass,female,pronoun,dobj,False,"[Illustration] Mr. Collins was not left long to the silent contemplation of his successful love; for Mrs. Bennet, having dawdled about in the vestibul"
+he,congratulate,male,pronoun,dobj,False,"[Illustration] Mr. Collins was not left long to the silent contemplation of his successful love; for Mrs. Bennet, having dawdled about in the vestibul"
+he,give,male,pronoun,dobj,False,"Mr. Collins received and returned these felicitations with equal pleasure, and then proceeded to relate the particulars of their interview, with the r"
+bennet,startle,female,name,dobj,False,"This information, however, startled Mrs. Bennet: she would have been glad to be equally satisfied that her daughter had meant to encourage him by prot"
+he,encourage,male,pronoun,dobj,False,"This information, however, startled Mrs. Bennet: she would have been glad to be equally satisfied that her daughter had meant to encourage him by prot"
+she,force,female,pronoun,dobj,True,"If, therefore, she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because, if liable to such defec"
+collins,marry,male,name,dobj,True,"You must come and make Lizzy marry Mr. Collins, for she vows she will not have him; and if you do not make haste he will change his mind and not have "
+he,have,male,pronoun,dobj,True,"You must come and make Lizzy marry Mr. Collins, for she vows she will not have him; and if you do not make haste he will change his mind and not have "
+she,have,female,pronoun,dobj,True,"You must come and make Lizzy marry Mr. Collins, for she vows she will not have him; and if you do not make haste he will change his mind and not have "
+collins,have,male,name,dobj,True,"Lizzy declares she will not have Mr. Collins, and Mr. Collins begins to say that he will not have Lizzy.”"
+lizzy,have,female,name,dobj,True,"Lizzy declares she will not have Mr. Collins, and Mr. Collins begins to say that he will not have Lizzy.”"
+she,tell,female,pronoun,dobj,True,Tell her that you insist upon her marrying him.”
+he,marry,male,pronoun,dobj,True,Tell her that you insist upon her marrying him.”
+she,see,female,pronoun,dobj,True,"“Yes, or I will never see her again.”"
+collins,marry,male,name,dobj,True,"Your mother will never see you again if you do _not_ marry Mr. Collins, and I will never see you again if you _do_.”"
+herself,persuade,female,pronoun,dobj,False,"Elizabeth could not but smile at such a conclusion of such a beginning; but Mrs. Bennet, who had persuaded herself that her husband regarded the affai"
+he,marry,male,pronoun,dobj,True,You promised me to _insist_ upon her marrying him.”
+she,threaten,female,pronoun,dobj,False,She talked to Elizabeth again and again; coaxed and threatened her by turns.
+jane,secure,female,name,dobj,False,"She endeavoured to secure Jane in her interest, but Jane, with all possible mildness, declined interfering; and Elizabeth, sometimes with real earnest"
+he,refuse,male,pronoun,dobj,False,"He thought too well of himself to comprehend on what motive his cousin could refuse him; and though his pride was hurt, he suffered in no other way."
+he,have,male,pronoun,dobj,True,"Mr. Collins has made an offer to Lizzy, and she will not have him.”"
+she,entreat,female,pronoun,dobj,False,"Charlotte had hardly time to answer before they were joined by Kitty, who came to tell the same news; and no sooner had they entered the breakfast-roo"
+husband,get,male,role_noun,dobj,True,"But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at "
+she,soothe,female,pronoun,dobj,False,"Her daughters listened in silence to this effusion, sensible that any attempt to reason with or soothe her would only increase the irritation."
+herself,satisfy,female,pronoun,dobj,False,"Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia stood her ground, determined to hear all she could; and Charlotte, detain"
+she,avoid,female,pronoun,dobj,False,"As for the gentleman himself, _his_ feelings were chiefly expressed, not by embarrassment or dejection, or by trying to avoid her, but by stiffness of"
+he,introduce,male,pronoun,dobj,False,His accompanying them was a double advantage: she felt all the compliment it offered to herself; and it was most acceptable as an occasion of introduc
+herself,recollect,female,pronoun,dobj,False,"Jane recollected herself soon; and putting the letter away, tried to join, with her usual cheerfulness, in the general conversation: but Elizabeth fel"
+she,invite,female,pronoun,dobj,False,"Jane recollected herself soon; and putting the letter away, tried to join, with her usual cheerfulness, in the general conversation: but Elizabeth fel"
+she,follow,female,pronoun,dobj,False,"Jane recollected herself soon; and putting the letter away, tried to join, with her usual cheerfulness, in the general conversation: but Elizabeth fel"
+brother,follow,male,role_noun,dobj,False,"She then read the first sentence aloud, which comprised the information of their having just resolved to follow their brother to town directly, and of"
+she,surprise,female,pronoun,dobj,False,"To these high-flown expressions Elizabeth listened with all the insensibility of distrust; and though the suddenness of their removal surprised her, s"
+he,take,male,pronoun,dobj,True,"“‘When my brother left us yesterday, he imagined that the business which took him to London might be concluded in three or four days; but as we are ce"
+he,follow,male,pronoun,dobj,True,"“‘When my brother left us yesterday, he imagined that the business which took him to London might be concluded in three or four days; but as we are ce"
+sister,see,female,role_noun,dobj,True,"‘Mr. Darcy is impatient to see his sister; and to confess the truth, _we_ are scarcely less eager to meet her again."
+she,meet,female,pronoun,dobj,True,"‘Mr. Darcy is impatient to see his sister; and to confess the truth, _we_ are scarcely less eager to meet her again."
+she,admire,female,pronoun,dobj,True,My brother admires her greatly already; he will have frequent opportunity now of seeing her on the most intimate footing; her relations all wish the c
+she,see,female,pronoun,dobj,True,My brother admires her greatly already; he will have frequent opportunity now of seeing her on the most intimate footing; her relations all wish the c
+darcy,marry,male,name,dobj,True,Miss Bingley sees that her brother is in love with you and wants him to marry Miss Darcy.
+he,follow,male,pronoun,dobj,True,"She follows him to town in the hope of keeping him there, and tries to persuade you that he does not care about you.”"
+he,keep,male,pronoun,dobj,True,"She follows him to town in the hope of keeping him there, and tries to persuade you that he does not care about you.”"
+darcy,get,male,name,dobj,True,"But the case is this:--we are not rich enough or grand enough for them; and she is the more anxious to get Miss Darcy for her brother, from the notion"
+darcy,admire,male,name,dobj,True,"But, my dearest Jane, you cannot seriously imagine that, because Miss Bingley tells you her brother greatly admires Miss Darcy, he is in the smallest "
+he,persuade,male,pronoun,dobj,True,"But, my dearest Jane, you cannot seriously imagine that, because Miss Bingley tells you her brother greatly admires Miss Darcy, he is in the smallest "
+man,accept,male,role_noun,dobj,True,"“But, my dear sister, can I be happy, even supposing the best, in accepting a man whose sisters and friends are all wishing him to marry elsewhere?”"
+sister,disoblige,female,role_noun,dobj,True,"“You must decide for yourself,” said Elizabeth; “and if, upon mature deliberation, you find that the misery of disobliging his two sisters is more tha"
+he,refuse,male,pronoun,dobj,True,"“You must decide for yourself,” said Elizabeth; “and if, upon mature deliberation, you find that the misery of disobliging his two sisters is more tha"
+man,influence,male,role_noun,dobj,False,"It appeared to her merely the suggestion of Caroline’s interested wishes; and she could not for a moment suppose that those wishes, however openly or "
+she,thank,female,pronoun,dobj,False,Elizabeth took an opportunity of thanking her.
+he,keep,male,pronoun,dobj,True,"“It keeps him in good humour,” said she, “and I am more obliged to you than I can express.”"
+she,repay,female,pronoun,dobj,False,"Charlotte assured her friend of her satisfaction in being useful, and that it amply repaid her for the little sacrifice of her time."
+she,secure,female,pronoun,dobj,False,This was very amiable; but Charlotte’s kindness extended farther than Elizabeth had any conception of:--its object was nothing less than to secure her
+he,lead,male,pronoun,dobj,False,But here she did injustice to the fire and independence of his character; for it led him to escape out of Longbourn House the next morning with admira
+himself,throw,male,pronoun,dobj,False,But here she did injustice to the fire and independence of his character; for it led him to escape out of Longbourn House the next morning with admira
+he,perceive,male,pronoun,dobj,False,"Miss Lucas perceived him from an upper window as he walked towards the house, and instantly set out to meet him accidentally in the lane."
+he,meet,male,pronoun,dobj,False,"Miss Lucas perceived him from an upper window as he walked towards the house, and instantly set out to meet him accidentally in the lane."
+she,await,female,pronoun,dobj,False,But little had she dared to hope that so much love and eloquence awaited her there.
+she,entreat,female,pronoun,dobj,False,"In as short a time as Mr. Collins’s long speeches would allow, everything was settled between them to the satisfaction of both; and as they entered th"
+he,accept,male,pronoun,dobj,False,The stupidity with which he was favoured by nature must guard his courtship from any charm that could make a woman wish for its continuance; and Miss 
+she,blame,female,pronoun,dobj,False,"Elizabeth would wonder, and probably would blame her; and though her resolution was not to be shaken, her feelings must be hurt by such a disapprobati"
+collins,charge,male,name,dobj,False,"She resolved to give her the information herself; and therefore charged Mr. Collins, when he returned to Longbourn to dinner, to drop no hint of what "
+he,see,male,pronoun,dobj,False,"As he was to begin his journey too early on the morrow to see any of the family, the ceremony of leave-taking was performed when the ladies moved for "
+he,accept,male,pronoun,dobj,False,"Mrs. Bennet wished to understand by it that he thought of paying his addresses to one of her younger girls, and Mary might have been prevailed on to a"
+she,strike,female,pronoun,dobj,False,She rated his abilities much higher than any of the others: there was a solidity in his reflections which often struck her; and though by no means so 
+himself,improve,male,pronoun,dobj,False,She rated his abilities much higher than any of the others: there was a solidity in his reflections which often struck her; and though by no means so 
+himself,fancy,male,pronoun,dobj,False,The possibility of Mr. Collins’s fancying himself in love with her friend had once occurred to Elizabeth within the last day or two: but that Charlott
+he,encourage,male,pronoun,dobj,False,The possibility of Mr. Collins’s fancying himself in love with her friend had once occurred to Elizabeth within the last day or two: but that Charlott
+he,encourage,male,pronoun,dobj,False,The possibility of Mr. Collins’s fancying himself in love with her friend had once occurred to Elizabeth within the last day or two: but that Charlott
+herself,recollect,female,pronoun,dobj,False,"But Elizabeth had now recollected herself; and, making a strong effort for it, was able to assure her, with tolerable firmness, that the prospect of t"
+she,assure,female,pronoun,dobj,False,"But Elizabeth had now recollected herself; and, making a strong effort for it, was able to assure her, with tolerable firmness, that the prospect of t"
+herself,disgrace,female,pronoun,dobj,False,"And to the pang of a friend disgracing herself, and sunk in her esteem, was added the distressing conviction that it was impossible for that friend to"
+lizzy,marry,female,name,dobj,True,Do not you know that Mr. Collins wants to marry Lizzy?”
+he,carry,male,pronoun,dobj,False,Nothing less than the complaisance of a courtier could have borne without anger such treatment: but Sir William’s good-breeding carried him through it
+he,relieve,male,pronoun,dobj,False,"Elizabeth, feeling it incumbent on her to relieve him from so unpleasant a situation, now put herself forward to confirm his account, by mentioning he"
+herself,put,female,pronoun,dobj,False,"Elizabeth, feeling it incumbent on her to relieve him from so unpleasant a situation, now put herself forward to confirm his account, by mentioning he"
+she,appease,female,pronoun,dobj,False,Nothing could console and nothing appease her.
+elizabeth,see,female,name,dobj,False,A week elapsed before she could see Elizabeth without scolding her: a month passed away before she could speak to Sir William or Lady Lucas without be
+she,scold,female,pronoun,dobj,False,A week elapsed before she could see Elizabeth without scolding her: a month passed away before she could speak to Sir William or Lady Lucas without be
+daughter,forgive,female,role_noun,dobj,False,A week elapsed before she could see Elizabeth without scolding her: a month passed away before she could speak to Sir William or Lady Lucas without be
+he,gratify,male,pronoun,dobj,False,"Mr. Bennet’s emotions were much more tranquil on the occasion, and such as he did experience he pronounced to be of a most agreeable sort; for it grat"
+herself,confess,female,pronoun,dobj,False,Jane confessed herself a little surprised at the match: but she said less of her astonishment than of her earnest desire for their happiness; nor coul
+she,persuade,female,pronoun,dobj,False,Jane confessed herself a little surprised at the match: but she said less of her astonishment than of her earnest desire for their happiness; nor coul
+daughter,have,female,role_noun,dobj,False,Lady Lucas could not be insensible of triumph on being able to retort on Mrs. Bennet the comfort of having a daughter well married; and she called at 
+he,see,male,pronoun,dobj,False,"After discharging his conscience on that head, he proceeded to inform them, with many rapturous expressions, of his happiness in having obtained the a"
+bennet,incense,female,name,dobj,False,Day after day passed away without bringing any other tidings of him than the report which shortly prevailed in Meryton of his coming no more to Nether
+he,keep,male,pronoun,dobj,False,Even Elizabeth began to fear--not that Bingley was indifferent--but that his sisters would be successful in keeping him away.
+mother,restrain,female,role_noun,dobj,False,"But as no such delicacy restrained her mother, an hour seldom passed in which she did not talk of Bingley, express her impatience for his arrival, or "
+jane,require,female,name,dobj,False,"But as no such delicacy restrained her mother, an hour seldom passed in which she did not talk of Bingley, express her impatience for his arrival, or "
+she,throw,female,pronoun,dobj,False,"The very mention of anything concerning the match threw her into an agony of ill-humour, and wherever she went she was sure of hearing it talked of."
+she,regard,female,pronoun,dobj,False,"As her successor in that house, she regarded her with jealous abhorrence."
+herself,turn,female,pronoun,dobj,False,"Whenever Charlotte came to see them, she concluded her to be anticipating the hour of possession; and whenever she spoke in a low voice to Mr. Collins"
+he,like,male,pronoun,dobj,False,"That he was really fond of Jane, she doubted no more than she had ever done; and much as she had always been disposed to like him, she could not think"
+he,lead,male,pronoun,dobj,False,"That he was really fond of Jane, she doubted no more than she had ever done; and much as she had always been disposed to like him, she could not think"
+he,reproach,male,pronoun,dobj,True,"I have nothing either to hope or fear, and nothing to reproach him with."
+he,marry,male,pronoun,dobj,True,"My dear Jane, Mr. Collins is a conceited, pompous, narrow-minded, silly man: you know he is, as well as I do; and you must feel, as well as I do, that"
+she,defend,female,pronoun,dobj,True,"You shall not defend her, though it is Charlotte Lucas."
+he,influence,male,pronoun,dobj,True,"“You persist, then, in supposing his sisters influence him?”"
+he,influence,male,pronoun,dobj,True,Why should they try to influence him?
+girl,marry,female,role_noun,dobj,True,They may wish many things besides his happiness: they may wish his increase of wealth and consequence; they may wish him to marry a girl who has all t
+darcy,choose,male,name,dobj,True,"“Beyond a doubt they do wish him to choose Miss Darcy,” replied Jane; “but this may be from better feelings than you are supposing."
+she,know,female,pronoun,dobj,True,They have known her much longer than they have known me; no wonder if they love her better.
+she,love,female,pronoun,dobj,True,They have known her much longer than they have known me; no wonder if they love her better.
+brother,oppose,male,role_noun,dobj,True,"But, whatever may be their own wishes, it is very unlikely they should have opposed their brother’s."
+she,convince,female,pronoun,dobj,False,"Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and t"
+she,see,female,pronoun,dobj,False,"Her daughter endeavoured to convince her of what she did not believe herself, that his attentions to Jane had been merely the effect of a common and t"
+she,congratulate,female,pronoun,dobj,True,I congratulate her.
+lady,disappoint,female,role_noun,dobj,True,Here are officers enough at Meryton to disappoint all the young ladies in the country.
+mother,have,female,role_noun,dobj,True,"“True,” said Mr. Bennet; “but it is a comfort to think that, whatever of that kind may befall you, you have an affectionate mother who will always mak"
+he,see,male,pronoun,dobj,False,"They saw him often, and to his other recommendations was now added that of general unreserve."
+darcy,dislike,male,name,dobj,False,"The whole of what Elizabeth had already heard, his claims on Mr. Darcy, and all that he had suffered from him, was now openly acknowledged and publicl"
+brother,receive,male,role_noun,dobj,False,"On the following Monday, Mrs. Bennet had the pleasure of receiving her brother and his wife, who came, as usual, to spend the Christmas at Longbourn."
+sister,see,female,role_noun,dobj,False,They had all been very ill-used since she last saw her sister.
+jane,blame,female,name,dobj,True,"“I do not blame Jane,” she continued, “for Jane would have got Mr. Bingley if she could."
+bingley,get,male,name,dobj,True,"“I do not blame Jane,” she continued, “for Jane would have got Mr. Bingley if she could."
+he,refuse,male,pronoun,dobj,True,"He made her an offer in this very room, and she refused him."
+bingley,describe,male,name,dobj,True,"A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easil"
+she,forget,female,pronoun,dobj,True,"A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easil"
+man,persuade,male,role_noun,dobj,True,It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was viol
+lady,offend,female,role_noun,dobj,True,At his own ball he offended two or three young ladies by not asking them to dance; and I spoke to him twice myself without receiving an answer.
+she,influence,female,pronoun,dobj,True,"“I hope,” added Mrs. Gardiner, “that no consideration with regard to this young man will influence her."
+she,see,female,pronoun,dobj,True,"We live in so different a part of town, all our connections are so different, and, as you well know, we go out so little, that it is very improbable t"
+he,suffer,male,pronoun,dobj,True,"“And _that_ is quite impossible; for he is now in the custody of his friend, and Mr. Darcy would no more suffer him to call on Jane in such a part of "
+he,cleanse,male,pronoun,dobj,True,"Mr. Darcy may, perhaps, have _heard_ of such a place as Gracechurch Street, but he would hardly think a month’s ablution enough to cleanse him from it"
+jane,see,female,name,dobj,False,"But, in spite of the certainty in which Elizabeth affected to place this point, as well as the still more interesting one of Bingley’s being withheld "
+she,convince,female,pronoun,dobj,False,"But, in spite of the certainty in which Elizabeth affected to place this point, as well as the still more interesting one of Bingley’s being withheld "
+he,see,male,pronoun,dobj,False,"Miss Bennet accepted her aunt’s invitation with pleasure; and the Bingleys were no otherwise in her thoughts at the same time than as she hoped, by Ca"
+darcy,know,male,name,dobj,False,"Mrs. Gardiner had seen Pemberley, and known the late Mr. Darcy by character perfectly well."
+he,delight,male,pronoun,dobj,False,"In comparing her recollection of Pemberley with the minute description which Wickham could give, and in bestowing her tribute of praise on the charact"
+she,tell,female,pronoun,dobj,False,[Illustration] Mrs. Gardiner’s caution to Elizabeth was punctually and kindly given on the first favourable opportunity of speaking to her alone: afte
+he,involve,male,pronoun,dobj,True,"Do not involve yourself, or endeavour to involve him, in an affection which the want of fortune would make so very imprudent."
+father,disappoint,male,role_noun,dobj,True,You must not disappoint your father.”
+mother,remind,female,role_noun,dobj,True,At least you should not _remind_ your mother of inviting him.”
+he,invite,male,pronoun,dobj,True,At least you should not _remind_ your mother of inviting him.”
+she,assure,female,pronoun,dobj,False,"Her aunt assured her that she was; and Elizabeth, having thanked her for the kindness of her hints, they parted,--a wonderful instance of advice being"
+she,thank,female,pronoun,dobj,False,"Her aunt assured her that she was; and Elizabeth, having thanked her for the kindness of her hints, they parted,--a wonderful instance of advice being"
+herself,affect,female,pronoun,dobj,False,"Thursday was to be the wedding-day, and on Wednesday Miss Lucas paid her farewell visit; and when she rose to take leave, Elizabeth, ashamed of her mo"
+she,accompany,female,pronoun,dobj,False,"Thursday was to be the wedding-day, and on Wednesday Miss Lucas paid her farewell visit; and when she rose to take leave, Elizabeth, ashamed of her mo"
+charlotte,depend,female,name,dobj,False,"As they went down stairs together, Charlotte said,-- “I shall depend on hearing from you very often, Eliza.”"
+she,address,female,pronoun,dobj,False,"Elizabeth could never address her without feeling that all the comfort of intimacy was over; and, though determined not to slacken as a correspondent,"
+catherine,like,female,name,dobj,False,"Charlotte’s first letters were received with a good deal of eagerness: there could not but be curiosity to know how she would speak of her new home, h"
+herself,express,female,pronoun,dobj,False,"Charlotte’s first letters were received with a good deal of eagerness: there could not but be curiosity to know how she would speak of her new home, h"
+bingley,see,female,name,dobj,False,"She wrote again when the visit was paid, and she had seen Miss Bingley."
+caroline,think,female,name,dobj,True,"“I did not think Caroline in spirits,” were her words, “but she was very glad to see me, and reproached me for giving her no notice of my coming to Lo"
+she,reach,female,pronoun,dobj,True,"I was right, therefore; my last letter had never reached her."
+he,see,male,pronoun,dobj,True,"He was well, but so much engaged with Mr. Darcy that they scarcely ever saw him."
+she,see,female,pronoun,dobj,True,I found that Miss Darcy was expected to dinner: I wish I could see her.
+she,convince,female,pronoun,dobj,False,It convinced her that accident only could discover to Mr. Bingley her sister’s being in town.
+herself,persuade,female,pronoun,dobj,False,She endeavoured to persuade herself that she did not regret it; but she could no longer be blind to Miss Bingley’s inattention.
+herself,deceive,female,pronoun,dobj,False,"After waiting at home every morning for a fortnight, and inventing every evening a fresh excuse for her, the visitor did at last appear; but the short"
+she,blame,female,pronoun,dobj,True,"I pity, though I cannot help blaming, her."
+she,pity,female,pronoun,dobj,True,"But I pity her, because she must feel that she has been acting wrong, and because I am very sure that anxiety for her brother is the cause of it."
+herself,persuade,female,pronoun,dobj,True,"He knows of my being in town, I am certain, from something she said herself; and yet it would seem, by her manner of talking, as if she wanted to pers"
+sister,marry,female,role_noun,dobj,False,"His character sunk on every review of it; and, as a punishment for him, as well as a possible advantage to Jane, she seriously hoped he might really s"
+elizabeth,remind,female,name,dobj,False,"Mrs. Gardiner about this time reminded Elizabeth of her promise concerning that gentleman, and required information; and Elizabeth had such to send as"
+gentleman,concern,male,role_noun,dobj,False,"Mrs. Gardiner about this time reminded Elizabeth of her promise concerning that gentleman, and required information; and Elizabeth had such to send as"
+she,relinquish,female,pronoun,dobj,False,"Nothing, on the contrary, could be more natural; and, while able to suppose that it cost him a few struggles to relinquish her, she was ready to allow"
+she,hate,female,pronoun,dobj,True,"I cannot find out that I hate her at all, or that I am in the least unwilling to think her a very good sort of girl."
+elizabeth,take,female,name,dobj,False,March was to take Elizabeth to Hunsford.
+charlotte,see,female,name,dobj,False,"Absence had increased her desire of seeing Charlotte again, and weakened her disgust of Mr. Collins."
+father,leave,male,role_noun,dobj,False,"The only pain was in leaving her father, who would certainly miss her, and who, when it came to the point, so little liked her going, that he told her"
+she,miss,female,pronoun,dobj,False,"The only pain was in leaving her father, who would certainly miss her, and who, when it came to the point, so little liked her going, that he told her"
+she,tell,female,pronoun,dobj,False,"The only pain was in leaving her father, who would certainly miss her, and who, when it came to the point, so little liked her going, that he told her"
+she,remind,female,pronoun,dobj,False,"His present pursuit could not make him forget that Elizabeth had been the first to excite and to deserve his attention, the first to listen and to pit"
+she,attach,female,pronoun,dobj,False,"His present pursuit could not make him forget that Elizabeth had been the first to excite and to deserve his attention, the first to listen and to pit"
+she,see,female,pronoun,dobj,False,"On the stairs were a troop of little boys and girls, whose eagerness for their cousin’s appearance would not allow them to wait in the drawing-room, a"
+she,compliment,female,pronoun,dobj,False,"Mrs. Gardiner then rallied her niece on Wickham’s desertion, and complimented her on bearing it so well."
+girl,get,female,role_noun,dobj,True,"Last Christmas you were afraid of his marrying me, because it would be imprudent; and now, because he is trying to get a girl with only ten thousand p"
+he,justify,male,pronoun,dobj,True,“_Her_ not objecting does not justify _him_.
+man,find,male,role_noun,dobj,True,"I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manners nor sense to recommend him."
+he,recommend,male,pronoun,dobj,True,"I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manners nor sense to recommend him."
+she,detain,female,pronoun,dobj,False,She saw instantly that her cousin’s manners were not altered by his marriage: his formal civility was just what it had been; and he detained her some 
+he,see,male,pronoun,dobj,False,"Elizabeth was prepared to see him in his glory; and she could not help fancying that in displaying the good proportion of the room, its aspect, and it"
+himself,address,male,pronoun,dobj,False,"Elizabeth was prepared to see him in his glory; and she could not help fancying that in displaying the good proportion of the room, its aspect, and it"
+he,refuse,male,pronoun,dobj,False,"Elizabeth was prepared to see him in his glory; and she could not help fancying that in displaying the good proportion of the room, its aspect, and it"
+he,gratify,male,pronoun,dobj,False,"But though everything seemed neat and comfortable, she was not able to gratify him by any sigh of repentance; and rather looked with wonder at her fri"
+he,accompany,male,pronoun,dobj,False,"From his garden, Mr. Collins would have led them round his two meadows; but the ladies, not having shoes to encounter the remains of a white frost, tu"
+sister,take,female,role_noun,dobj,False,"From his garden, Mr. Collins would have led them round his two meadows; but the ladies, not having shoes to encounter the remains of a white frost, tu"
+charlotte,keep,female,name,dobj,True,“She is abominably rude to keep Charlotte out of doors in all this wind.
+girl,see,female,role_noun,dobj,False,"Mr. Collins no sooner saw the two girls than he began to congratulate them on their good fortune, which Charlotte explained by letting them know that "
+she,fail,female,pronoun,dobj,False,Elizabeth’s courage did not fail her.
+her,speak,female,pronoun,dobj,False,"She had heard nothing of Lady Catherine that spoke her awful from any extraordinary talents or miraculous virtue, and the mere stateliness of money an"
+he,surround,male,pronoun,dobj,False,"In spite of having been at St. James’s, Sir William was so completely awed by the grandeur surrounding him, that he had but just courage enough to mak"
+lady,observe,female,role_noun,dobj,False,"Elizabeth found herself quite equal to the scene, and could observe the three ladies before her composedly."
+wickham,bring,male,name,dobj,False,"She was not rendered formidable by silence: but whatever she said was spoken in so authoritative a tone as marked her self-importance, and brought Mr."
+mother,examine,female,role_noun,dobj,False,"When, after examining the mother, in whose countenance and deportment she soon found some resemblance of Mr. Darcy, she turned her eyes on the daughte"
+she,press,female,pronoun,dobj,False,"Mrs. Jenkinson was chiefly employed in watching how little Miss de Bourgh ate, pressing her to try some other dish and fearing she was indisposed."
+she,tell,female,pronoun,dobj,False,"She inquired into Charlotte’s domestic concerns familiarly and minutely, and gave her a great deal of advice as to the management of them all; told he"
+she,instruct,female,pronoun,dobj,False,"She inquired into Charlotte’s domestic concerns familiarly and minutely, and gave her a great deal of advice as to the management of them all; told he"
+she,furnish,female,pronoun,dobj,False,Elizabeth found that nothing was beneath this great lady’s attention which could furnish her with an occasion for dictating to others.
+her,ask,female,pronoun,dobj,False,"She asked her at different times how many sisters she had, whether they were older or younger than herself, whether any of them were likely to be marr"
+sister,have,female,role_noun,dobj,False,"She asked her at different times how many sisters she had, whether they were older or younger than herself, whether any of them were likely to be marr"
+she,assure,female,pronoun,dobj,False,"Elizabeth could hardly help smiling, as she assured her that had not been the case."
+mother,know,female,role_noun,dobj,True,"“Ay, no doubt: but that is what a governess will prevent; and if I had known your mother, I should have advised her most strenuously to engage one."
+she,advise,female,pronoun,dobj,True,"“Ay, no doubt: but that is what a governess will prevent; and if I had known your mother, I should have advised her most strenuously to engage one."
+she,thank,female,pronoun,dobj,False,"Mr. Collins was employed in agreeing to everything her Ladyship said, thanking her for every fish he won, and apologizing if he thought he won too man"
+collins,satisfy,male,name,dobj,False,"But her commendation, though costing her some trouble, could by no means satisfy Mr. Collins, and he was very soon obliged to take her Ladyship’s prai"
+he,convince,male,pronoun,dobj,False,[Illustration] Sir William stayed only a week at Hunsford; but his visit was long enough to convince him of his daughter’s being most comfortably sett
+husband,possess,male,role_noun,dobj,False,[Illustration] Sir William stayed only a week at Hunsford; but his visit was long enough to convince him of his daughter’s being most comfortably sett
+he,drive,male,pronoun,dobj,False,"While Sir William was with them, Mr. Collins devoted his mornings to driving him out in his gig, and showing him the country: but when he went away, t"
+he,accompany,male,pronoun,dobj,True,"His arrival was soon known at the Parsonage; for Mr. Collins was walking the whole morning within view of the lodges opening into Hunsford Lane, in or"
+fitzwilliam,bring,male,name,dobj,False,"There were two nephews of Lady Catherine to require them, for Mr. Darcy had brought with him a Colonel Fitzwilliam, the younger son of his uncle, Lord"
+he,accompany,male,pronoun,dobj,False,"There were two nephews of Lady Catherine to require them, for Mr. Darcy had brought with him a Colonel Fitzwilliam, the younger son of his uncle, Lord"
+girl,tell,female,role_noun,dobj,False,"Charlotte had seen them from her husband’s room, crossing the road, and immediately running into the other, told the girls what an honour they might e"
+she,meet,female,pronoun,dobj,False,"Mr. Darcy looked just as he had been used to look in Hertfordshire, paid his compliments, with his usual reserve, to Mrs. Collins; and whatever might "
+he,answer,male,pronoun,dobj,False,"She answered him in the usual way; and, after a moment’s pause, added,-- “My eldest sister has been in town these three months."
+she,see,female,pronoun,dobj,True,Have you never happened to see her there?”
+bennet,meet,female,name,dobj,False,She was perfectly sensible that he never had: but she wished to see whether he would betray any consciousness of what had passed between the Bingleys 
+darcy,see,male,name,dobj,False,"Colonel Fitzwilliam had called at the Parsonage more than once during the time, but Mr. Darcy they had only seen at church."
+himself,seat,male,pronoun,dobj,False,"He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Eliza"
+bennet,tell,female,name,dobj,True,What are you telling Miss Bennet?
+she,tell,female,pronoun,dobj,True,"“I am very glad to hear such a good account of her,” said Lady Catherine; “and pray tell her from me, that she cannot expect to excel, if she does not"
+she,charge,female,pronoun,dobj,True,"It cannot be done too much; and when I next write to her, I shall charge her not to neglect it on any account."
+lady,tell,female,role_noun,dobj,True,"I often tell young ladies, that no excellence in music is to be acquired without constant practice."
+bennet,tell,female,name,dobj,True,"I have told Miss Bennet several times, that she will never play really well, unless she practises more; and though Mrs. Collins has no instrument, she"
+she,tell,female,pronoun,dobj,True,"I have told Miss Bennet several times, that she will never play really well, unless she practises more; and though Mrs. Collins has no instrument, she"
+elizabeth,remind,female,name,dobj,False,"When coffee was over, Colonel Fitzwilliam reminded Elizabeth of having promised to play to him; and she sat down directly to the instrument."
+himself,station,male,pronoun,dobj,False,"Lady Catherine listened to half a song, and then talked, as before, to her other nephew; till the latter walked away from her, and moving with his usu"
+he,accuse,male,pronoun,dobj,True,"“Pray let me hear what you have to accuse him of,” cried Colonel Fitzwilliam."
+he,see,male,pronoun,dobj,True,"The first time of my ever seeing him in Hertfordshire, you must know, was at a ball--and at this ball, what do you think he did?"
+lady,know,female,role_noun,dobj,True,“I had not at that time the honour of knowing any lady in the assembly beyond my own party.”
+fitzwilliam,address,male,name,dobj,False,"“Shall we ask your cousin the reason of this?” said Elizabeth, still addressing Colonel Fitzwilliam."
+he,ask,male,pronoun,dobj,True,"“Shall we ask him why a man of sense and education, and who has lived in the world, is ill-qualified to recommend himself to strangers?”"
+himself,recommend,male,pronoun,dobj,True,"“Shall we ask him why a man of sense and education, and who has lived in the world, is ill-qualified to recommend himself to strangers?”"
+she,find,female,pronoun,dobj,False,"He seemed astonished too on finding her alone, and apologized for his intrusion, by letting her know that he had understood all the ladies to be withi"
+he,see,male,pronoun,dobj,False,"and in this emergency recollecting _when_ she had seen him last in Hertfordshire, and feeling curious to know what he would say on the subject of thei"
+he,accept,male,pronoun,dobj,True,"“Yes, indeed; his friends may well rejoice in his having met with one of the very few sensible women who would have accepted him, or have made him hap"
+collins,marry,male,name,dobj,True,My friend has an excellent understanding--though I am not certain that I consider her marrying Mr. Collins as the wisest thing she ever did.
+herself,call,female,pronoun,dobj,True,"Mr. and Mrs. Collins have a comfortable income, but not such a one as will allow of frequent journeys--and I am persuaded my friend would not call her"
+he,recommend,male,pronoun,dobj,False,"It was plain to them all that Colonel Fitzwilliam came because he had pleasure in their society, a persuasion which of course recommended him still mo"
+she,tell,female,pronoun,dobj,False,"Colonel Fitzwilliam’s occasionally laughing at his stupidity proved that he was generally different, which her own knowledge of him could not have tol"
+herself,set,female,pronoun,dobj,False,"Colonel Fitzwilliam’s occasionally laughing at his stupidity proved that he was generally different, which her own knowledge of him could not have tol"
+he,watch,male,pronoun,dobj,False,"Colonel Fitzwilliam’s occasionally laughing at his stupidity proved that he was generally different, which her own knowledge of him could not have tol"
+fitzwilliam,marry,male,name,dobj,False,"In her kind schemes for Elizabeth, she sometimes planned her marrying Colonel Fitzwilliam."
+she,admire,female,pronoun,dobj,False,"He was, beyond comparison, the pleasantest man: he certainly admired her, and his situation in life was most eligible; but, to counterbalance these ad"
+darcy,meet,male,name,dobj,False,"[Illustration] More than once did Elizabeth, in her ramble within the park, unexpectedly meet Mr. Darcy."
+he,bring,male,pronoun,dobj,False,"She felt all the perverseness of the mischance that should bring him where no one else was brought; and, to prevent its ever happening again, took car"
+he,inform,male,pronoun,dobj,False,"She felt all the perverseness of the mischance that should bring him where no one else was brought; and, to prevent its ever happening again, took car"
+she,strike,female,pronoun,dobj,False,"He never said a great deal, nor did she give herself the trouble of talking or of listening much; but it struck her in the course of their third encou"
+fitzwilliam,have,male,name,dobj,False,Could he have Colonel Fitzwilliam in his thoughts?
+she,distress,female,pronoun,dobj,False,"It distressed her a little, and she was quite glad to find herself at the gate in the pales opposite the Parsonage."
+herself,find,female,pronoun,dobj,False,"It distressed her a little, and she was quite glad to find herself at the gate in the pales opposite the Parsonage."
+she,meet,female,pronoun,dobj,False,"She was engaged one day, as she walked, in re-perusing Jane’s last letter, and dwelling on some passages which proved that Jane had not written in spi"
+himself,please,male,pronoun,dobj,True,"“And if not able to please himself in the arrangement, he has at least great pleasure in the power of choice."
+woman,like,female,role_noun,dobj,True,"“Unless where they like women of fortune, which I think they very often do."
+herself,recover,female,pronoun,dobj,False,"and she coloured at the idea; but, recovering herself, said in a lively tone, “And pray, what is the usual price of an earl’s younger son?"
+she,answer,female,pronoun,dobj,False,"He answered her in the same style, and the subject dropped."
+she,ask,female,pronoun,dobj,False,"As she spoke, she observed him looking at her earnestly; and the manner in which he immediately asked her why she supposed Miss Darcy likely to give t"
+she,convince,female,pronoun,dobj,False,"As she spoke, she observed him looking at her earnestly; and the manner in which he immediately asked her why she supposed Miss Darcy likely to give t"
+himself,congratulate,male,pronoun,dobj,True,"What he told me was merely this: that he congratulated himself on having lately saved a friend from the inconveniences of a most imprudent marriage, b"
+she,watch,female,pronoun,dobj,False,"After watching her a little, Fitzwilliam asked her why she was so thoughtful."
+she,ask,female,pronoun,dobj,False,"After watching her a little, Fitzwilliam asked her why she was so thoughtful."
+herself,recollect,female,pronoun,dobj,False,"But,” she continued, recollecting herself, “as we know none of the particulars, it is not fair to condemn him."
+he,condemn,male,pronoun,dobj,True,"But,” she continued, recollecting herself, “as we know none of the particulars, it is not fair to condemn him."
+herself,trust,female,pronoun,dobj,False,"This was spoken jestingly, but it appeared to her so just a picture of Mr. Darcy, that she would not trust herself with an answer; and, therefore, abr"
+man,exist,male,role_noun,dobj,False,There could not exist in the world _two_ men over whom Mr. Darcy could have such boundless influence.
+bingley,separate,male,name,dobj,False,"That he had been concerned in the measures taken to separate Mr. Bingley and Jane, she had never doubted; but she had always attributed to Miss Bingle"
+he,mislead,male,pronoun,dobj,False,"If his own vanity, however, did not mislead him, _he_ was the cause--his pride and caprice were the cause--of all that Jane had suffered, and still co"
+bingley,retain,male,name,dobj,False,"When she thought of her mother, indeed, her confidence gave way a little; but she would not allow that any objections _there_ had material weight with"
+darcy,see,male,name,dobj,False,"The agitation and tears which the subject occasioned brought on a headache; and it grew so much worse towards the evening that, added to her unwilling"
+she,press,female,pronoun,dobj,False,"Mrs. Collins, seeing that she was really unwell, did not press her to go, and as much as possible"
+husband,prevent,male,role_noun,dobj,False,prevented her husband from pressing her
+she,press,female,pronoun,dobj,False,prevented her husband from pressing her
+herself,exasperate,female,pronoun,dobj,False,"[Illustration] When they were gone, Elizabeth, as if intending to exasperate herself as much as possible against Mr. Darcy, chose for her employment t"
+he,answer,male,pronoun,dobj,False,She answered him with cold civility.
+herself,compose,female,pronoun,dobj,False,"She tried, however, to compose herself to answer him with patience, when he should have done."
+he,answer,male,pronoun,dobj,False,"She tried, however, to compose herself to answer him with patience, when he should have done."
+man,accept,male,role_noun,dobj,True,"Had not my own feelings decided against you, had they been indifferent, or had they even been favourable, do you think that any consideration would te"
+she,interrupt,female,pronoun,dobj,False,"As she pronounced these words, Mr. Darcy changed colour; but the emotion was short, and he listened without attempting to interrupt her while she cont"
+she,conciliate,female,pronoun,dobj,False,"Elizabeth disdained the appearance of noticing this civil reflection, but its meaning did not escape, nor was it likely to conciliate her."
+he,reduce,male,pronoun,dobj,True,"“And of your infliction,” cried Elizabeth, with energy; “You have reduced him to his present state of poverty--comparative poverty."
+herself,support,female,pronoun,dobj,False,"She knew not how to support herself, and, from actual weakness, sat down and cried for half an hour."
+she,marry,female,pronoun,dobj,False,"so much in love as to wish to marry her in spite of all the objections which had made him prevent his friend’s marrying her sister, and which must app"
+sister,marry,female,role_noun,dobj,False,"so much in love as to wish to marry her in spite of all the objections which had made him prevent his friend’s marrying her sister, and which must app"
+wickham,mention,male,name,dobj,False,"But his pride, his abominable pride, his shameless avowal of what he had done with respect to Jane, his unpardonable assurance in acknowledging, thoug"
+she,hurry,female,pronoun,dobj,False,She continued in very agitating reflections till the sound of Lady Catherine’s carriage made her feel how unequal she was to encounter Charlotte’s obs
+herself,indulge,female,pronoun,dobj,False,"She could not yet recover from the surprise of what had happened: it was impossible to think of anything else; and, totally indisposed for employment,"
+she,stop,female,pronoun,dobj,False,"She was proceeding directly to her favourite walk, when the recollection of Mr. Darcy’s sometimes coming there stopped her, and instead of entering th"
+she,lead,female,pronoun,dobj,False,"She was proceeding directly to her favourite walk, when the recollection of Mr. Darcy’s sometimes coming there stopped her, and instead of entering th"
+she,see,female,pronoun,dobj,False,"But the person who advanced was now near enough to see her, and stepping forward with eagerness, pronounced her name."
+bingley,detach,male,name,dobj,True,"The first mentioned was, that, regardless of the sentiments of either, I had detached Mr. Bingley from your sister,--and the other, that I had, in def"
+sister,prefer,female,role_noun,dobj,True,"I had not been long in Hertfordshire before I saw, in common with others, that Bingley preferred your elder sister to any other young woman in the cou"
+he,see,male,pronoun,dobj,True,I had often seen him in love before.
+brother,detach,male,role_noun,dobj,True,"His sisters’ uneasiness had been equally excited with my own: our coincidence of feeling was soon discovered; and, alike sensible that no time was to "
+he,join,male,pronoun,dobj,True,"His sisters’ uneasiness had been equally excited with my own: our coincidence of feeling was soon discovered; and, alike sensible that no time was to "
+he,convince,male,pronoun,dobj,True,"To convince him, therefore, that he had deceived himself was no very difficult point."
+himself,deceive,male,pronoun,dobj,True,"To convince him, therefore, that he had deceived himself was no very difficult point."
+he,persuade,male,pronoun,dobj,True,"To persuade him against returning into Hertfordshire, when that conviction had been given, was scarcely the work of a moment."
+she,see,female,pronoun,dobj,True,"That they might have met without ill consequence is, perhaps, probable; but his regard did not appear to me enough extinguished for him to see her wit"
+wickham,learn,male,name,dobj,True,"If I have wounded your sister’s feelings, it was unknowingly done; and though the motives which governed me may to you very naturally appear insuffici"
+father,incline,male,role_noun,dobj,True,"Mr. Wickham is the son of a very respectable man, who had for many years the management of all the Pemberley estates, and whose good conduct in the di"
+he,support,male,pronoun,dobj,True,"My father supported him at school, and afterwards at Cambridge; most important assistance, as his own father, always poor from the extravagance of his"
+he,see,male,pronoun,dobj,True,"The vicious propensities, the want of principle, which he was careful to guard from the knowledge of his best friend, could not escape the observation"
+he,invite,male,pronoun,dobj,True,"I thought too ill of him to invite him to Pemberley, or admit his society in town."
+he,present,male,pronoun,dobj,True,"He had found the law a most unprofitable study, and was now absolutely resolved on being ordained, if I would present him to the living in question--o"
+himself,recommend,male,pronoun,dobj,True,"About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over i"
+herself,believe,female,pronoun,dobj,True,"About a year ago, she was taken from school, and an establishment formed for her in London; and last summer she went with the lady who presided over i"
+brother,offend,male,role_noun,dobj,True,"I joined them unexpectedly a day or two before the intended elopement; and then Georgiana, unable to support the idea of grieving and offending a brot"
+himself,revenge,male,pronoun,dobj,True,"Mr. Wickham’s chief object was unquestionably my sister’s fortune, which is thirty thousand pounds; but I cannot help supposing that the hope of reven"
+he,consult,male,pronoun,dobj,True,"If your abhorrence of _me_ should make _my_ assertions valueless, you cannot be prevented by the same cause from confiding in my cousin; and that ther"
+she,satisfy,female,pronoun,dobj,False,"He expressed no regret for what he had done which satisfied her; his style was not penitent, but haughty."
+she,oppress,female,pronoun,dobj,False,"Astonishment, apprehension, and even horror, oppressed her."
+herself,collect,female,pronoun,dobj,False,"In this perturbed state of mind, with thoughts that could rest on nothing, she walked on; but it would not do: in half a minute the letter was unfolde"
+herself,command,female,pronoun,dobj,False,"In this perturbed state of mind, with thoughts that could rest on nothing, she walked on; but it would not do: in half a minute the letter was unfolde"
+herself,flatter,female,pronoun,dobj,False,"What Wickham had said of the living was fresh in her memory; and as she recalled his very words, it was impossible not to feel that there was gross du"
+she,shock,female,pronoun,dobj,False,"The extravagance and general profligacy which he scrupled not to lay to Mr. Wickham’s charge exceedingly shocked her; the more so, as she could bring "
+he,meet,male,pronoun,dobj,False,"She had never heard of him before his entrance into the ----shire militia, in which he had engaged at the persuasion of the young man, who, on meeting"
+himself,tell,male,pronoun,dobj,False,"Of his former way of life, nothing had been known in Hertfordshire but what he told [Illustration: “Meeting accidentally in Town” [_Copyright 1894 by "
+he,establish,male,pronoun,dobj,False,"His countenance, voice, and manner, had established him at once in the possession of every virtue."
+he,rescue,male,pronoun,dobj,False,"She tried to recollect some instance of goodness, some distinguished trait of integrity or benevolence, that might rescue him from the attacks of Mr. "
+she,befriend,female,pronoun,dobj,False,But no such recollection befriended her.
+he,see,male,pronoun,dobj,False,"She could see him instantly before her, in every charm of air and address, but she could remember no more substantial good than the general approbatio"
+he,gain,male,pronoun,dobj,False,"She could see him instantly before her, in every charm of air and address, but she could remember no more substantial good than the general approbatio"
+she,escape,female,pronoun,dobj,False,"She was _now_ struck with the impropriety of such communications to a stranger, and wondered it had escaped her before."
+himself,put,male,pronoun,dobj,False,"She saw the indelicacy of putting himself forward as he had done, and the inconsistency of his professions with his conduct."
+darcy,see,male,name,dobj,False,"She remembered that he had boasted of having no fear of seeing Mr. Darcy--that Mr. Darcy might leave the country, but that _he_ should stand his groun"
+she,assure,female,pronoun,dobj,False,"She remembered, also, that till the Netherfield family had quitted the country, he had told his story to no one but herself; but that after their remo"
+son,expose,male,role_noun,dobj,False,"She remembered, also, that till the Netherfield family had quitted the country, he had told his story to no one but herself; but that after their remo"
+he,betray,male,pronoun,dobj,False,"Every lingering struggle in his favour grew fainter and fainter; and in further justification of Mr. Darcy, she could not but allow that Mr. Bingley, "
+he,speak,male,pronoun,dobj,False,"Every lingering struggle in his favour grew fainter and fainter; and in further justification of Mr. Darcy, she could not but allow that Mr. Bingley, "
+she,strike,female,pronoun,dobj,False,"The justice of the charge struck her too forcibly for denial; and the circumstances to which he particularly alluded, as having passed at the Netherfi"
+she,console,female,pronoun,dobj,False,"It soothed, but it could not console her for the contempt which had been thus self-attracted by the rest of her family; and as she considered that Jan"
+herself,reconcile,female,pronoun,dobj,False,"After wandering along the lane for two hours, giving way to every variety of thought, reconsidering events, determining probabilities, and reconciling"
+he,miss,male,pronoun,dobj,False,Elizabeth could but just _affect_ concern in missing him; she really rejoiced at it.
+catherine,console,female,name,dobj,False,"To Rosings he then hastened to console Lady Catherine and her daughter; and on his return brought back, with great satisfaction, a message from her La"
+catherine,see,female,name,dobj,False,"Elizabeth could not see Lady Catherine without recollecting that, had she chosen it, she might by this time have been presented to her as her future n"
+herself,amuse,female,pronoun,dobj,False,how would she have behaved?” were the questions with which she amused herself.
+collins,tell,male,name,dobj,True,I told Mrs. Collins so before you came.
+he,upbraid,male,pronoun,dobj,False,"When she remembered the style of his address, she was still full of indignation: but when she considered how unjustly she had condemned and upbraided "
+he,approve,male,pronoun,dobj,False,"His attachment excited gratitude, his general character respect: but she could not approve him; nor could she for a moment repent her refusal, or feel"
+he,see,male,pronoun,dobj,False,"His attachment excited gratitude, his general character respect: but she could not approve him; nor could she for a moment repent her refusal, or feel"
+himself,exert,male,pronoun,dobj,False,"Her father, contented with laughing at them, would never exert himself to restrain the wild giddiness of his youngest daughters; and her mother, with "
+bingley,restore,male,name,dobj,False,"Anxiety on Jane’s behalf was another prevailing concern; and Mr. Darcy’s explanation, by restoring Bingley to all her former good opinion, heightened "
+herself,exert,female,pronoun,dobj,False,"When they parted, Lady Catherine, with great condescension, wished them a good journey, and invited them to come to Hunsford again next year; and Miss"
+she,leave,female,pronoun,dobj,False,it was melancholy to leave her to such society!
+she,commission,female,pronoun,dobj,False,"After an affectionate parting between the friends, Elizabeth was attended to the carriage by Mr. Collins; and as they walked down the garden, he was c"
+she,hand,female,pronoun,dobj,False,"He then handed her in, Maria followed, and the door was on the point of being closed, when he suddenly reminded them, with some consternation, that th"
+sister,tell,female,role_noun,dobj,False,"It was not without an effort, meanwhile, that she could wait even for Longbourn, before she told her sister of Mr. Darcy’s proposals."
+jane,astonish,female,name,dobj,False,"To know that she had the power of revealing what would so exceedingly astonish Jane, and must, at the same time, so highly gratify whatever of her own"
+sister,grieve,female,role_noun,dobj,False,"To know that she had the power of revealing what would so exceedingly astonish Jane, and must, at the same time, so highly gratify whatever of her own"
+sister,welcome,female,role_noun,dobj,False,"After welcoming their sisters, they triumphantly displayed a table set out with such cold meat as an inn larder usually affords, exclaiming, “Is not t"
+her,show,female,pronoun,dobj,False,"Then showing her purchases,--“Look here, I have bought this bonnet."
+he,like,male,pronoun,dobj,True,"“She is a great fool for going away, if she liked him.”"
+man,see,male,role_noun,dobj,True,Have you seen any pleasant men?
+husband,get,male,role_noun,dobj,True,I was in great hopes that one of you would have got a husband before you came back.
+husband,get,male,role_noun,dobj,True,My aunt Philips wants you so to get husbands you can’t think.
+collins,take,male,name,dobj,True,She says Lizzy had better have taken Mr. Collins; but _I_ do not think there would have been any fun in it.
+he,know,male,pronoun,dobj,True,"When Denny, and Wickham, and Pratt, and two or three more of the men came in, they did not know him in the least."
+jane,see,female,name,dobj,False,"Mrs. Bennet rejoiced to see Jane in undiminished beauty; and more than once during dinner did Mr. Bennet say voluntarily to Elizabeth,---- “I am glad "
+she,hear,female,pronoun,dobj,False,"Their party in the dining-room was large, for almost all the Lucases came to meet Maria and hear the news; and various were the subjects which occupie"
+wickham,see,male,name,dobj,False,"She dreaded seeing Wickham again, and was resolved to avoid it as long as possible."
+she,plague,female,pronoun,dobj,False,"In a fortnight they were to go, and once gone, she hoped there could be nothing more to plague her on his account."
+jane,acquaint,female,name,dobj,False,[Illustration] Elizabeth’s impatience to acquaint Jane with what had happened could no longer be overcome; and at length resolving to suppress every p
+he,give,male,pronoun,dobj,False,She was sorry that Mr. Darcy should have delivered his sentiments in a manner so little suited to recommend them; but still more was she grieved for t
+he,refuse,male,pronoun,dobj,True,"You do not blame me, however, for refusing him?”"
+wickham,concern,male,name,dobj,False,"She then spoke of the letter, repeating the whole of its contents as far as they concerned George Wickham."
+she,console,female,pronoun,dobj,False,"Nor was Darcy’s vindication, though grateful to her feelings, capable of consoling her for such discovery."
+he,expose,male,pronoun,dobj,True,"Miss Bennet paused a little, and then replied, “Surely there can be no occasion for exposing him so dreadfully."
+he,place,male,pronoun,dobj,True,"The general prejudice against Mr. Darcy is so violent, that it would be the death of half the good people in Meryton, to attempt to place him in an am"
+he,ruin,male,pronoun,dobj,True,To have his errors made public might ruin him for ever.
+she,justify,female,pronoun,dobj,False,Here was knowledge in which no one could partake; and she was sensible that nothing less than a perfect understanding between the parties could justif
+herself,fancy,female,pronoun,dobj,False,"Having never even fancied herself in love before, her regard had all the warmth of first attachment, and from her age and disposition, greater steadin"
+he,prefer,male,pronoun,dobj,False,"Having never even fancied herself in love before, her regard had all the warmth of first attachment, and from her age and disposition, greater steadin"
+sister,tell,female,role_noun,dobj,True,I told my sister Philips so the other day.
+he,get,male,pronoun,dobj,True,"Well, he is a very undeserving young man--and I do not suppose there is the least chance in the world of her ever getting him now."
+daughter,use,female,role_noun,dobj,True,"Nobody wants him to come; though I shall always say that he used my daughter extremely ill; and, if I was her, I would not have put up with it."
+she,accompany,female,pronoun,dobj,False,"But the gloom of Lydia’s prospect was shortly cleared away; for she received an invitation from Mrs. Forster, the wife of the colonel of the regiment,"
+she,recommend,female,pronoun,dobj,False,"A resemblance in good-humour and good spirits had recommended her and Lydia to each other, and out of their _three_ months’ acquaintance they had been"
+she,make,female,pronoun,dobj,False,"As for Elizabeth herself, this invitation was so far from exciting in her the same feelings as in her mother and Lydia, that she considered it as the "
+father,advise,male,role_noun,dobj,False,"As for Elizabeth herself, this invitation was so far from exciting in her the same feelings as in her mother and Lydia, that she considered it as the "
+she,hear,female,pronoun,dobj,False,"He heard her attentively, and then said,-- “Lydia will never be easy till she has exposed herself in some public place or other, and we can never expe"
+herself,expose,female,pronoun,dobj,True,"He heard her attentively, and then said,-- “Lydia will never be easy till she has exposed herself in some public place or other, and we can never expe"
+she,teach,female,pronoun,dobj,True,"If you, my dear father, will not take the trouble of checking her exuberant spirits, and of teaching her that her present pursuits are not to be the b"
+she,keep,female,pronoun,dobj,True,"Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to anybody."
+she,lock,female,pronoun,dobj,True,"At any rate, she cannot grow many degrees worse, without authorizing us to lock her up for the rest of her life.”"
+he,leave,male,pronoun,dobj,False,"With this answer Elizabeth was forced to be content; but her own opinion continued the same, and she left him disappointed and sorry."
+she,tear,female,pronoun,dobj,False,"Had she known that her sister sought to tear her from such prospects and such realities as these, what would have been her sensations?"
+she,console,female,pronoun,dobj,False,Lydia’s going to Brighton was all that consoled her for the melancholy conviction of her husband’s never intending to go there himself.
+wickham,see,male,name,dobj,False,Elizabeth was now to see Mr. Wickham for the last time.
+she,delight,female,pronoun,dobj,False,"She had even learnt to detect, in the very gentleness which had first delighted her, an affectation and a sameness to disgust and weary."
+she,provoke,female,pronoun,dobj,False,"could only serve, after what had since passed, to provoke her."
+he,ask,male,pronoun,dobj,False,"On the very last day of the regiment’s remaining in Meryton, he dined, with others of the officers, at Longbourn; and so little was Elizabeth disposed"
+he,see,male,pronoun,dobj,False,"He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and,"
+she,ask,female,pronoun,dobj,False,"He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and,"
+he,like,male,pronoun,dobj,False,"He looked surprised, displeased, alarmed; but, with a moment’s recollection, and a returning smile, replied, that he had formerly seen him often; and,"
+he,see,male,pronoun,dobj,True,“And you saw him frequently?”
+she,escape,female,pronoun,dobj,False,"“Indeed!” cried Wickham, with a look which did not escape her."
+himself,check,male,pronoun,dobj,False,"” but checking himself, he added, in a gayer tone, “Is it in address that he improves?"
+he,know,male,pronoun,dobj,True,"There was a something in her countenance which made him listen with an apprehensive and anxious attention, while she added,-- “When I said that he imp"
+he,deter,male,pronoun,dobj,True,"His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered"
+she,engage,female,pronoun,dobj,False,"She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him."
+he,indulge,male,pronoun,dobj,False,"She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him."
+elizabeth,distinguish,female,name,dobj,False,"The rest of the evening passed with the _appearance_, on his side, of usual cheerfulness, but with no further attempt to distinguish Elizabeth; and th"
+herself,enjoy,female,pronoun,dobj,False,"Mrs. Bennet was diffuse in her good wishes for the felicity of her daughter, and impressive in her injunctions that she would not miss the opportunity"
+woman,marry,female,role_noun,dobj,False,"Her father, captivated by youth and beauty, and that appearance of good-humour which youth and beauty generally give, had married a woman whose weak u"
+wife,expose,female,role_noun,dobj,False,"She had always seen it with pain; but respecting his abilities, and grateful for his affectionate treatment of herself, she endeavoured to forget what"
+mother,have,female,role_noun,dobj,False,"Their parties abroad were less varied than before; and at home she had a mother and sister, whose constant repinings at the dulness of everything arou"
+herself,promise,female,pronoun,dobj,False,"Upon the whole, therefore, she found, what has been sometimes found before, that an event to which she had looked forward with impatient desire, did n"
+herself,console,female,pronoun,dobj,False,It was consequently necessary to name some other period for the commencement of actual felicity; to have some other point on which her wishes and hope
+jane,include,female,name,dobj,False,Her tour to the Lakes was now the object of her happiest thoughts: it was her best consolation for all the uncomfortable hours which the discontentedn
+she,call,female,pronoun,dobj,False,"Those to her mother contained little else than that they were just returned from the library, where such and such officers had attended them, and wher"
+she,adapt,female,pronoun,dobj,False,"The children, two girls of six and eight years old, and two younger boys, were to be left under the particular care of their cousin Jane, who was the "
+darcy,meet,male,name,dobj,False,"The possibility of meeting Mr. Darcy, while viewing the place, instantly occurred."
+she,find,female,pronoun,dobj,False,"The housekeeper came; a respectable looking elderly woman, much less fine, and more civil, than she had any notion of finding her."
+she,follow,female,pronoun,dobj,False,They followed her into the dining-parlour.
+herself,recollect,female,pronoun,dobj,False,"But, no,” recollecting herself, “that could never be; my uncle and aunt would have been lost to me; I should not have been allowed to invite them.”"
+she,save,female,pronoun,dobj,False,This was a lucky recollection--it saved her from something like regret.
+he,expect,male,pronoun,dobj,True,"At length, however, the question was asked by her uncle; and she turned away with alarm, while Mrs. Reynolds replied, that he was; adding, “But we exp"
+she,call,female,pronoun,dobj,False,Her aunt now called her to look at a picture.
+she,ask,female,pronoun,dobj,False,"Her aunt asked her, smilingly, how she liked it."
+darcy,know,male,name,dobj,True,"“Does that young lady know Mr. Darcy?” Elizabeth coloured, and said, “A little.”"
+he,know,male,pronoun,dobj,True,"“I say no more than the truth, and what everybody will say that knows him,” replied the other."
+he,know,male,pronoun,dobj,True,"Elizabeth thought this was going pretty far; and she listened with increasing astonishment as the housekeeper added, “I have never had a cross word fr"
+she,interest,female,pronoun,dobj,False,Mrs. Reynolds could interest her on no other point.
+he,call,male,pronoun,dobj,True,Some people call him proud; but I am sure I never saw anything of it.
+he,place,male,pronoun,dobj,True,“In what an amiable light does this place him!” thought Elizabeth.
+she,arrest,female,pronoun,dobj,False,"At last it arrested her--and she beheld a striking resemblance of Mr. Darcy, with such a smile over the face, as she remembered to have sometimes seen"
+himself,recover,male,pronoun,dobj,False,"He absolutely started, and for a moment seemed immovable from surprise; but shortly recovering himself, advanced towards the party, and spoke to Eliza"
+he,fail,male,pronoun,dobj,False,"At length, every idea seemed to fail him; and after standing a few moments without saying a word, he suddenly recollected himself, and took leave."
+himself,recollect,male,pronoun,dobj,False,"At length, every idea seemed to fail him; and after standing a few moments without saying a word, he suddenly recollected himself, and took leave."
+she,join,female,pronoun,dobj,False,"The others then joined her, and expressed their admiration of his figure; but Elizabeth heard not a word, and, wholly engrossed by her own feelings, f"
+man,strike,male,role_noun,dobj,False,In what a disgraceful light might it not strike so vain a man!
+herself,throw,female,pronoun,dobj,False,It might seem as if she had purposely thrown herself in his way again!
+she,see,female,pronoun,dobj,False,"Whether he had felt more of pain or of pleasure in seeing her, she could not tell, but he certainly had not seen her with composure."
+she,see,female,pronoun,dobj,False,"Whether he had felt more of pain or of pleasure in seeing her, she could not tell, but he certainly had not seen her with composure."
+she,rouse,female,pronoun,dobj,False,"At length, however, the remarks of her companions on her absence of mind roused her, and she felt the necessity of appearing more like herself."
+he,see,male,pronoun,dobj,False,"The walk being here less sheltered than on the other side, allowed them to see him before they met."
+he,conceal,male,pronoun,dobj,False,"The idea lasted while a turning in the walk concealed him from their view; the turning past, he was immediately before them."
+she,ask,female,pronoun,dobj,False,"Mrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends."
+he,introduce,male,pronoun,dobj,False,"Mrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends."
+he,invite,male,pronoun,dobj,False,"The conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while h"
+he,supply,male,pronoun,dobj,False,"The conversation soon turned upon fishing; and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose, while h"
+she,gratify,female,pronoun,dobj,False,"Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself."
+husband,prefer,male,role_noun,dobj,False,"It originated in Mrs. Gardiner, who, fatigued by the exercise of the morning, found Elizabeth’s arm inadequate to her support, and consequently prefer"
+sister,introduce,female,role_noun,dobj,True,"Will you allow me, or do I ask too much, to introduce my sister to your acquaintance during your stay at Lambton?”"
+sister,introduce,female,role_noun,dobj,False,His wish of introducing his sister to her was a compliment of the highest kind.
+she,ask,female,pronoun,dobj,False,"He then asked her to walk into the house--but she declared herself not tired, and they stood together on the lawn."
+lady,hand,female,role_noun,dobj,False,"Mr. Darcy handed the ladies into the carriage; and when it drove off, Elizabeth saw him walking slowly towards the house."
+he,call,male,pronoun,dobj,True,"I can now say with the housekeeper, that though some people may call him proud, _I_ have seen nothing of it.”"
+herself,excuse,female,pronoun,dobj,False,"Elizabeth excused herself as well as she could: said that she had liked him better when they met in Kent than before, and that she had never seen him "
+he,like,male,pronoun,dobj,False,"Elizabeth excused herself as well as she could: said that she had liked him better when they met in Kent than before, and that she had never seen him "
+he,take,male,pronoun,dobj,True,"“Your great men often are; and therefore I shall not take him at his word about fishing, as he might change his mind another day, and warn me off his "
+sister,bring,female,role_noun,dobj,False,"[Illustration] Elizabeth had settled it that Mr. Darcy would bring his sister to visit her the very day after her reaching Pemberley; and was, consequ"
+she,visit,female,pronoun,dobj,False,"[Illustration] Elizabeth had settled it that Mr. Darcy would bring his sister to visit her the very day after her reaching Pemberley; and was, consequ"
+she,fail,female,pronoun,dobj,False,"She was quite amazed at her own discomposure; but, amongst other causes of disquiet, she dreaded lest the partiality of the brother should have said t"
+herself,compose,female,pronoun,dobj,False,"She retreated from the window, fearful of being seen; and as she walked up and down the room, endeavouring to compose herself, saw such looks of inqui"
+she,convince,female,pronoun,dobj,False,"Since her being at Lambton, she had heard that Miss Darcy was exceedingly proud; but the observation of a very few minutes convinced her that she was "
+she,tell,female,pronoun,dobj,False,They had not been long together before Darcy told her that Bingley was also coming to wait on her; and she had barely time to express her satisfaction
+himself,express,male,pronoun,dobj,False,"All Elizabeth’s anger against him had been long done away; but had she still felt any, it could hardly have stood its ground against the unaffected co"
+she,see,female,pronoun,dobj,False,"All Elizabeth’s anger against him had been long done away; but had she still felt any, it could hardly have stood its ground against the unaffected co"
+he,see,male,pronoun,dobj,False,They had long wished to see him.
+bingley,see,male,name,dobj,False,"In seeing Bingley, her thoughts naturally flew to her sister; and oh! how ardently did she long to know whether any of his were directed in a like man"
+herself,please,female,pronoun,dobj,False,"Sometimes she could fancy that he talked less than on former occasions, and once or twice pleased herself with the notion that, as he looked at her, h"
+she,see,female,pronoun,dobj,True,"He observed to her, at a moment when the others were talking together, and in a tone which had something of real regret, that it “was a very long time"
+she,ask,female,pronoun,dobj,False,"Elizabeth was pleased to find his memory so exact; and he afterwards took occasion to ask her, when unattended to by any of the rest, whether _all_ he"
+she,convince,female,pronoun,dobj,False,", she heard an accent so far removed from _hauteur_ or disdain of his companions, as convinced her that the improvement of manners which she had yeste"
+he,join,male,pronoun,dobj,False,"Their visitors stayed with them above half an hour; and when they arose to depart, Mr. Darcy called on his sister to join him in expressing their wish"
+her,mark,female,pronoun,dobj,False,"Miss Darcy, though with a diffidence which marked her little in the habit of giving invitations, readily obeyed."
+elizabeth,see,female,name,dobj,False,"Bingley expressed great pleasure in the certainty of seeing Elizabeth again, having still a great deal to say to her, and many inquiries to make after"
+he,know,male,pronoun,dobj,False,"There was now an interest, however, in believing the housekeeper; and they soon became sensible that the authority of a servant, who had known him sin"
+he,accuse,male,pronoun,dobj,False,"They had nothing to accuse him of but pride; pride he probably had, and if not, it would certainly be imputed by the inhabitants of a small market tow"
+he,hate,male,pronoun,dobj,False,She certainly did not hate him.
+she,love,female,pronoun,dobj,False,"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of "
+she,love,female,pronoun,dobj,False,"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of "
+he,reject,male,pronoun,dobj,False,"It was gratitude;--gratitude, not merely for having once loved her, but for loving her still well enough to forgive all the petulance and acrimony of "
+she,avoid,female,pronoun,dobj,False,"He who, she had been persuaded, would avoid her as his greatest enemy, seemed, on this accidental meeting, most eager to preserve the acquaintance; an"
+she,tell,female,pronoun,dobj,False,"She respected, she esteemed, she was grateful to him, she felt a real interest in his welfare; and she only wanted to know how far she wished that wel"
+she,pity,female,pronoun,dobj,False,"Mrs. Gardiner and her niece, however, did her justice, and pitied her."
+she,call,female,pronoun,dobj,False,"Elizabeth soon saw that she was herself closely watched by Miss Bingley, and that she could not speak a word, especially to Miss Darcy, without callin"
+she,prevent,female,pronoun,dobj,False,"This observation would not have prevented her from trying to talk to the latter, had they not been seated at an inconvenient distance; but she was not"
+she,employ,female,pronoun,dobj,False,"This observation would not have prevented her from trying to talk to the latter, had they not been seated at an inconvenient distance; but she was not"
+she,remind,female,pronoun,dobj,False,"The next variation which their visit afforded was produced by the entrance of servants with cold meat, cake, and a variety of all the finest fruits in"
+he,leave,male,pronoun,dobj,False,"He had been some time with Mr. Gardiner, who, with two or three other gentlemen from the house, was engaged by the river; and had left him only on lea"
+herself,exert,female,pronoun,dobj,False,"Miss Darcy, on her brother’s entrance, exerted herself much more to talk; and Elizabeth saw that he was anxious for his sister and herself to get acqu"
+herself,exert,female,pronoun,dobj,False,In Darcy’s presence she dared not mention Wickham’s name: but Elizabeth instantly comprehended that he was uppermost in her thoughts; and the various 
+darcy,show,male,name,dobj,False,"While she spoke, an involuntary glance showed her Darcy with a heightened complexion, earnestly looking at her, and his sister overcome with confusion"
+elizabeth,discompose,female,name,dobj,False,"Had Miss Bingley known what pain she was then giving her beloved friend, she undoubtedly would have refrained from the hint; but she had merely intend"
+she,injure,female,pronoun,dobj,False,"Had Miss Bingley known what pain she was then giving her beloved friend, she undoubtedly would have refrained from the hint; but she had merely intend"
+she,reach,female,pronoun,dobj,False,Not a syllable had ever reached her of Miss Darcy’s meditated elopement.
+he,separate,male,pronoun,dobj,False,"He had certainly formed such a plan; and without meaning that it should affect his endeavour to separate him from Miss Bennet, it is probable that it "
+she,join,female,pronoun,dobj,False,But Georgiana would not join her.
+georgiana,leave,female,name,dobj,False,"Her brother’s recommendation was enough to insure her favour: his judgment could not err; and he had spoken in such terms of Elizabeth, as to leave Ge"
+she,find,female,pronoun,dobj,False,"Her brother’s recommendation was enough to insure her favour: his judgment could not err; and he had spoken in such terms of Elizabeth, as to leave Ge"
+she,know,female,pronoun,dobj,True,Louisa and I were agreeing that we should not have known her again.”
+himself,content,male,pronoun,dobj,False,"However little Mr. Darcy might have liked such an address, he contented himself with coolly replying, that he perceived no other alteration than her b"
+elizabeth,admire,female,name,dobj,False,"Persuaded as Miss Bingley was that Darcy admired Elizabeth, this was not the best method of recommending herself; but angry people are not always wise"
+herself,recommend,female,pronoun,dobj,False,"Persuaded as Miss Bingley was that Darcy admired Elizabeth, this was not the best method of recommending herself; but angry people are not always wise"
+she,know,female,pronoun,dobj,True,"He was resolutely silent, however; and, from a determination of making him speak, she continued,-- “I remember, when we first knew her in Hertfordshir"
+mother,call,female,role_noun,dobj,True,I should as soon call her mother a wit.’
+himself,contain,male,pronoun,dobj,False,"“Yes,” replied Darcy, who could contain himself no longer, “but _that_ was only when I first knew her; for it is many months since I have considered h"
+she,know,female,pronoun,dobj,True,"“Yes,” replied Darcy, who could contain himself no longer, “but _that_ was only when I first knew her; for it is many months since I have considered h"
+she,consider,female,pronoun,dobj,True,"“Yes,” replied Darcy, who could contain himself no longer, “but _that_ was only when I first knew her; for it is many months since I have considered h"
+he,force,male,pronoun,dobj,False,"He then went away, and Miss Bingley was left to all the satisfaction of having forced him to say what gave no one any pain but herself."
+she,leave,female,pronoun,dobj,False,"They had just been preparing to walk as the letters came in; and her uncle and aunt, leaving her to enjoy them in quiet, set off by themselves."
+he,believe,male,pronoun,dobj,True,"Thoughtless and indiscreet I can easily believe him, but this step (and let us rejoice over it) marks nothing bad at heart."
+he,expect,male,pronoun,dobj,True,Colonel Forster gives us reason to expect him here soon.
+she,inform,female,pronoun,dobj,True,"Lydia left a few lines for his wife, informing her of their intention."
+lydia,marry,female,name,dobj,True,"Though Lydia’s short letter to Mrs. F. gave them to understand that they were going to Gretna Green, something was dropped by Denny expressing his bel"
+herself,exert,female,pronoun,dobj,True,"Could she exert herself, it would be better, but this is not to be expected; and as to my father, I never in my life saw him so affected"
+she,discover,female,pronoun,dobj,True,"My father is going to London with Colonel Forster instantly, to try to discover her."
+he,follow,male,pronoun,dobj,False,"“Oh! where, where is my uncle?” cried Elizabeth, darting from her seat as she finished the letter, in eagerness to follow him, without losing a moment"
+himself,recover,male,pronoun,dobj,False,"Her pale face and impetuous manner made him start, and before he could recover himself enough to speak, she, in whose mind every idea was superseded b"
+himself,recollect,male,pronoun,dobj,False,"“Good God! what is the matter?” cried he, with more feeling than politeness; then recollecting himself, “I will not detain you a minute; but let me, o"
+he,commission,male,pronoun,dobj,False,"Calling back the servant, therefore, she commissioned him, though in so breathless an accent as made her almost unintelligible, to fetch his master an"
+herself,support,female,pronoun,dobj,False,"On his quitting the room, she sat down, unable to support herself, and looking so miserably ill, that it was impossible for Darcy to leave her, or to "
+she,leave,female,pronoun,dobj,False,"On his quitting the room, she sat down, unable to support herself, and looking so miserably ill, that it was impossible for Darcy to leave her, or to "
+herself,recover,female,pronoun,dobj,False,"“No, I thank you,” she replied, endeavouring to recover herself."
+she,observe,female,pronoun,dobj,False,"Darcy, in wretched suspense, could only say something indistinctly of his [Illustration: “I have not an instant to lose” ] concern, and observe her in"
+herself,throw,female,pronoun,dobj,True,My youngest sister has left all her friends--has eloped; has thrown herself into the power of--of Mr. Wickham.
+he,know,male,pronoun,dobj,True,_You_ know him too well to doubt the rest.
+he,tempt,male,pronoun,dobj,True,"She has no money, no connections, nothing that can tempt him to--she is lost for ever.”"
+she,recover,female,pronoun,dobj,True,"“And what has been done, what has been attempted, to recover her?”"
+she,hear,female,pronoun,dobj,False,"He seemed scarcely to hear her, and was walking up and down the room in earnest meditation; his brow contracted, his air gloomy."
+he,love,male,pronoun,dobj,False,"It was, on the contrary, exactly calculated to make her understand her own wishes; and never had she so honestly felt that she could have loved him, a"
+she,engross,female,pronoun,dobj,False,"But self, though it would intrude, could not engross her."
+she,assure,female,pronoun,dobj,False,"He readily assured her of his secrecy, again expressed his sorrow for her distress, wished it a happier conclusion than there was at present reason to"
+she,marry,female,pronoun,dobj,False,Never since reading Jane’s second letter had she entertained a hope of Wickham’s meaning to marry her.
+herself,flatter,female,pronoun,dobj,False,"No one but Jane, she thought, could flatter herself with such an expectation."
+girl,marry,female,role_noun,dobj,False,"While the contents of the first letter remained on her mind, she was all surprise, all astonishment, that Wickham should marry a girl whom it was impo"
+he,attach,male,pronoun,dobj,False,"While the contents of the first letter remained on her mind, she was all surprise, all astonishment, that Wickham should marry a girl whom it was impo"
+she,preserve,female,pronoun,dobj,False,"For such an attachment as this, she might have sufficient charms; and though she did not suppose Lydia to be deliberately engaging in an elopement, wi"
+herself,attach,female,pronoun,dobj,False,"She had never perceived, while the regiment was in Hertfordshire, that Lydia had any partiality for him; but she was convinced that Lydia had wanted o"
+he,thank,male,pronoun,dobj,False,"Elizabeth, though expecting no less, thanked him with tears of gratitude; and all three being actuated by one spirit, everything relating to their jou"
+he,tell,male,pronoun,dobj,True,“Yes; and I told him we should not be able to keep our engagement.
+she,amuse,female,pronoun,dobj,False,"But wishes were vain; or, at best, could serve only to amuse her in the hurry and confusion of the following hour."
+herself,find,female,pronoun,dobj,False,"An hour, however, saw the whole completed; and Mr. Gardiner, meanwhile, having settled his account at the inn, nothing remained to be done but to go; "
+he,give,male,pronoun,dobj,True,"Can you, yourself, Lizzie, so wholly give him up, as to believe him capable of it?”"
+she,marry,female,pronoun,dobj,True,"His most particular friend, you see by Jane’s account, was persuaded of his never intending to marry her."
+woman,marry,female,role_noun,dobj,True,Wickham will never marry a woman without some money.
+lydia,have,female,name,dobj,True,"And what claims has Lydia, what attractions has she beyond youth, health, and good humour, that could make him for her sake forego every chance of ben"
+himself,benefit,male,pronoun,dobj,True,"And what claims has Lydia, what attractions has she beyond youth, health, and good humour, that could make him for her sake forego every chance of ben"
+brother,have,male,role_noun,dobj,True,"Lydia has no brothers to step forward; and he might imagine, from my father’s behaviour, from his indolence and the little attention he has ever seeme"
+woman,captivate,female,role_noun,dobj,True,And we all know that Wickham has every charm of person and address that can captivate a woman.”
+girl,see,female,role_noun,dobj,True,"From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl."
+she,find,female,pronoun,dobj,True,He must know that she was as amiable and unpretending as we have found her.”
+he,admire,male,pronoun,dobj,True,"When first he entered the corps, she was ready enough to admire him; but so we all were."
+she,distinguish,female,pronoun,dobj,True,Every girl in or near Meryton was out of her senses about him for the first two months: but he never distinguished _her_ by any particular attention; 
+she,treat,female,pronoun,dobj,True,Every girl in or near Meryton was out of her senses about him for the first two months: but he never distinguished _her_ by any particular attention; 
+she,meet,female,pronoun,dobj,False,"Elizabeth jumped out; and after giving each of them a hasty kiss, hurried into the vestibule, where Jane, who came running downstairs from her mother’"
+she,embrace,female,pronoun,dobj,False,"Elizabeth, as she affectionately embraced her, whilst tears filled the eyes of both, lost not a moment in asking whether anything had been heard of th"
+he,beg,male,pronoun,dobj,True,"He wrote me a few lines on Wednesday, to say that he had arrived in safety, and to give me his directions, which I particularly begged him to do."
+she,assure,female,pronoun,dobj,False,"Her sister, however, assured her of her being perfectly well; and their conversation, which had been passing while Mr. and Mrs. Gardiner were engaged "
+she,desert,female,pronoun,dobj,False,"The sanguine hope of good, however, which the benevolence of her heart suggested, had not yet deserted her; she still expected that it would all end w"
+wickham,fight,male,name,dobj,True,"And now here’s Mr. Bennet gone away, and I know he will fight Wickham, wherever he meets him, and then he will be killed, and what is to become of us "
+he,meet,male,pronoun,dobj,True,"And now here’s Mr. Bennet gone away, and I know he will fight Wickham, wherever he meets him, and then he will be killed, and what is to become of us "
+she,tell,female,pronoun,dobj,False,"They all exclaimed against such terrific ideas; and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that "
+bennet,assist,male,name,dobj,False,"They all exclaimed against such terrific ideas; and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that "
+lydia,recover,female,name,dobj,False,"They all exclaimed against such terrific ideas; and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that "
+lydia,tell,female,name,dobj,True,"And as for wedding clothes, do not let them wait for that, but tell Lydia she shall have as much money as she chooses to buy them, after they are marr"
+bennet,keep,male,name,dobj,True,"And, above all things, keep Mr. Bennet from fighting."
+he,tell,male,pronoun,dobj,True,"Tell him what a dreadful state I am in--that I am frightened out of my wits; and have such tremblings, such flutterings all over me, such spasms in my"
+lydia,tell,female,name,dobj,True,"And tell my dear Lydia not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses."
+she,assure,female,pronoun,dobj,False,"But Mr. Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her h"
+she,leave,female,pronoun,dobj,False,"But Mr. Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her h"
+she,involve,female,pronoun,dobj,True,"Then perceiving in Elizabeth no inclination of replying, she added, “Unhappy as the event must be for Lydia, we may draw from it this useful lesson:--"
+herself,console,female,pronoun,dobj,False,"Mary, however, continued to console herself with such kind of moral extractions from the evil before them."
+herself,avail,female,pronoun,dobj,False,"In the afternoon, the two elder Miss Bennets were able to be for half an hour by themselves; and Elizabeth instantly availed herself of the opportunit"
+she,prepare,female,pronoun,dobj,True,"Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia’s last letter she had prepared her for such a step."
+he,tell,male,pronoun,dobj,True,"Tell him I hope he will excuse me when he knows all, and tell him I will dance with him at the next ball we meet with great pleasure."
+he,tell,male,pronoun,dobj,True,"Tell him I hope he will excuse me when he knows all, and tell him I will dance with him at the next ball we meet with great pleasure."
+she,persuade,female,pronoun,dobj,True,"Whatever he might afterwards persuade her to, it was not on her side a _scheme_ of infamy."
+man,blacken,male,role_noun,dobj,False,"All Meryton seemed striving to blacken the man who, but three months before, had been almost an angel of light."
+brother,find,male,role_noun,dobj,False,"Mr. Gardiner left Longbourn on Sunday; on Tuesday, his wife received a letter from him: it told them, that on his arrival he had immediately found out"
+he,persuade,male,pronoun,dobj,False,"Mr. Gardiner left Longbourn on Sunday; on Tuesday, his wife received a letter from him: it told them, that on his arrival he had immediately found out"
+he,assist,male,pronoun,dobj,False,"Mr. Gardiner himself did not expect any success from this measure; but as his brother was eager in it, he meant to assist him in pursuing it."
+himself,conceal,male,pronoun,dobj,True,"There was also a postscript to this effect:-- “I have written to Colonel Forster to desire him to find out, if possible, from some of the young man’s "
+she,leave,female,pronoun,dobj,False,"Let me advise you, then, my dear sir, to console yourself as much as possible, to throw off your unworthy child from your affection for ever, and leav"
+father,see,male,role_noun,dobj,False,"Mr. Gardiner added, in his letter, that they might expect to see their father at home on the following day, which was Saturday."
+wickham,fight,male,name,dobj,True,"Who is to fight Wickham, and make him marry her, if he comes away?”"
+she,marry,female,pronoun,dobj,True,"Who is to fight Wickham, and make him marry her, if he comes away?”"
+she,attend,female,pronoun,dobj,False,"Mrs. Gardiner went away in all the perplexity about Elizabeth and her Derbyshire friend, that had attended her from that part of the world."
+he,take,male,pronoun,dobj,False,He said as little as he had ever been in the habit of saying; made no mention of the business that had taken him away; and it was some time before his
+she,meet,female,pronoun,dobj,False,"Two days after Mr. Bennet’s return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming tow"
+she,approach,female,pronoun,dobj,False,"Two days after Mr. Bennet’s return, as Jane and Elizabeth were walking together in the shrubbery behind the house, they saw the housekeeper coming tow"
+he,seek,male,pronoun,dobj,False,They ran through the vestibule into the breakfast-room; from thence to the library;--their father was in neither; and they were on the point of seekin
+she,marry,female,pronoun,dobj,True,“Can it be possible that he will marry her?”
+he,think,male,pronoun,dobj,True,"“Wickham is not so undeserving, then, as we have thought him,” said her sister."
+he,entreat,male,pronoun,dobj,False,Most earnestly did she then entreat him to lose no more time before he wrote.
+he,pay,male,pronoun,dobj,True,"But there are two things that I want very much to know:--one is, how much money your uncle has laid down to bring it about; and the other, how I am ev"
+lydia,marry,female,name,dobj,True,"“I mean that no man in his proper senses would marry Lydia on so slight a temptation as one hundred a year during my life, and fifty after I am gone.”"
+himself,distress,male,pronoun,dobj,True,"Generous, good man, I am afraid he has distressed himself."
+she,take,female,pronoun,dobj,True,"“Wickham’s a fool if he takes her with a farthing less than ten thousand pounds: I should be sorry to think so ill of him, in the very beginning of ou"
+lydia,marry,female,name,dobj,True,"“I comfort myself with thinking,” replied Jane, “that he certainly would not marry Lydia, if he had not a real regard for her."
+he,clear,male,pronoun,dobj,True,"Though our kind uncle has done something towards clearing him, I cannot believe that ten thousand pounds, or anything like it, has been advanced."
+she,take,female,pronoun,dobj,True,"Their taking her home, and affording her their personal protection and countenance, is such a sacrifice to her advantage as years of gratitude cannot "
+she,marry,female,pronoun,dobj,True,"His consenting to marry her is a proof, I will believe, that he is come to a right way of thinking."
+father,ask,male,role_noun,dobj,False,"They went to the library, therefore, and asked their father whether he would not wish them to make it known to her."
+herself,contain,female,pronoun,dobj,False,Mrs. Bennet could hardly contain herself.
+she,see,female,pronoun,dobj,True,I shall see her again!
+she,see,female,pronoun,dobj,True,How I long to see her! and to see dear Wickham too!
+wickham,see,male,name,dobj,True,How I long to see her! and to see dear Wickham too!
+he,ask,male,pronoun,dobj,True,"Lizzy, my dear, run down to your father, and ask him how much he will give her."
+she,give,female,pronoun,dobj,True,"Lizzy, my dear, run down to your father, and ask him how much he will give her."
+himself,pledge,male,pronoun,dobj,True,We are persuaded that he has pledged himself to assist Mr. Wickham with money.”
+wickham,assist,male,name,dobj,True,We are persuaded that he has pledged himself to assist Mr. Wickham with money.”
+she,persuade,female,pronoun,dobj,False,"She was then proceeding to all the particulars of calico, muslin, and cambric, and would shortly have dictated some very plentiful orders, had not Jan"
+he,survive,male,pronoun,dobj,False,"Mr. Bennet had very often wished, before this period of his life, that, instead of spending his whole income, he had laid by an annual sum, for the be"
+son,have,male,role_noun,dobj,False,"When first Mr. Bennet had married, economy was held to be perfectly useless; for, of course, they were to have a son."
+daughter,marry,female,role_noun,dobj,False,"He had never before supposed that, could Wickham be prevailed on to marry his daughter, it would be done with so little inconvenience to himself as by"
+she,seek,female,pronoun,dobj,False,"When the first transports of rage which had produced his activity in seeking her were over, he naturally returned to all his former indolence."
+she,marry,female,pronoun,dobj,False,"But there was much to be talked of, in marrying her; and the good-natured wishes for her well-doing, which had proceeded before from all the spiteful "
+she,have,female,pronoun,dobj,True,"I could not bear to have her ten miles from me; and as for Purvis Lodge, the attics are dreadful.”"
+she,mortify,female,pronoun,dobj,False,There were few people on whose secrecy she would have more confidently depended; but at the same time there was no one whose knowledge of a sister’s f
+himself,connect,male,pronoun,dobj,False,"Had Lydia’s marriage been concluded on the most honourable terms, it was not to be supposed that Mr. Darcy would connect himself with a family, where "
+herself,assure,female,pronoun,dobj,False,"The wish of procuring her regard, which she had assured herself of his feeling in Derbyshire, could not in rational expectation survive such a blow as"
+she,suit,female,pronoun,dobj,False,"She began now to comprehend that he was exactly the man who, in disposition and talents, would most suit her."
+he,assist,male,pronoun,dobj,True,"It is Mr. Wickham’s intention to go into the Regulars; and, among his former friends, there are still some who are able and willing to assist him in t"
+he,inform,male,pronoun,dobj,True,"I have written to Colonel Forster, to inform him of our present arrangements, and to request that he will satisfy the various creditors of Mr. Wickham"
+she,send,female,pronoun,dobj,True,"“She is so fond of Mrs. Forster,” said she, “it will be quite shocking to send her away!"
+he,urge,male,pronoun,dobj,False,"But Jane and Elizabeth, who agreed in wishing, for the sake of their sister’s feelings and consequence, that she should be noticed on her marriage by "
+she,receive,female,pronoun,dobj,False,"But Jane and Elizabeth, who agreed in wishing, for the sake of their sister’s feelings and consequence, that she should be noticed on her marriage by "
+daughter,show,female,role_noun,dobj,False,"And their mother had the satisfaction of knowing, that she should be able to show her married daughter in the neighbourhood, before she was banished t"
+herself,attend,female,pronoun,dobj,False,"Their arrival was dreaded by the elder Miss Bennets--and Jane more especially, who gave Lydia the feelings which would have attended herself, had _she"
+she,embrace,female,pronoun,dobj,False,"Her mother stepped forwards, embraced her, and welcomed her with rapture; gave her hand with an affectionate smile to Wickham, who followed his lady; "
+she,welcome,female,pronoun,dobj,False,"Her mother stepped forwards, embraced her, and welcomed her with rapture; gave her hand with an affectionate smile to Wickham, who followed his lady; "
+lady,follow,female,role_noun,dobj,False,"Her mother stepped forwards, embraced her, and welcomed her with rapture; gave her hand with an affectionate smile to Wickham, who followed his lady; "
+he,provoke,male,pronoun,dobj,False,"The easy assurance of the young couple, indeed, was enough to provoke him."
+lydia,see,female,name,dobj,False,"She then joined them soon enough to see Lydia, with anxious parade, walk up to her mother’s right hand, and hear her say to her eldest sister,-- “Ah, "
+husband,get,male,role_noun,dobj,True,That is the place to get husbands.
+husband,get,male,role_noun,dobj,True,"“And then when you go away, you may leave one or two of my sisters behind you; and I dare say I shall get husbands for them before the winter is over."
+husband,get,male,role_noun,dobj,True,"“I thank you for my share of the favour,” said Elizabeth; “but I do not particularly like your way of getting husbands.”"
+she,please,female,pronoun,dobj,False,"Those that best pleased her, as placing his conduct in the noblest light, seemed most improbable."
+she,convince,female,pronoun,dobj,False,"She was no sooner in possession of it, than hurrying into the little copse, where she was least likely to be interrupted, she sat down on one of the b"
+he,disgrace,male,pronoun,dobj,True,"If he _had another_ motive, I am sure it would never disgrace him."
+herself,maintain,female,pronoun,dobj,True,"She then took a large house in Edward Street, and has since maintained herself by letting lodgings."
+wickham,see,male,name,dobj,True,"He saw Wickham, and afterwards insisted on seeing Lydia."
+lydia,see,female,name,dobj,True,"He saw Wickham, and afterwards insisted on seeing Lydia."
+she,persuade,female,pronoun,dobj,True,", he acknowledged, had been to persuade her to quit her present disgraceful situation, and return to her friends as soon as they could be prevailed on"
+she,receive,female,pronoun,dobj,True,", he acknowledged, had been to persuade her to quit her present disgraceful situation, and return to her friends as soon as they could be prevailed on"
+wickham,leave,male,name,dobj,True,She cared for none of her friends; she wanted no help of his; she would not hear of leaving Wickham.
+himself,confess,male,pronoun,dobj,True,He confessed himself obliged to leave the regiment on account of some debts of honour which were very pressing; and scrupled not to lay all the ill co
+sister,marry,female,role_noun,dobj,True,Mr. Darcy asked why he did not marry your sister at once.
+he,see,male,pronoun,dobj,True,"He did not judge your father to be a person whom he could so properly consult as your uncle, and therefore readily postponed seeing him till after the"
+he,see,male,pronoun,dobj,True,"They met again on Sunday, and then _I_ saw him too."
+he,rob,male,pronoun,dobj,True,"But at last your uncle was forced to yield, and instead of being allowed to be of use to his niece, was forced to put up with only having the probable"
+he,know,male,pronoun,dobj,True,_He_ was exactly what he had been when I knew him in Hertfordshire; but I would not tell you how little I was satisfied with _her_ behaviour while she
+elizabeth,recollect,female,name,dobj,True,"I was sometimes quite provoked; but then I recollected my dear Elizabeth and Jane, and for their sakes had patience with her."
+he,like,male,pronoun,dobj,True,"Will you be very angry with me, my dear Lizzy, if I take this opportunity of saying (what I was never bold enough to say before) how much I like him?"
+he,teach,male,pronoun,dobj,True,"His understanding and opinions all please me; he wants nothing but a little more liveliness, and _that_, if he marry _prudently_, his wife may teach h"
+elizabeth,throw,female,name,dobj,False,"The contents of this letter threw Elizabeth into a flutter of spirits, in which it was difficult to determine whether pleasure or pain bore the greate"
+man,bribe,male,role_noun,dobj,False,"He had followed them purposely to town, he had taken on himself all the trouble and mortification attendant on such a research; in which supplication "
+he,refuse,male,pronoun,dobj,False,"But it was a hope shortly checked by other considerations; and she soon felt that even her vanity was insufficient, when required to depend on his aff"
+herself,place,female,pronoun,dobj,False,"It was reasonable that he should feel he had been wrong; he had liberality, and he had the means of exercising it; and though she would not place hers"
+she,please,female,pronoun,dobj,False,It was hardly enough; but it pleased her.
+she,join,female,pronoun,dobj,False,"“I am afraid I interrupt your solitary ramble, my dear sister?” said he, as he joined her."
+he,silence,male,pronoun,dobj,False,"Elizabeth hoped she had silenced him; but he soon afterwards said,-- “I was surprised to see Darcy in town last month."
+darcy,see,male,name,dobj,True,"Elizabeth hoped she had silenced him; but he soon afterwards said,-- “I was surprised to see Darcy in town last month."
+he,take,male,pronoun,dobj,True,“It must be something particular to take him there at this time of year.”
+he,see,male,pronoun,dobj,True,Did you see him while you were at Lambton?
+she,like,female,pronoun,dobj,True,“And do you like her?”
+she,see,female,pronoun,dobj,True,"When I last saw her, she was not very promising."
+she,like,female,pronoun,dobj,True,I am very glad you liked her.
+he,provoke,male,pronoun,dobj,False,"They were now almost at the door of the house, for she had walked fast to get rid of him; and unwilling, for her sister’s sake, to provoke him, she on"
+himself,distress,male,pronoun,dobj,False,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz"
+sister,provoke,female,role_noun,dobj,False,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz"
+he,keep,male,pronoun,dobj,False,"[Illustration] Mr. Wickham was so perfectly satisfied with this conversation, that he never again distressed himself, or provoked his dear sister Eliz"
+son,produce,male,role_noun,dobj,True,I defy even Sir William Lucas himself to produce a more valuable son-in-law.”
+daughter,marry,female,role_noun,dobj,True,"“This is the consequence, you see, madam, of marrying a daughter,” said Elizabeth."
+she,throw,female,pronoun,dobj,False,"But the spiritless condition which this event threw her into was shortly relieved, and her mind opened again to the agitation of hope, by an article o"
+he,see,male,pronoun,dobj,True,"He is nothing to us, you know, and I am sure I never want to see him again."
+he,see,male,pronoun,dobj,False,"Had she not seen him in Derbyshire, she might have supposed him capable of coming there with no other view than what was acknowledged; but she still t"
+he,leave,male,pronoun,dobj,True,I _will_ leave him to himself.”
+he,visit,male,pronoun,dobj,True,"You forced me into visiting him last year, and promised, if I went to see him, he should marry one of my daughters."
+he,see,male,pronoun,dobj,True,"You forced me into visiting him last year, and promised, if I went to see him, he should marry one of my daughters."
+he,ask,male,pronoun,dobj,True,"But, however, that shan’t prevent my asking him to dine here, I am determined."
+bingley,see,male,name,dobj,False,"Consoled by this resolution, she was the better able to bear her husband’s incivility; though it was very mortifying to know that her neighbours might"
+he,see,male,pronoun,dobj,True,“It would be nothing; I could see him with perfect indifference; but I can hardly bear to hear it thus perpetually talked of.
+he,see,male,pronoun,dobj,False,She counted the days that must intervene before their invitation could be sent--hopeless of seeing him before.
+mother,satisfy,female,role_noun,dobj,False,"Jane resolutely kept her place at the table; but Elizabeth, to satisfy her mother, went to the window--she looked--she saw Mr. Darcy with him, and sat"
+darcy,see,male,name,dobj,False,"Jane resolutely kept her place at the table; but Elizabeth, to satisfy her mother, went to the window--she looked--she saw Mr. Darcy with him, and sat"
+sister,attend,female,role_noun,dobj,False,"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the "
+he,see,male,pronoun,dobj,False,"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the "
+herself,regard,female,pronoun,dobj,False,"To Jane, he could be only a man whose proposals she had refused, and whose merits she had undervalued; but to her own more extensive information, he w"
+she,seek,female,pronoun,dobj,False,"Her astonishment at his coming--at his coming to Netherfield, to Longbourn, and voluntarily seeking her again, was almost equal to what she had known "
+he,see,male,pronoun,dobj,False,"He looked serious as usual; and, she thought, more as he had been used to look in Hertfordshire, than as she had seen him at Pemberley."
+bingley,see,male,name,dobj,False,"Bingley she had likewise seen for an instant, and in that short period saw him looking both pleased and embarrassed."
+bingley,ask,male,name,dobj,False,"It drew from her, however, the exertion of speaking, which nothing else had so effectually done before; and she asked Bingley whether he meant to make"
+she,vex,female,pronoun,dobj,False,Mr. Darcy’s behaviour astonished and vexed her.
+she,join,female,pronoun,dobj,False,"Her resolution was for a short time involuntarily kept by the approach of her sister, who joined her with a cheerful look which showed her better sati"
+gentleman,see,male,role_noun,dobj,False,"They did not see the gentlemen again till Tuesday; and Mrs. Bennet, in the meanwhile, was giving way to all the happy schemes which the good-humour an"
+he,invite,male,pronoun,dobj,False,"Her prudent mother, occupied by the same ideas, forbore to invite him to sit by herself."
+himself,place,male,pronoun,dobj,False,He placed himself by her.
+elizabeth,persuade,female,name,dobj,False,"His behaviour to her sister was such during dinnertime as showed an admiration of her, which, though more guarded than formerly, persuaded Elizabeth, "
+he,owe,male,pronoun,dobj,False,"Her mother’s ungraciousness made the sense of what they owed him more painful to Elizabeth’s mind; and she would, at times, have given anything to be "
+he,tell,male,pronoun,dobj,False,"Her mother’s ungraciousness made the sense of what they owed him more painful to Elizabeth’s mind; and she would, at times, have given anything to be "
+he,give,male,pronoun,dobj,True,"“If he does not come to me, _then_,” said she, “I shall give him up for ever.”"
+he,follow,male,pronoun,dobj,False,"She followed him with her eyes, envied everyone to whom he spoke, had scarcely patience enough to help anybody to coffee, and then was enraged against"
+she,leave,female,pronoun,dobj,True,Have all her friends left her?”
+gentleman,keep,male,role_noun,dobj,False,"Mrs. Bennet had designed to keep the two Netherfield gentlemen to supper; but their carriage was, unluckily, ordered before any of the others, and she"
+she,ask,female,pronoun,dobj,True,"Mrs. Long said so too, for I asked her whether you did not."
+she,have,female,pronoun,dobj,True,"Mrs. Bennet, we shall have her at Netherfield at last!’"
+he,get,male,pronoun,dobj,False,"Mrs. Bennet, in short, was in very great spirits: she had seen enough of Bingley’s behaviour to Jane to be convinced that she would get him at last; a"
+he,see,male,pronoun,dobj,False,"Mrs. Bennet, in short, was in very great spirits: she had seen enough of Bingley’s behaviour to Jane to be convinced that she would get him at last; a"
+he,leave,male,pronoun,dobj,False,"His friend had left him that morning for London, but was to return home in ten days’ time."
+he,invite,male,pronoun,dobj,False,"Mrs. Bennet invited him to dine with them; but, with many expressions of concern, he confessed himself engaged elsewhere."
+she,help,female,pronoun,dobj,True,"Here, Sarah, come to Miss Bennet this moment, and help her on with her gown."
+kitty,hang,female,name,dobj,True,“Oh! hang Kitty!
+she,observe,female,pronoun,dobj,False,"Elizabeth would not observe her; and when at last Kitty did, she very innocently said, “What is the matter, mamma?"
+she,take,female,pronoun,dobj,False,"She then sat still five minutes longer; but unable to waste such a precious occasion, she suddenly got up, and saying to Kitty,-- “Come here, my love,"
+bingley,concern,male,name,dobj,False,"Not a word passed between the sisters concerning Bingley; but Elizabeth went to bed in the happy belief that all must speedily be concluded, unless Mr"
+he,disgust,male,pronoun,dobj,False,"There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and "
+he,see,male,pronoun,dobj,False,"There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and "
+she,embrace,female,pronoun,dobj,False,"Jane could have no reserves from Elizabeth, where confidence would give pleasure; and, instantly embracing her, acknowledged, with the liveliest emoti"
+he,kiss,male,pronoun,dobj,False,"Jane went to him instantly, kissed him, and thanked him for his goodness."
+he,thank,male,pronoun,dobj,False,"Jane went to him instantly, kissed him, and thanked him for his goodness."
+daughter,address,female,role_noun,dobj,False,"Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy!"
+he,see,male,pronoun,dobj,True,"I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together."
+himself,attach,male,pronoun,dobj,False,"In the absence of Jane, he always attached himself to Elizabeth for the pleasure of talking of her; and when Bingley was gone, Jane constantly sought "
+she,prejudice,female,pronoun,dobj,False,"Elizabeth was pleased to find that he had not betrayed the interference of his friend; for, though Jane had the most generous and forgiving heart in t"
+man,give,male,role_noun,dobj,True,“If you were to give me forty such men I never could be so happy as you.
+she,receive,female,pronoun,dobj,False,"Mrs. Bennet, all amazement, though flattered by having a guest of such high importance, received her with the utmost politeness."
+she,assure,female,pronoun,dobj,False,"Mrs. Bennet assured her that they never sat there after dinner; and then added,-- “May I take the liberty of asking your Ladyship whether you left Mr."
+collins,leave,male,name,dobj,True,"Mrs. Bennet assured her that they never sat there after dinner; and then added,-- “May I take the liberty of asking your Ladyship whether you left Mr."
+he,injure,male,pronoun,dobj,True,"Though I _know_ it must be a scandalous falsehood, though I would not injure him so much as to suppose the truth of it possible, I instantly resolved "
+he,draw,male,pronoun,dobj,True,You may have drawn him in.”
+he,accept,male,pronoun,dobj,True,"And if I am that choice, why may not I accept him?”"
+catherine,oblige,female,name,dobj,False,"Though Elizabeth would not, for the mere purpose of obliging Lady Catherine, have answered this question, she could not but say, after a moment’s deli"
+woman,find,female,role_noun,dobj,True,I expected to find a more reasonable young woman.
+daughter,marry,female,role_noun,dobj,True,Your Ladyship wants Mr. Darcy to marry your daughter; but would my giving you the wished-for promise make _their_ marriage at all more probable?
+she,marry,female,pronoun,dobj,True,"I know it all; that the young man’s marrying her was a patched-up business, at the expense of your father and uncle."
+he,disgrace,male,pronoun,dobj,True,Do you not consider that a connection with you must disgrace him in the eyes of everybody?”
+he,have,male,pronoun,dobj,True,“You are then resolved to have him?”
+he,ruin,male,pronoun,dobj,True,"You are determined to ruin him in the opinion of all his friends, and make him the contempt of the world.”"
+she,meet,female,pronoun,dobj,False,"Her mother impatiently met her at the door of her dressing-room, to ask why Lady Catherine would not come in again and rest herself."
+herself,rest,female,pronoun,dobj,False,"Her mother impatiently met her at the door of her dressing-room, to ask why Lady Catherine would not come in again and rest herself."
+elizabeth,throw,female,name,dobj,False,[Illustration] The discomposure of spirits which this extraordinary visit threw Elizabeth into could not be easily overcome; nor could she for many ho
+catherine,reach,female,name,dobj,False,"And her neighbours at Lucas Lodge, therefore, (for through their communication with the Collinses, the report, she concluded, had reached Lady Catheri"
+he,address,male,pronoun,dobj,False,"She knew not the exact degree of his affection for his aunt, or his dependence on her judgment, but it was natural to suppose that he thought much hig"
+he,make,male,pronoun,dobj,False,"If he had been wavering before, as to what he should do, which had often seemed likely, the advice and entreaty of so near a relation might settle eve"
+he,see,male,pronoun,dobj,False,Lady Catherine might see him in her way through town; and his engagement to Bingley of coming again to Netherfield must give way.
+he,regret,male,pronoun,dobj,True,"If he is satisfied with only regretting me, when he might have obtained my affections and hand, I shall soon cease to regret him at all.”"
+he,follow,male,pronoun,dobj,False,She followed him thither; and her curiosity to know what he had to tell her was heightened by the supposition of its being in some manner connected wi
+she,tell,female,pronoun,dobj,False,She followed him thither; and her curiosity to know what he had to tell her was heightened by the supposition of its being in some manner connected wi
+she,strike,female,pronoun,dobj,False,"It suddenly struck her that it might be from Lady Catherine, and she anticipated with dismay all the consequent explanations."
+father,follow,male,role_noun,dobj,False,"She followed her father to the fireplace, and they both sat down."
+daughter,have,female,role_noun,dobj,True,I did not know before that I had _two_ daughters on the brink of matrimony.
+himself,explain,male,pronoun,dobj,False,"The colour now rushed into Elizabeth’s cheeks in the instantaneous conviction of its being a letter from the nephew, instead of the aunt; and she was "
+she,mortify,female,pronoun,dobj,False,Her father had most cruelly mortified her by what he said of Mr. Darcy’s indifference; and she could do nothing but wonder at such a want of penetrati
+darcy,bring,male,name,dobj,False,"[Illustration] Instead of receiving any such letter of excuse from his friend, as Elizabeth half expected Mr. Bingley to do, he was able to bring Darc"
+he,tell,male,pronoun,dobj,False,", before Mrs. Bennet had time to tell him of their having seen his aunt, of which her daughter sat in momentary dread, Bingley, who wanted to be alone"
+herself,force,female,pronoun,dobj,False,"Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak; and immediately, though not very fl"
+he,give,male,pronoun,dobj,False,"Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak; and immediately, though not very fl"
+himself,express,male,pronoun,dobj,False,The happiness which this reply produced was such as he had probably never felt before; and he expressed himself on the occasion as sensibly and as war
+she,tell,female,pronoun,dobj,False,"Had Elizabeth been able to encounter his eyes, she might have seen how well the expression of heartfelt delight diffused over his face became him: but"
+woman,please,female,role_noun,dobj,True,You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”
+she,tell,female,pronoun,dobj,False,"He then told her of Georgiana’s delight in her acquaintance, and of her disappointment at its sudden interruption; which naturally leading to the caus"
+she,follow,female,pronoun,dobj,False,"He then told her of Georgiana’s delight in her acquaintance, and of her disappointment at its sudden interruption; which naturally leading to the caus"
+he,tell,male,pronoun,dobj,True,I told him of all that had occurred to make my former interference in his affairs absurd and impertinent.
+he,tell,male,pronoun,dobj,True,"I told him, moreover, that I believed myself mistaken in supposing, as I had done, that your sister was indifferent to him; and as I could easily perc"
+he,tell,male,pronoun,dobj,True,"“Did you speak from your own observation,” said she, “when you told him that my sister loved him, or merely from my information last spring?”"
+he,love,male,pronoun,dobj,True,"“Did you speak from your own observation,” said she, “when you told him that my sister loved him, or merely from my information last spring?”"
+she,observe,female,pronoun,dobj,True,"I had narrowly observed her, during the two visits which I had lately made her here; and I was convinced of her affection.”"
+he,offend,male,pronoun,dobj,True,"I was obliged to confess one thing, which for a time, and not unjustly, offended him."
+herself,check,female,pronoun,dobj,False,Elizabeth longed to observe that Mr. Bingley had been a most delightful friend; so easily guided that his worth was invaluable; but she checked hersel
+he,like,male,pronoun,dobj,False,She anticipated what would be felt in the family when her situation became known: she was aware that no one liked him but Jane; and even feared that w
+he,dislike,male,pronoun,dobj,True,I know how much you dislike him.”
+he,love,male,pronoun,dobj,True,Perhaps I did not always love him so well as I do now; but in such cases as these a good memory is unpardonable.
+she,assure,female,pronoun,dobj,False,"Elizabeth again, and more seriously, assured her of its truth."
+brother,have,male,role_noun,dobj,True,Shall you like to have such a brother?”
+bingley,give,male,name,dobj,True,Nothing could give either Bingley or myself more delight.
+he,love,male,pronoun,dobj,True,And do you really love him quite well enough?
+he,love,male,pronoun,dobj,True,"“Why, I must confess that I love him better than I do Bingley."
+bingley,do,male,name,dobj,True,"“Why, I must confess that I love him better than I do Bingley."
+he,love,male,pronoun,dobj,True,Will you tell me how long you have loved him?”
+jane,satisfy,female,name,dobj,False,"Another entreaty that she would be serious, however, produced the desired effect; and she soon satisfied Jane by her solemn assurances of attachment."
+he,esteem,male,pronoun,dobj,True,"Were it for nothing but his love of you, I must always have esteemed him; but now, as Bingley’s friend and your husband, there can be only Bingley and"
+bingley,mention,male,name,dobj,False,She had been unwilling to mention Bingley; and the unsettled state of her own feelings had made her equally avoid the name of his friend: but now she 
+darcy,advise,male,name,dobj,True,"“I advise Mr. Darcy, and Lizzy, and Kitty,” said Mrs. Bennet, “to walk to Oakham Mount this morning."
+she,follow,female,pronoun,dobj,False,"As she went upstairs to get ready, Mrs. Bennet followed her, saying,-- “I am quite sorry, Lizzy, that you should be forced to have that disagreeable m"
+man,have,male,role_noun,dobj,True,"As she went upstairs to get ready, Mrs. Bennet followed her, saying,-- “I am quite sorry, Lizzy, that you should be forced to have that disagreeable m"
+he,follow,male,pronoun,dobj,False,"In the evening, soon after Mr. Bennet withdrew to the library, she saw Mr. Darcy rise also and follow him, and her agitation on seeing it was extreme."
+he,distress,male,pronoun,dobj,False,"She did not fear her father’s opposition, but he was going to be made unhappy, and that it should be through her means; that _she_, his favourite chil"
+he,fill,male,pronoun,dobj,False,"She did not fear her father’s opposition, but he was going to be made unhappy, and that it should be through her means; that _she_, his favourite chil"
+man,accept,male,role_noun,dobj,True,Are you out of your senses to be accepting this man?
+he,hate,male,pronoun,dobj,True,Have not you always hated him?”
+she,spare,female,pronoun,dobj,False,"It would have spared her from explanations and professions which it was exceedingly awkward to give; but they were now necessary, and she assured him,"
+he,assure,male,pronoun,dobj,False,"It would have spared her from explanations and professions which it was exceedingly awkward to give; but they were now necessary, and she assured him,"
+he,have,male,pronoun,dobj,True,"“Or, in other words, you are determined to have him."
+he,like,male,pronoun,dobj,True,"We all know him to be a proud, unpleasant sort of man; but this would be nothing if you really liked him.”"
+he,like,male,pronoun,dobj,True,"“I do, I do like him,” she replied, with tears in her eyes; “I love him."
+he,love,male,pronoun,dobj,True,"“I do, I do like him,” she replied, with tears in her eyes; “I love him."
+he,have,male,pronoun,dobj,True,"I now give it to _you_, if you are resolved on having him."
+husband,esteem,male,role_noun,dobj,True,"I know that you could be neither happy nor respectable, unless you truly esteemed your husband, unless you looked up to him as a superior."
+he,reconcile,male,pronoun,dobj,False,"Elizabeth, still more affected, was earnest and solemn in her reply; and, at length, by repeated assurances that Mr. Darcy was really the object of he"
+he,tell,male,pronoun,dobj,False,"To complete the favourable impression, she then told him what Mr. Darcy had voluntarily done for Lydia."
+she,hear,female,pronoun,dobj,False,He heard her with astonishment.
+he,pay,male,pronoun,dobj,True,"Had it been your uncle’s doing, I must and _would_ have paid him; but these violent young lovers carry everything their own way."
+he,pay,male,pronoun,dobj,True,"I shall offer to pay him to-morrow, he will rant and storm about his love for you, and there will be an end of the matter.”"
+she,follow,female,pronoun,dobj,False,"When her mother went up to her dressing-room at night, she followed her, and made the important communication."
+herself,bless,female,pronoun,dobj,False,"She began at length to recover, to fidget about in her chair, get up, sit down again, wonder, and bless herself."
+he,dislike,male,pronoun,dobj,True,pray apologize for my having disliked him so much before.
+she,follow,female,pronoun,dobj,False,"But before she had been three minutes in her own room, her mother followed her."
+she,assure,female,pronoun,dobj,False,Elizabeth had the satisfaction of seeing her father taking pains to get acquainted with him; and Mr. Bennet soon assured her that he was rising every 
+son,admire,male,role_noun,dobj,True,"“I admire all my three sons-in-law highly,” said he."
+husband,like,male,role_noun,dobj,True,"“Wickham, perhaps, is my favourite; but I think I shall like _your_ husband quite as well as Jane’s.”"
+she,befall,female,pronoun,dobj,True,“Shall you ever have courage to announce to Lady Catherine what is to befall her?”
+he,praise,male,pronoun,dobj,True,"You must write again very soon, and praise him a great deal more than you did in your last."
+catherine,console,female,name,dobj,True,Console Lady Catherine as well as you can.
+he,compliment,male,pronoun,dobj,False,"He could even listen to Sir William Lucas, when he complimented him on carrying away the brightest jewel of the country, and expressed his hopes of th"
+he,shield,male,pronoun,dobj,False,"Elizabeth did all she could to shield him from the frequent notice of either, and was ever anxious to keep him to herself, and to those of her family "
+he,keep,male,pronoun,dobj,False,"Elizabeth did all she could to shield him from the frequent notice of either, and was ever anxious to keep him to herself, and to those of her family "
+bingley,visit,female,name,dobj,False,"With what delighted pride she afterwards visited Mrs. Bingley, and talked of Mrs. Darcy, may be guessed."
+daughter,miss,female,role_noun,dobj,False,Mr. Bennet missed his second daughter exceedingly; his affection for her drew him oftener from home than anything else could do.
+he,draw,male,pronoun,dobj,False,Mr. Bennet missed his second daughter exceedingly; his affection for her drew him oftener from home than anything else could do.
+she,invite,female,pronoun,dobj,False,From the further disadvantage of Lydia’s society she was of course carefully kept; and though Mrs. Wickham frequently invited her to come and stay wit
+darcy,love,male,name,dobj,True,"If you love Mr. Darcy half so well as I do my dear Wickham, you must be very happy."
+wickham,do,male,name,dobj,True,"If you love Mr. Darcy half so well as I do my dear Wickham, you must be very happy."
+she,give,female,pronoun,dobj,False,"His affection for her soon sunk into indifference: hers lasted a little longer; and, in spite of her youth and her manners, she retained all the claim"
+he,receive,male,pronoun,dobj,False,"Though Darcy could never receive _him_ at Pemberley, yet, for Elizabeth’s sake, he assisted him further in his profession."
+he,assist,male,pronoun,dobj,False,"Though Darcy could never receive _him_ at Pemberley, yet, for Elizabeth’s sake, he assisted him further in his profession."
+himself,enjoy,male,pronoun,dobj,False,"Lydia was occasionally a visitor there, when her husband was gone to enjoy himself in London or Bath; and with the Bingleys they both of them frequent"
+herself,conduct,female,pronoun,dobj,False,"But at length, by Elizabeth’s persuasion, he was prevailed on to overlook the offence, and seek a reconciliation; and, after a little further resistan"
+she,bring,female,pronoun,dobj,False,"Darcy, as well as Elizabeth, really loved them; and they were both ever sensible of the warmest gratitude towards the persons who, by bringing her int"

@@ -1,0 +1,5 @@
+verb,theme,agent_f,agent_m,patient_f,patient_m,f_ratio,m_ratio,gap,odds,pval,cramers
+marry,Institutional power,12,23,27,11,0.3077,0.6765,0.3688,0.2126,0.002277,0.3682
+tell,Informational power,12,16,30,18,0.2857,0.4706,0.1849,0.45,0.150783,0.1906
+admire,Evaluative gaze,3,7,7,3,0.3,0.7,0.4,0.1837,0.178895,0.4
+persuade,Social influence,4,1,14,6,0.2222,0.1429,-0.0794,1.7143,1.0,0.0891

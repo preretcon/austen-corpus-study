@@ -1,0 +1,9 @@
+gender,tier,agent_count,patient_count,described_count,possessor_count,total_agency_events,agency_ratio
+female,all,2562,571,612,1668,3133,0.8177
+male,all,1764,551,385,1364,2315,0.762
+female,pronoun,1521,407,161,1435,1928,0.7889
+female,role_noun,199,93,271,76,292,0.6815
+female,name,842,71,180,157,913,0.9222
+male,pronoun,1211,400,116,1189,1611,0.7517
+male,role_noun,122,63,196,48,185,0.6595
+male,name,431,88,73,127,519,0.8304
