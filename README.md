@@ -10,7 +10,7 @@ A corpus-linguistic study of how syntactic structures encode character agency an
 
 ## Overview
 
-This project operationalizes gender and agency as measurable properties of dependency-parsed text. Using spaCy's transformer model over the ~146,000-token novel, it quantifies who acts on whom, which verbs cluster around which gender, and how attributive versus predicative adjectives construct character. The goal is not to confirm that Austen's novel is gendered — that is assumed — but to show *how* its grammar encodes gender, and to demonstrate that headline agency statistics can invert under narrative focalization.
+This project operationalizes gender and agency as measurable properties of dependency-parsed text. Using spaCy's transformer model over the ~146,000-token novel, it quantifies who acts on whom, which verbs cluster around which gender, and how attributive versus predicative adjectives construct character. The goal is not to confirm that Austen's novel is gendered, that is assumed, but to show *how* its grammar encodes gender, and to demonstrate that headline agency statistics can invert under narrative focalization.
 
 ## Key findings
 
