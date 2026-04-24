@@ -1,8 +1,0 @@
-{
-  "script": "verb_frame_analysis.py",
-  "timestamp_utc": "2026-04-24T16:54:32.364633+00:00",
-  "input_csv": "data/processed/pride_prejudice_parsed.csv",
-  "output_csv": "data/processed/verb_frame_results.csv",
-  "rows": 4,
-  "scipy_available": true
-}
