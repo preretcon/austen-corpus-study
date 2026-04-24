@@ -9,6 +9,9 @@ Outputs:
   - agency_tier_detail.png     (pronoun/noun/name agency comparison)
 """
 
+import argparse
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -17,15 +20,23 @@ import numpy as np
 import sys
 import os
 
-for f in ["agency_ratios.csv", "agency_verb_profile.csv"]:
-    if not os.path.exists(f):
+parser = argparse.ArgumentParser(description="Generate agency figures.")
+parser.add_argument("--input-dir", default="data/processed")
+parser.add_argument("--output-dir", default="figures")
+args = parser.parse_args()
+input_dir = Path(args.input_dir)
+output_dir = Path(args.output_dir)
+output_dir.mkdir(parents=True, exist_ok=True)
+
+for f in [input_dir / "agency_ratios.csv", input_dir / "agency_verb_profile.csv"]:
+    if not f.exists():
         print(f"ERROR: {f} not found! Run agency_analysis.py first.")
         sys.exit(1)
 
-df_ratios = pd.read_csv("agency_ratios.csv")
-df_profile = pd.read_csv("agency_verb_profile.csv")
-df_agent = pd.read_csv("gendered_subject_verbs.csv")
-df_patient = pd.read_csv("gendered_object_verbs.csv")
+df_ratios = pd.read_csv(input_dir / "agency_ratios.csv")
+df_profile = pd.read_csv(input_dir / "agency_verb_profile.csv")
+df_agent = pd.read_csv(input_dir / "gendered_subject_verbs.csv")
+df_patient = pd.read_csv(input_dir / "gendered_object_verbs.csv")
 
 C_FEMALE = "#d6604d"
 C_MALE = "#4393c3"
@@ -95,7 +106,7 @@ axes[2].set_title("Stuhler (2022) 4-Motif Distribution\n(Per Gender)", fontsize=
 axes[2].legend(fontsize=10)
 
 plt.tight_layout()
-plt.savefig("agency_ratios_main.png", dpi=300)
+plt.savefig(output_dir / "agency_ratios_main.png", dpi=300)
 print("Figure 1 saved: agency_ratios_main.png")
 plt.close()
 
@@ -142,7 +153,7 @@ for idx, gender in enumerate(["female", "male"]):
     axes[idx].invert_yaxis()
 
 plt.tight_layout()
-plt.savefig("agency_verb_profile.png", dpi=300)
+plt.savefig(output_dir / "agency_verb_profile.png", dpi=300)
 print("Figure 2 saved: agency_verb_profile.png")
 plt.close()
 
@@ -182,7 +193,7 @@ ax.set_ylim(0, 1)
 ax.legend(fontsize=10)
 
 plt.tight_layout()
-plt.savefig("agency_tier_detail.png", dpi=300)
+plt.savefig(output_dir / "agency_tier_detail.png", dpi=300)
 print("Figure 3 saved: agency_tier_detail.png")
 plt.close()
 

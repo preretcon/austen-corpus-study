@@ -11,6 +11,9 @@ Outputs:
   - normalized_comparison.png         (per-1000 normalized bars)
 """
 
+import argparse
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -18,24 +21,32 @@ import numpy as np
 import sys
 import os
 
+parser = argparse.ArgumentParser(description="Generate collocation figures from processed CSVs.")
+parser.add_argument("--input-dir", default="data/processed")
+parser.add_argument("--output-dir", default="figures")
+args = parser.parse_args()
+input_dir = Path(args.input_dir)
+output_dir = Path(args.output_dir)
+output_dir.mkdir(parents=True, exist_ok=True)
+
 # ============================================================
 # 1. LOAD DATA
 # ============================================================
 
 required_files = [
-    "gendered_adjectives.csv", "gendered_subject_verbs.csv",
-    "gendered_object_verbs.csv", "normalization_counts.csv",
+    input_dir / "gendered_adjectives.csv", input_dir / "gendered_subject_verbs.csv",
+    input_dir / "gendered_object_verbs.csv", input_dir / "normalization_counts.csv",
 ]
 for f in required_files:
     if not os.path.exists(f):
         print(f"ERROR: {f} not found! Run analysis.py first.")
         sys.exit(1)
 
-df_adj = pd.read_csv("gendered_adjectives.csv")
-df_verbs = pd.read_csv("gendered_subject_verbs.csv")
-df_objects = pd.read_csv("gendered_object_verbs.csv")
-df_poss = pd.read_csv("gendered_possessives.csv")
-norm = pd.read_csv("normalization_counts.csv")
+df_adj = pd.read_csv(input_dir / "gendered_adjectives.csv")
+df_verbs = pd.read_csv(input_dir / "gendered_subject_verbs.csv")
+df_objects = pd.read_csv(input_dir / "gendered_object_verbs.csv")
+df_poss = pd.read_csv(input_dir / "gendered_possessives.csv")
+norm = pd.read_csv(input_dir / "normalization_counts.csv")
 
 f_total = norm[norm["category"] == "female_total"]["token_count"].values[0]
 m_total = norm[norm["category"] == "male_total"]["token_count"].values[0]
@@ -84,7 +95,7 @@ axes[1, 1].set_title('Top Verbs with Male Subjects\n(nsubj, excluding be)', font
 axes[1, 1].set_xlabel('Frequency')
 
 plt.tight_layout()
-plt.savefig("gender_collocation_main.png", dpi=300)
+plt.savefig(output_dir / "gender_collocation_main.png", dpi=300)
 print("Figure 1 saved: gender_collocation_main.png")
 plt.close()
 
@@ -112,7 +123,7 @@ for col, (gender, g_name, g_color) in enumerate([("female", "Female", C_FEMALE),
     axes[1, col].set_xlabel('Frequency')
 
 plt.tight_layout()
-plt.savefig("adjective_amod_vs_acomp.png", dpi=300)
+plt.savefig(output_dir / "adjective_amod_vs_acomp.png", dpi=300)
 print("Figure 2 saved: adjective_amod_vs_acomp.png")
 plt.close()
 
@@ -138,7 +149,7 @@ for col, (tier_key, tier_label) in enumerate(tiers):
         axes[row, col].set_xlabel('Frequency')
 
 plt.tight_layout()
-plt.savefig("verb_tier_breakdown.png", dpi=300)
+plt.savefig(output_dir / "verb_tier_breakdown.png", dpi=300)
 print("Figure 3 saved: verb_tier_breakdown.png")
 plt.close()
 
@@ -182,7 +193,7 @@ axes[1, 1].set_title('Male — Possessives\n("his ___" — what do they possess?
 axes[1, 1].set_xlabel('Frequency')
 
 plt.tight_layout()
-plt.savefig("patient_and_possessives.png", dpi=300)
+plt.savefig(output_dir / "patient_and_possessives.png", dpi=300)
 print("Figure 4 saved: patient_and_possessives.png")
 plt.close()
 
@@ -224,7 +235,7 @@ ax2.legend()
 ax2.invert_yaxis()
 
 plt.tight_layout()
-plt.savefig("normalized_comparison.png", dpi=300)
+plt.savefig(output_dir / "normalized_comparison.png", dpi=300)
 print("Figure 5 saved: normalized_comparison.png")
 plt.close()
 

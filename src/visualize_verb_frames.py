@@ -3,6 +3,9 @@ Gendered Verb Frame Visualization
 Reads verb_frame_results.csv and produces two figures.
 """
 
+import argparse
+from pathlib import Path
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
@@ -11,12 +14,20 @@ import seaborn as sns
 import sys
 import os
 
-if not os.path.exists("verb_frame_results.csv"):
+parser = argparse.ArgumentParser(description="Generate verb-frame figures.")
+parser.add_argument("--input-csv", default="data/processed/verb_frame_results.csv")
+parser.add_argument("--output-dir", default="figures")
+args = parser.parse_args()
+input_csv = Path(args.input_csv)
+output_dir = Path(args.output_dir)
+output_dir.mkdir(parents=True, exist_ok=True)
+
+if not input_csv.exists():
     print("ERROR: verb_frame_results.csv not found!")
     print("Run verb_frame_analysis.py first.")
     sys.exit(1)
 
-df = pd.read_csv("verb_frame_results.csv")
+df = pd.read_csv(input_csv)
 print("Loaded verb_frame_results.csv")
 print(df.to_string(index=False))
 
@@ -131,7 +142,7 @@ axes[2].text(0.05, 0.95, "\n".join(lines),
 axes[2].set_title("Statistical Summary", fontsize=13, fontweight='bold')
 
 plt.tight_layout()
-plt.savefig("verb_frame_comparison.png", dpi=300)
+plt.savefig(output_dir / "verb_frame_comparison.png", dpi=300)
 print("Figure 1 saved: verb_frame_comparison.png")
 plt.close()
 
@@ -193,7 +204,7 @@ fig.legend(handles=[a_patch, p_patch], loc='lower center',
            ncol=2, fontsize=11, bbox_to_anchor=(0.5, 0.01))
 
 plt.tight_layout(rect=[0, 0.05, 1, 0.96])
-plt.savefig("verb_frame_detail.png", dpi=300)
+plt.savefig(output_dir / "verb_frame_detail.png", dpi=300)
 print("Figure 2 saved: verb_frame_detail.png")
 plt.close()
 

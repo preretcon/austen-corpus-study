@@ -3,154 +3,145 @@ Corpus Builder — Pride and Prejudice (Upgraded)
 =================================================
 Tokenizes and parses the full text using spaCy, producing a CSV
 with dependency relations, POS tags, and dialogue/narration labels.
-
-Upgrades from original:
-  - Uses en_core_web_trf (transformer model) for higher parsing accuracy
-  - Adds Is_Dialogue column (dialogue vs narration detection)
-  - Adds Sentence_ID for sentence-level grouping
-  - Adds Token_Index for positional reference
-
-Requirements:
-  pip install spacy torch
-  python -m spacy download en_core_web_trf
-
-Usage:
-  python corpus_builder.py
 """
 
-import spacy
-import pandas as pd
+import argparse
+import json
 import re
 import sys
+from datetime import datetime, timezone
+from pathlib import Path
 
-# ============================================================
-# 1. LOAD SPACY MODEL
-# ============================================================
-# Prefer en_core_web_trf (transformer, higher accuracy)
-# Fall back to en_core_web_sm if trf is not installed
+import pandas as pd
+import spacy
 
-print("=" * 60)
-print(" CORPUS BUILDER — Pride and Prejudice")
-print("=" * 60)
 
-print("\n1. Loading language model...")
-MODEL_NAME = "en_core_web_trf"
+def parse_args():
+    parser = argparse.ArgumentParser(description="Build parsed corpus CSV from cleaned text.")
+    parser.add_argument("--input-text", default="data/raw/pride_and_prejudice_clean.txt")
+    parser.add_argument("--output-csv", default="data/processed/pride_prejudice_parsed.csv")
+    parser.add_argument("--model", default="en_core_web_trf")
+    return parser.parse_args()
 
-try:
-    nlp = spacy.load(MODEL_NAME, disable=["ner"])
-    print(f"   Loaded: {MODEL_NAME} (transformer model)")
-except OSError:
-    print(f"   WARNING: {MODEL_NAME} not found.")
-    print(f"   Install with: python -m spacy download en_core_web_trf")
-    print(f"   Falling back to en_core_web_sm...")
+
+def main():
+    args = parse_args()
+    input_text = Path(args.input_text)
+    output_csv = Path(args.output_csv)
+    output_csv.parent.mkdir(parents=True, exist_ok=True)
+
+    print("=" * 60)
+    print(" CORPUS BUILDER — Pride and Prejudice")
+    print("=" * 60)
+
+    print("\n1. Loading language model...")
+    model_name = args.model
+
     try:
-        nlp = spacy.load("en_core_web_sm", disable=["ner"])
-        MODEL_NAME = "en_core_web_sm"
-        print(f"   Loaded: en_core_web_sm (statistical model)")
+        nlp = spacy.load(model_name, disable=["ner"])
+        print(f"   Loaded: {model_name} (transformer/statistical model)")
     except OSError:
-        print("   ERROR: No spaCy model found. Install one first.")
+        print(f"   WARNING: {model_name} not found.")
+        print("   Falling back to en_core_web_sm...")
+        try:
+            nlp = spacy.load("en_core_web_sm", disable=["ner"])
+            model_name = "en_core_web_sm"
+            print("   Loaded: en_core_web_sm (statistical model)")
+        except OSError:
+            print("   ERROR: No spaCy model found. Install one first.")
+            sys.exit(1)
+
+    nlp.max_length = 1500000
+
+    print("\n2. Reading text file...")
+    if not input_text.exists():
+        print(f"   ERROR: input text not found: {input_text}")
         sys.exit(1)
 
-nlp.max_length = 1500000
+    text = input_text.read_text(encoding="utf-8")
+    text = re.sub(r"\s+", " ", text)
+    print(f"   Text length: {len(text):,} characters")
 
-# ============================================================
-# 2. READ AND CLEAN TEXT
-# ============================================================
+    print("\n3. Detecting dialogue spans...")
+    dialogue_mask = bytearray(len(text))
 
-print("\n2. Reading text file...")
-with open("pride_and_prejudice_clean.txt", "r", encoding="utf-8") as f:
-    text = f.read()
+    in_dialogue = False
+    for i, ch in enumerate(text):
+        if ch == "\u201c":
+            in_dialogue = True
+            dialogue_mask[i] = 1
+        elif ch == "\u201d":
+            dialogue_mask[i] = 1
+            in_dialogue = False
+        elif in_dialogue:
+            dialogue_mask[i] = 1
 
-# Clean whitespace
-text = re.sub(r'\s+', ' ', text)
-print(f"   Text length: {len(text):,} characters")
+    dialogue_chars = sum(dialogue_mask)
+    narration_chars = len(text) - dialogue_chars
+    print(f"   Dialogue: {dialogue_chars:,} characters ({dialogue_chars/len(text)*100:.1f}%)")
+    print(f"   Narration: {narration_chars:,} characters ({narration_chars/len(text)*100:.1f}%)")
 
-# ============================================================
-# 3. DIALOGUE DETECTION
-# ============================================================
-# Austen's text uses Unicode curly quotes: \u201c (\u201c) and \u201d (\u201d)
-# Everything between opening and closing quotes is marked as dialogue.
-# This captures ~90% of dialogue accurately for Austen's style.
+    print("\n4. Running spaCy pipeline...")
+    if model_name == "en_core_web_trf":
+        print("   (Transformer model is slower — this may take 10-15 minutes)")
+    else:
+        print("   (This may take 1-2 minutes)")
 
-print("\n3. Detecting dialogue spans...")
+    doc = nlp(text)
 
-dialogue_mask = bytearray(len(text))  # 0 = narration, 1 = dialogue
+    print("\n5. Building DataFrame...")
+    data = []
+    sent_id = 0
+    prev_sent = None
 
-in_dialogue = False
-for i, ch in enumerate(text):
-    if ch == '\u201c':  # opening curly quote
-        in_dialogue = True
-        dialogue_mask[i] = 1
-    elif ch == '\u201d':  # closing curly quote
-        dialogue_mask[i] = 1
-        in_dialogue = False
-    elif in_dialogue:
-        dialogue_mask[i] = 1
+    for token in doc:
+        if token.sent != prev_sent:
+            sent_id += 1
+            prev_sent = token.sent
 
-dialogue_chars = sum(dialogue_mask)
-narration_chars = len(text) - dialogue_chars
-print(f"   Dialogue: {dialogue_chars:,} characters ({dialogue_chars/len(text)*100:.1f}%)")
-print(f"   Narration: {narration_chars:,} characters ({narration_chars/len(text)*100:.1f}%)")
+        is_dialogue = bool(dialogue_mask[token.idx]) if token.idx < len(dialogue_mask) else False
 
-# ============================================================
-# 4. spaCy PROCESSING
-# ============================================================
+        data.append(
+            {
+                "Token": token.text,
+                "Lemma": token.lemma_.lower(),
+                "POS": token.pos_,
+                "Dep": token.dep_,
+                "Head_Lemma": token.head.lemma_.lower(),
+                "Is_Stop": token.is_stop,
+                "Is_Alpha": token.is_alpha,
+                "Is_Dialogue": is_dialogue,
+                "Sentence_ID": sent_id,
+                "Token_Index": token.i,
+            }
+        )
 
-print("\n4. Running spaCy pipeline...")
-if MODEL_NAME == "en_core_web_trf":
-    print("   (Transformer model is slower — this may take 10-15 minutes)")
-else:
-    print("   (This may take 1-2 minutes)")
+    df = pd.DataFrame(data)
 
-doc = nlp(text)
+    print("\n--- COMPLETE ---")
+    print(f"   Total tokens:     {len(df):,}")
+    print(f"   Total sentences:  {sent_id:,}")
+    print(f"   Dialogue tokens:  {df['Is_Dialogue'].sum():,} ({df['Is_Dialogue'].mean()*100:.1f}%)")
+    print(f"   Narration tokens: {(~df['Is_Dialogue']).sum():,} ({(~df['Is_Dialogue']).mean()*100:.1f}%)")
+    print(f"   spaCy model used: {model_name}")
 
-# ============================================================
-# 5. BUILD DATAFRAME
-# ============================================================
+    df.to_csv(output_csv, index=False)
+    print(f"\n   Saved: {output_csv}")
 
-print("\n5. Building DataFrame...")
-data = []
-sent_id = 0
-prev_sent = None
+    metadata = {
+        "script": "corpus_builder.py",
+        "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+        "model": model_name,
+        "input_text": str(input_text),
+        "output_csv": str(output_csv),
+        "token_count": int(len(df)),
+        "sentence_count": int(sent_id),
+    }
+    metadata_path = output_csv.parent / "run_metadata_corpus_builder.json"
+    metadata_path.write_text(json.dumps(metadata, indent=2), encoding="utf-8")
+    print(f"   Saved metadata: {metadata_path}")
+    print("=" * 60)
 
-for token in doc:
-    # Track sentence boundaries
-    if token.sent != prev_sent:
-        sent_id += 1
-        prev_sent = token.sent
 
-    # Check if token is inside dialogue
-    is_dialogue = bool(dialogue_mask[token.idx]) if token.idx < len(dialogue_mask) else False
-
-    data.append({
-        "Token": token.text,
-        "Lemma": token.lemma_.lower(),
-        "POS": token.pos_,
-        "Dep": token.dep_,
-        "Head_Lemma": token.head.lemma_.lower(),
-        "Is_Stop": token.is_stop,
-        "Is_Alpha": token.is_alpha,
-        "Is_Dialogue": is_dialogue,
-        "Sentence_ID": sent_id,
-        "Token_Index": token.i,
-    })
-
-df = pd.DataFrame(data)
-
-# ============================================================
-# 6. SUMMARY AND SAVE
-# ============================================================
-
-print(f"\n--- COMPLETE ---")
-print(f"   Total tokens:     {len(df):,}")
-print(f"   Total sentences:  {sent_id:,}")
-print(f"   Dialogue tokens:  {df['Is_Dialogue'].sum():,} ({df['Is_Dialogue'].mean()*100:.1f}%)")
-print(f"   Narration tokens: {(~df['Is_Dialogue']).sum():,} ({(~df['Is_Dialogue']).mean()*100:.1f}%)")
-print(f"   spaCy model used: {MODEL_NAME}")
-
-print(f"\n   First 5 rows:")
-print(df.head().to_string(index=False))
-
-df.to_csv("pride_prejudice_parsed.csv", index=False)
-print(f"\n   Saved: pride_prejudice_parsed.csv")
-print("=" * 60)
+if __name__ == "__main__":
+    main()

@@ -56,6 +56,7 @@ tmp/
 data/processed/*.pkl
 data/processed/*.parquet
 data/cache/
+data/processed/run_metadata_*.json
 
 # --- Secrets (just in case) ---
 .env
@@ -63,6 +64,6 @@ data/cache/
 credentials.json
 
 # --- Keep these (explicit overrides) ---
-!data/raw/pg1342.txt
+!data/raw/pride_and_prejudice_clean.txt
 !data/processed/.gitkeep
 !figures/.gitkeep
