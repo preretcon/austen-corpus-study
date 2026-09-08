@@ -1,136 +1,198 @@
-# Computational Gender Analysis of *Pride and Prejudice*
+# A Computational Gender Analysis of *Pride and Prejudice*
 
-A corpus-linguistic study of how syntactic structures encode character agency and gendered representation across Jane Austen's *Pride and Prejudice* (1813).
+**Dependency Parsing and the Encoding of Gendered Agency in Austen's Syntax**
 
-**Course:** IDB 402 — Projects in Linguistics, Hacettepe University
-**Supervisor:** Dr. Z. Açan
-**Author:** Servan Gediz Bakış
+An undergraduate computational linguistics research project examining how gendered agency and characterization are encoded in Jane Austen's *Pride and Prejudice* through dependency parsing, corpus analysis, and statistical testing.
+
+**Author:** Servan Gediz Bakış  
+**Institution:** Hacettepe University, Department of English Linguistics  
+**Course:** IDB 402 — Projects in Linguistics  
+**Year:** 2026
+
+> 📄 **[Read the full research paper](paper/Servan_Bakis_Pride_and_Prejudice_Gender_Agency.pdf)**
 
 ---
 
 ## Overview
 
-This project operationalizes gender and agency as measurable properties of dependency-parsed text. Using spaCy's transformer model over the ~146,000-token novel, it quantifies who acts on whom, which verbs cluster around which gender, and how attributive versus predicative adjectives construct character. The goal is not to confirm that Austen's novel is gendered, that is assumed, but to show *how* its grammar encodes gender, and to demonstrate that headline agency statistics can invert under narrative focalization.
+This project investigates whether the grammatical structures of *Pride and Prejudice* reveal systematic differences in how male and female characters are represented.
+
+Using the full novel as a corpus of approximately **146,000 tokens**, I developed a Python-based NLP pipeline using **spaCy's transformer dependency parser** to examine:
+
+- agent and patient roles;
+- subject–verb and object–verb relations;
+- gendered verb and adjective distributions;
+- attributive vs. predicative characterization;
+- selected semantic verb frames, particularly *marry*;
+- dialogue and narration separately.
+
+The project combines **computational linguistics**, **corpus methods**, **statistical analysis**, and **Critical Discourse Analysis / feminist digital humanities**.
+
+A central finding is what I term the **agency paradox**: aggregate syntactic measures initially appear to give female characters greater agency, but closer analysis shows that this result is strongly shaped by narrative focalization through Elizabeth Bennet.
+
+---
 
 ## Key findings
 
-- **Agency ratio:** female 0.8177 vs. male 0.7620. This inverts the gap reported in Stuhler's large-corpus work and is attributable to narrative focalization through Elizabeth Bennet rather than to structural empowerment — the project's central analytical contribution.
-- **Marriage frame:** women are 4.7× more likely than men to occupy the patient position of *marry* (Fisher's exact, p < 0.001; Cramér's V = 0.397, a large effect).
-- **Verb clustering:** female agency concentrates in perception/cognition verbs (*feel* ~4× more frequent for female characters per 1,000 tokens); male agency concentrates in motion/action verbs (*come* ~4× more frequent).
-- **Adjectival characterization:** attributive (`amod`) adjectives capture physical and demographic properties; predicative (`acomp`) adjectives capture psychological and evaluative characterization. Separating the two produces a richer portrait than aggregate adjective counts.
+### The agency paradox
+
+Across the complete corpus, female characters have a higher aggregate agent ratio than male characters:
+
+- **Female:** 0.8177
+- **Male:** 0.7620
+
+Taken alone, this appears to contradict large-scale studies reporting lower syntactic agency for female characters in nineteenth-century fiction.
+
+However, verb-level analysis shows that female agency is concentrated particularly in **perception and cognition** verbs, reflecting Elizabeth Bennet's role as the novel's focalizing consciousness.
+
+### Gender asymmetry in the *marry* frame
+
+The aggregate pattern changes substantially when the analysis is restricted to the verb *marry*.
+
+- Female referents occur as patients in **26 of 39 cases (66.7%)**
+- Male referents occur as patients in **10 of 37 cases (27.0%)**
+
+Female referents are therefore roughly **2.5× as likely** to occupy the patient position within the marriage frame.
+
+The difference is statistically significant:
+
+- **Fisher's exact test:** *p* < .001
+- **Cramér's V:** 0.397
+
+This suggests that aggregate agency statistics can conceal gendered asymmetries concentrated in particular semantic and institutional contexts.
+
+### Verb profiles
+
+Female subjects are more strongly associated with verbs of:
+
+- perception;
+- cognition;
+- interior state.
+
+Male subjects show greater concentration in:
+
+- motion;
+- communication;
+- overt action.
+
+### Characterization
+
+The analysis distinguishes between:
+
+- `amod` — attributive adjectives integrated into noun phrases;
+- `acomp` — predicative adjectives used to evaluate characters.
+
+Separating these dependency relations provides a more interpretable picture of gendered characterization than aggregate adjective frequencies.
+
+---
+
+## Research questions
+
+The project addresses four main questions:
+
+1. How do male and female characters differ in their distribution across agent and patient roles?
+2. Which verbs and adjectives are most distinctively associated with male and female referents?
+3. Do specific semantic frames reveal gender asymmetries that aggregate agency measures obscure?
+4. Does narrative focalization affect the interpretation of corpus-level agency metrics?
+
+---
 
 ## Methodology
 
-- **Source text:** Project Gutenberg EBook #1342, with headers and footers stripped by `corpus_builder.py`.
-- **Parser:** spaCy `en_core_web_trf` — the transformer-based pipeline, chosen over `en_core_web_sm` for its higher parsing accuracy on Austen's syntactically complex sentences.
-- **Gender attribution:** a three-tier cascade (gendered pronoun → role noun → named entity), with context-aware surname disambiguation. Ambiguous surnames such as *Bennet* and *Bingley* are resolved against the preceding title token (*Mr.*, *Mrs.*, *Miss*).
-- **Dialogue/narration split:** Unicode curly quotation marks (U+201C / U+201D) partition the text into narrated and spoken strands.
-- **Statistical testing:** Fisher's exact test for sparse verb-frame contingency tables; Cramér's V reported for effect size.
-- **Sentiment analysis was explicitly dropped** in favor of collocation analysis. Off-the-shelf sentiment models mismatch 19th-century prose (free indirect discourse, archaic intensifiers, irony-heavy narration) and would have required extensive justification for a traditional-linguistics audience.
+### Corpus
 
-## Repository layout
+The full text of *Pride and Prejudice* was obtained from **Project Gutenberg (EBook #1342)** and cleaned of Gutenberg metadata before analysis.
 
-```
+### NLP pipeline
+
+The corpus is processed using:
+
+- **Python**
+- **spaCy**
+- `en_core_web_trf`
+- **pandas**
+- **SciPy**
+- **NumPy**
+- **Matplotlib**
+
+The transformer-based spaCy model was selected after pilot testing because of its stronger performance on Austen's syntactically complex prose.
+
+### Gender attribution
+
+Gendered references are identified through a three-level cascade:
+
+1. gendered pronouns;
+2. gendered role nouns and titles;
+3. named characters.
+
+Ambiguous surnames such as *Bennet* and *Bingley* are resolved using preceding titles such as *Mr.*, *Mrs.*, and *Miss*.
+
+### Agency
+
+Agency is operationalized through dependency relations:
+
+- `nsubj` → agent;
+- `dobj` → patient.
+
+The primary agency measure is:
+
+`agent / (agent + patient)`
+
+### Statistical analysis
+
+Sparse semantic-frame contingency tables are evaluated using:
+
+- **Fisher's exact test**
+- **Cramér's V** for effect size
+
+### Dialogue and narration
+
+Quotation marks are used to separate character speech from narration, allowing linguistic patterns associated with Austen's narrative voice to be distinguished from dialogue.
+
+---
+
+## Why sentiment analysis was removed
+
+An earlier version of the project included sentiment analysis using off-the-shelf models.
+
+This component was removed after pilot testing showed that standard sentiment systems handled Austen's nineteenth-century prose, irony, and free indirect discourse poorly.
+
+Rather than retain a weak measure, the final study focuses on:
+
+- dependency relations;
+- verb frames;
+- collocations;
+- grammatical agency;
+- characterization.
+
+This methodological revision became an important part of the project: computational methods should be selected according to the linguistic properties of the data rather than used simply because they are available.
+
+---
+
+## Repository structure
+
+```text
 austen-corpus-study/
+│
 ├── README.md
+├── requirements.txt
 ├── LICENSE
 ├── CITATION.cff
-├── .gitignore
-├── requirements.txt
+│
 ├── src/
-│   ├── corpus_builder.py          # Cleans Gutenberg #1342 into the working corpus
-│   ├── analysis.py                # Core pipeline: parse, tag, split narration/dialogue
-│   ├── agency_analysis.py         # Subject/object agency ratios by gender
-│   ├── verb_frame_analysis.py     # Fisher's exact + Cramér's V per verb frame
-│   ├── visualize.py               # General plots
-│   ├── visualize_agency.py        # Agency-ratio figures
-│   └── visualize_verb_frames.py   # Verb-frame heatmaps / bar charts
+│   ├── corpus_builder.py
+│   ├── analysis.py
+│   ├── agency_analysis.py
+│   ├── verb_frame_analysis.py
+│   ├── visualize.py
+│   ├── visualize_agency.py
+│   └── visualize_verb_frames.py
+│
 ├── data/
 │   ├── raw/
-│   │   └── pride_and_prejudice_clean.txt  # Gutenberg text with boilerplate stripped
-│   └── processed/                 # Generated by the pipeline
-├── figures/                       # PNG outputs from visualize*.py
-└── docs/
-    ├── proposal.docx              # Midterm proposal (submitted 2026-04-13)
-    ├── final_paper.docx           # Due 2026-05-18
-    └── presentation.pdf           # Canva deck export
-```
-
-## Results in figures (aligned with the paper)
-
-The project outputs ten core figures. The interpretations below match the analytical narrative in the final paper.
-
-- **`figures/agency_ratios_main.png`**: headline agency paradox (female ratio 0.8177 vs male 0.7620), plus motif-level count context.
-- **`figures/agency_verb_profile.png`**: semantic-category decomposition showing female concentration in cognition/perception and male concentration in action/motion.
-- **`figures/agency_tier_detail.png`**: agency by reference type (pronoun / role noun / character name), showing strong agentivity for named characters.
-- **`figures/verb_frame_comparison.png`**: cross-verb asymmetry overview for *marry, tell, admire, persuade* with significance annotations.
-- **`figures/verb_frame_detail.png`**: per-verb grouped bars (female/male × agent/patient) for close reading of each frame.
-- **`figures/gender_collocation_main.png`**: top adjectives and subject verbs by gender.
-- **`figures/adjective_amod_vs_acomp.png`**: attributive vs predicative adjective split (physical/social description vs evaluative/psychological predication).
-- **`figures/verb_tier_breakdown.png`**: subject-verb distribution by gender-identification tier.
-- **`figures/patient_and_possessives.png`**: object-verb and possessive relations to contextualize patienthood and possession motifs.
-- **`figures/normalized_comparison.png`**: per-1,000-token comparison to control for different female/male mention volumes.
-
-### Key numeric anchors used in those figures
-
-- Overall agency ratios from `data/processed/agency_ratios.csv`: female **0.8177**, male **0.7620**.
-- Marriage frame from `data/processed/verb_frame_results.csv`: female patient **26** vs male patient **10**; Fisher's exact **p=0.000646**, Cramér's V **0.3968**.
-
-## Reproducing the analysis
-
-**Prerequisites:** Python 3.10+, Windows/macOS/Linux.
-
-```bash
-# 1. Clone and enter the repo
-git clone https://github.com/<your-username>/austen-corpus-study.git
-cd austen-corpus-study
-
-# 2. Create and activate a virtual environment
-python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# macOS / Linux:
-source .venv/bin/activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-python -m spacy download en_core_web_trf
-
-# 4. Run the pipeline
-python src/corpus_builder.py --input-text data/raw/pride_and_prejudice_clean.txt --output-csv data/processed/pride_prejudice_parsed.csv
-python src/analysis.py --input-text data/raw/pride_and_prejudice_clean.txt --output-dir data/processed
-python src/agency_analysis.py --input-dir data/processed --output-dir data/processed
-python src/verb_frame_analysis.py --input-csv data/processed/pride_prejudice_parsed.csv --output-csv data/processed/verb_frame_results.csv
-
-# 5. Generate figures
-python src/visualize.py --input-dir data/processed --output-dir figures
-python src/visualize_agency.py --input-dir data/processed --output-dir figures
-python src/visualize_verb_frames.py --input-csv data/processed/verb_frame_results.csv --output-dir figures
-```
-
-Outputs land in `data/processed/` and `figures/`.
-
-## On the agency paradox
-
-A surface reading of the agency ratios would suggest *Pride and Prejudice* grants women more syntactic agency than men — the opposite of what distant-reading studies of 19th-century fiction typically find. That reading is an artifact of Austen's narrative focalization: Elizabeth Bennet is the perceiving and reflecting center of the novel, so verbs of perception and cognition accumulate around female subjects. Once the marriage frame and verb-class distributions are examined, the underlying gendered structure reappears. The paradox is the point: it shows why aggregate agency metrics must be read against narrative structure, not as standalone evidence of representation.
-
-## Scholarly grounding
-
-Stuhler (2022, 2024); Jockers and Kirilloff (2016); Underwood, Bamman, and Lee (2018); Baker (2014); D'Ignazio and Klein (*Data Feminism*, 2020); Bamman, Underwood, and Smith (2014); Rebora (2023); Elkins (2025). Full bibliography in `docs/final_paper.docx`.
-
-## License
-
-Code is released under the MIT License (see `LICENSE`).
-The source text (Project Gutenberg #1342) is in the public domain; Gutenberg headers and footers are stripped by `corpus_builder.py`.
-
-## Citation
-
-If you build on this work, please cite using the metadata in `CITATION.cff` (GitHub's "Cite this repository" button will format it for you).
-
-
-## Reproducibility improvements (implemented)
-
-- **Standardized paths:** scripts now default to `data/raw`, `data/processed`, and `figures` instead of relying on repo-root files.
-- **CLI parameters:** each script now accepts explicit input/output arguments for easier multi-run workflows.
-- **Run metadata:** analytical scripts now emit `run_metadata_*.json` files (timestamp, model, I/O paths, row counts).
-- **Workflow consistency:** README commands now mirror the actual default script behavior.
+│   └── processed/
+│
+├── figures/
+│
+└── paper/
+    └── Servan_Bakis_Pride_and_Prejudice_Gender_Agency.pdf
