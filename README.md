@@ -9,7 +9,7 @@ An undergraduate computational linguistics research project examining how gender
 **Course:** IDB 402 — Projects in Linguistics  
 **Year:** 2026
 
-> 📄 **[Read the full research paper](paper/austen-final-version.pdf)**
+> 📄 **[Read the full research paper](austen-final-version.pdf)**
 
 ---
 
