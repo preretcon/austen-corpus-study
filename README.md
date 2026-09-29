@@ -194,5 +194,4 @@ austen-corpus-study/
 │
 ├── figures/
 │
-└── paper/
-    └── Servan_Bakis_Pride_and_Prejudice_Gender_Agency.pdf
+└── paper.pdf
